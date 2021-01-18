@@ -1,0 +1,7071 @@
+
+[
+    {
+        "ID": 0,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 2,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 3,
+        "NAME": "ADAMJEE PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "Plot 39, Sector 15, Korangi Industrial Area, Karachi-75190,Pakistan",
+        "PHONE": 5050113,
+        "FAX": "BC"
+    },
+    {
+        "ID": 4,
+        "NAME": "ADFA SAN PHARMACEUTICALS.",
+        "ADDRESS": "Plot No.3-C Flat # 8 Babar Plaza, I-10 Markaz Islamabad,Pakistan",
+        "PHONE": "  92-51-44438734   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 5,
+        "NAME": "A.J. & COMPANY.",
+        "ADDRESS": "Mandviwala Chambers, Talpur Road, Karachi-74000,Pakistan",
+        "PHONE": "  92-21-2424772   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 6,
+        "NAME": "AKHAI PHARMACEUTICALS.",
+        "ADDRESS": "Akhai Arcade 103-K, Block-2, P.E.C.H.S., Shahra-e- Quaideen, Karachi-75400,Pakistan",
+        "PHONE": 4554127,
+        "FAX": "BC"
+    },
+    {
+        "ID": 7,
+        "NAME": "ALBRO PHARMA",
+        "ADDRESS": "304-S Industrial Estate, Kot Lakhpat. Lahore-54000,Pakistan",
+        "PHONE": "  92-42-5120298   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 8,
+        "NAME": "ALCON SCIENTIFIC SERVICE.",
+        "ADDRESS": "11-H, Block-6, P.E.C.H.S. Karachi,Pakistan",
+        "PHONE": "  92-21-4546616   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 9,
+        "NAME": "AL-HABIB PHARMACEUTICALS.",
+        "ADDRESS": "Abdullah House, 26-D, Block-A, S.M.C.H.Society Karachi,Pakistan",
+        "PHONE": 4535644,
+        "FAX": "BC"
+    },
+    {
+        "ID": 10,
+        "NAME": "AGP (PRIVATE) LTD.",
+        "ADDRESS": "B-23, S.I.TE., KARACHI KARACHI,PAKISTAN",
+        "PHONE": 32563559,
+        "FAX": "BC"
+    },
+    {
+        "ID": 11,
+        "NAME": "ALINA COMBINE PHARMACEUTICALS  (PVT) LTD.",
+        "ADDRESS": "208, Amber Estate, Block 7 & 8, Shahrah-e-Faisal, Karachi-75350,Pakistan",
+        "PHONE": "  92-21-34546716   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 12,
+        "NAME": "AMSON VACCINES & PHARMA (PVT) LTD.",
+        "ADDRESS": "154, Industrial Triangle, Kahuta Road, Islamabad,Pakistan",
+        "PHONE": "  (92-51) 5586291-2   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 13,
+        "NAME": "AMSTAR (PVT) LTD.",
+        "ADDRESS": "C/O Square Pharma Lahore,Pakistan"
+    },
+    {
+        "ID": 14,
+        "NAME": "ANFORDS PAK (PVT) LTD.",
+        "ADDRESS": "S.I.T.E. Karachi,Pakistan"
+    },
+    {
+        "ID": 15,
+        "NAME": "EURO PHARMA INTERNATIONAL",
+        "ADDRESS": "Plot No. DP-2, Sector: 12-D, North Karachi, Industrial Area, Karachi,Pakistan",
+        "PHONE": 6976216,
+        "FAX": "BC"
+    },
+    {
+        "ID": 16,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 17,
+        "NAME": "ATCO LABORATORIES LIMITED",
+        "ADDRESS": "B-18, S.I.T.E., Karachi-75700,Pakistan",
+        "PHONE": "  (92-21) 2563974   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 18,
+        "NAME": "ATLANTIC PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "89-D Industrial Estate, Jamrud Road, Peshawar,Pakistan",
+        "PHONE": "  0092-091-5812389   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 19,
+        "NAME": "SANOFI AVENTIS (PAKISTAN) LTD.",
+        "ADDRESS": "Aventis Limited. Plot No. 23, Sector No. 22 Korangi Industrial Area, Karachi-74900,Pakistan",
+        "PHONE": "  (92-21)5060358, 5060781   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 20,
+        "NAME": "BARRETT HODGSON PAKISTAN (PVT) LTD.",
+        "ADDRESS": "F/423, S.I.T.E.,P.O.Box No. 10738, Karachi-75700,Pakistan",
+        "PHONE": "  (92-21) 2573462, 2570650, 2578827   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 21,
+        "NAME": "BAYER SCHERING PHARMA.",
+        "ADDRESS": "Bahria Complex ll, 4th Floor, M.T. Khan Road, C/o Bayer Pakistan Private Limited Karachi,Pakistan",
+        "PHONE": "  5611759, 5611782, 5611694   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 22,
+        "NAME": "BENSON PHARAMCEUTICALS.",
+        "ADDRESS": "Plot No.119 St.No.08, I-10/3, Industrial Area, Islamabad,Pakistan",
+        "PHONE": "  051-4447292   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 23,
+        "NAME": "BEX PHARMA (PVT) LTD.",
+        "ADDRESS": "17-E3, Gulberg- II Lahore-54660,Pakistan",
+        "PHONE": 5750452,
+        "FAX": "BC"
+    },
+    {
+        "ID": 24,
+        "NAME": "BIOGENICS PAKISTAN (PVT) LTD.",
+        "ADDRESS": "201, Fortune Centre, Shahra-e- Faisal, P.E.C.H.S., Block-6, Karachi,Pakistan",
+        "PHONE": "  (92-21) 4545793   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 25,
+        "NAME": "PHARMA HEALTH PAKISTAN (PVT) LTD",
+        "ADDRESS": "6 Gulberg Complex, 2-Gulberg Road, Gulberg-5 Lahore-54660",
+        "PHONE": "  042-5712195   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 26,
+        "NAME": "BIOSYNTH PHARMA (PVT) LTD.",
+        "ADDRESS": "House # CB-680/4, Nawababad, Wah Cantt Rawalpindi,Pakistan",
+        "PHONE": "  051-4546798   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 27,
+        "NAME": "BLISS INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "255/2,Shahnawaz Bhutto Road, Karachi Karachi,Pakistan"
+    },
+    {
+        "ID": 28,
+        "NAME": "BOSCH PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "8, Modern Society, Tipu Sultan Road, Karachi-75350,Pakistan",
+        "PHONE": "  921-21-4545915   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 29,
+        "NAME": "BRISTOL- MYERS SQUIBB PAKISTAN (PVT) LTD.",
+        "ADDRESS": "C/o Glaxosmithkline Karachi-74900,Pakistan",
+        "PHONE": "  021-5013291   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 30,
+        "NAME": "BROOKES PHARMACEUTICAL LABORATORIES (PAK.) LTD.",
+        "ADDRESS": "Plot No.58, Sector No. 15, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": "  5060505, 5060005   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 31,
+        "NAME": "BRYON PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "203-B, City Tower, University Road, Peshawar,Pakistan",
+        "PHONE": "  091-844035   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 32,
+        "NAME": "BSN MEDICAL (PVT) LTD.",
+        "ADDRESS": "A-69, S.I.T.E., Manghopir Road, P.O. Box 3659, Karachi,Pakistan",
+        "PHONE": 2561322,
+        "FAX": "BC"
+    },
+    {
+        "ID": 33,
+        "NAME": "CEICIL LABORATORIES LTD.",
+        "ADDRESS": "21-Km, Ferozepur Road, Doolu Khurd, Lahore,Pakistan",
+        "PHONE": 5822323,
+        "FAX": "BC"
+    },
+    {
+        "ID": 34,
+        "NAME": "CENTURY PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "18-C 1st Floor 21st, East Street, Phase-1, D.H.A., Karachi-75500,Pakistan",
+        "PHONE": "  021-5396812   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 35,
+        "NAME": "CHAS. A. MENDOZA",
+        "ADDRESS": "Abdullah Square, 43/1/H, Block-6, Main Razi Road, P.E.C.H.S., Karachi-75400,Pakistan",
+        "PHONE": 4557379,
+        "FAX": "BC"
+    },
+    {
+        "ID": 36,
+        "NAME": "CHIESI PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "57-A, Block-G, Gulberg-III Lahore,Pakistan",
+        "PHONE": 5836786,
+        "FAX": "BC"
+    },
+    {
+        "ID": 37,
+        "NAME": "CIBEX (PRIVATE) LIMITED",
+        "ADDRESS": "F-405, SITE, Karachi Karachi-74000,Pakistan",
+        "PHONE": "  92-21-2589775   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 38,
+        "NAME": "CIRIN PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "32/2A Phase III, Industrial Estate, Hattar,Pakistan",
+        "PHONE": "  92-51-5523342   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 39,
+        "NAME": "CONSOLIDATED CHEMICAL LABORATORIES (PVT) LTD.",
+        "ADDRESS": "Javaid House. 22-A, Gulberg-ll, Lahore-54770,Pakistan",
+        "PHONE": "  042-5713624   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 40,
+        "NAME": "CONTINENTAL CHEMICAL COMPANY (PVT) LTD.",
+        "ADDRESS": "D-133, Tipu Sultan Road KDA Scheme # 1 Karachi,Pakistan",
+        "PHONE": 4546568,
+        "FAX": "BC"
+    },
+    {
+        "ID": 41,
+        "NAME": "DERMA TECHNO PAKISTAN",
+        "ADDRESS": "P-125 Gulberg II Lahore",
+        "PHONE": "  92-42-5758347   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 42,
+        "NAME": "DON VALLEY PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "49 Justice Akram House, Mozang Road Lahore-54660,Pakistan",
+        "PHONE": "  042-36301928   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 43,
+        "NAME": "DOSACO LABORATORIES",
+        "ADDRESS": "9.2- Km, Sheikhupura Road, Lahore,Pakistan",
+        "PHONE": "  92-21-7925394   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 44,
+        "NAME": "DR. RAZA PHARMA (PRIVATE) LIMITED",
+        "ADDRESS": "Plot-44-C, Industrial Estate, Hyatabad, Peshawar-25100,Pakistan",
+        "PHONE": "  92-91-5891564   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 45,
+        "NAME": "DRUG PHARM (PVT) LTD.",
+        "ADDRESS": "14, Al-Minar Medicine Market, Out side Lohari Gate Lahore,Pakistan"
+    },
+    {
+        "ID": 46,
+        "NAME": "EFROZE CHEMICAL INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "12-C, Block-6, P.E.C.H.S., Off Shahra-e-Faisal, Karachi-75400,Pakistan",
+        "PHONE": "  (92-21)4545266, 4523545   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 47,
+        "NAME": "ELI LILLY PAKISTAN (PVT) LTD.",
+        "ADDRESS": "14-A,14th Office Floor, Executive Tower, Dolmen City Block-4 Clifton Karachi-75600,Pakistan",
+        "PHONE": "  92-21-5290157   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 48,
+        "NAME": "ELITE PHARMA",
+        "ADDRESS": "9.5 K.m, Sheikhupura Road, Lahore,Pakistan",
+        "PHONE": "  92-42-7633071   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 49,
+        "NAME": "ELIXIR PAKISTAN",
+        "ADDRESS": "B-147, Block-5, Gulshan-e-Iqbal, Karachi,Pakistan",
+        "PHONE": "  92-21-4983304   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 50,
+        "NAME": "EPLA LABORATORIES (PVT) LTD.",
+        "ADDRESS": "D-12, Estate Avenue, S.I.T.E., Karachi-75700,Pakistan",
+        "PHONE": "  92-21-2561092,2577727   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 51,
+        "NAME": "EPOCH PHARMACEUTICAL",
+        "ADDRESS": "Plot No. 83-85, Sector 15, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": 5061940,
+        "FAX": "BC"
+    },
+    {
+        "ID": 52,
+        "NAME": "ETHICAL LABORATORIES (PVT) LTD.",
+        "ADDRESS": "26, Shahra-e-Quaid-e-Azam Lahore,Pakistan",
+        "PHONE": "  92-42-7244320   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 53,
+        "NAME": "EUROPAK PHARMA (PVT) LTD",
+        "ADDRESS": "FL # 04, 1st Floor, Al-Hamid Center, A-21, Off Kashmir Road Karachi,Pakistan",
+        "PHONE": "  021-4126580   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 54,
+        "NAME": "EVRON (PVT) LTD.",
+        "ADDRESS": "64-T,Gulberg II Lahore,Pakistan"
+    },
+    {
+        "ID": 55,
+        "NAME": "EXCEL HEALTHCARE LABORATORIES (PVT.) LTD.",
+        "ADDRESS": "D-122, Block-4, F.B. Area, Karachi-75950,Pakistan",
+        "PHONE": "  92-21-6368477,6367771   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 56,
+        "NAME": "FEDRO PHARMACEUTICAL",
+        "ADDRESS": "149, Industrial Estate, Jamrud Road Peshawar,Pakistan",
+        "PHONE": 5812767,
+        "FAX": "BC"
+    },
+    {
+        "ID": 57,
+        "NAME": "FEROZSONS LABORATOIES LTD.",
+        "ADDRESS": "197-A, The Mall, Rawalpindi,Pakistan",
+        "PHONE": "  (92-51) 5584195   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 58,
+        "NAME": "FERROZA INTERNATIONAL PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "824, Ravi Block, Allama Iqbal Town Lahore,Pakistan",
+        "PHONE": "  (92-42)7445995   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 59,
+        "NAME": "FIGS PHARMACEUTICALS",
+        "ADDRESS": "Suite #203, 2nd Floor, M. Yousuf Chambers, K.C.H.S, Near Duty Free Shop, Off: Shahrah-e-Faisal Karachi,Pakistan",
+        "PHONE": "  92-21-2438335   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 60,
+        "NAME": "FLOW PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "17- Km, Sheikhpura Road, Lahore,Pakistan",
+        "PHONE": "  042-7970553   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 61,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 62,
+        "NAME": "GASTRO CARE",
+        "ADDRESS": "703, Progressive Square, P.E.C.H.S., Shahra-e-Faisal, C/o RG Pharmaceuticals Karachi-75400,Pakistan",
+        "PHONE": 4310098,
+        "FAX": "BC"
+    },
+    {
+        "ID": 63,
+        "NAME": "GEMS PHARMA",
+        "ADDRESS": "C/O Delux Chemical A-310, Block-3 Gulshan-e-Iqbal Karachi"
+    },
+    {
+        "ID": 64,
+        "NAME": "GENESIS PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "71-A, Street No. 2, Cavalry Ground, Lahore Cantt, Lahore,Pakistan",
+        "PHONE": "  (92-42) 6669910   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 65,
+        "NAME": "GEOFMAN PHARMACEUTICALS",
+        "ADDRESS": "20/23, Korangi Industrial Area, Karachi-74900,Pakistan",
+        "PHONE": "  92-21-5062188   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 66,
+        "NAME": "GETZ PHARMA PAKISTAN (PVT) LTD.",
+        "ADDRESS": "30-31/27, Korangi Industrial Area, Karachi-74900,Pakistan",
+        "PHONE": "  (92-21)5060141, 5057592   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 67,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 68,
+        "NAME": "GLAXOSMITHKLINE",
+        "ADDRESS": "Sykes Building, 35-Dockyard Road West Wharf, Karachi-74000,Pakistan",
+        "PHONE": "  92-2314899, 2316074   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 69,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 70,
+        "NAME": "GLOBAL BRANDS DISTRIBUTORS",
+        "ADDRESS": "204, E.I. Lines, Dr. Daud Pota Road, Karachi,Pakistan",
+        "PHONE": 5654644,
+        "FAX": "BC"
+    },
+    {
+        "ID": 71,
+        "NAME": "GLOBAL PHARMACEUTICALS",
+        "ADDRESS": "Plot 204-205, Industrial Triangle, Kahuta Road, Islamabad,Pakistan",
+        "PHONE": "  051-4455025   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 72,
+        "NAME": "GOODMAN INTERNATIONAL,",
+        "ADDRESS": "E-3, Shah Plaza, O-961/F, Sauq-e-Idrees, Murree Road, Rawalpindi,Pakistan",
+        "PHONE": "  (051) 5532094   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 73,
+        "NAME": "HELIX PHARMA (PRIVATE) LIMITED",
+        "ADDRESS": "Hakimsons House, A-56, S.I.T.E., Manghopir Road, Karachi-75700,Pakistan",
+        "PHONE": "  92-21-2564393   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 74,
+        "NAME": "HAKIMSONS IMPEX (PVT) LTD.",
+        "ADDRESS": "Hakimsons Building, 19 West Wharf Road, Karachi,Pakistan",
+        "PHONE": 2312631,
+        "FAX": "BC"
+    },
+    {
+        "ID": 75,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 76,
+        "NAME": "HARMANN PHARMACEUTICAL LABORATORIES (PVT) LTD.",
+        "ADDRESS": "Post office Chung, 16-Km Multan Road, Lahore,Pakistan",
+        "PHONE": "  92-42-7510448   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 77,
+        "NAME": "HASSAN PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "99-A, Industrial Estate, Peshawar,Pakistan",
+        "PHONE": "  92-91-813947   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 78,
+        "NAME": "HELICON PHARMACEUTEK PAKISTAN (PVT) LTD.",
+        "ADDRESS": "3rd Floor, Room # 318 & 319 P.M.A Trade Centre 66 Ferozpur Road Lahore,Pakistan"
+    },
+    {
+        "ID": 79,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 80,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 81,
+        "NAME": "HIGH - Q INTERNATIONAL",
+        "ADDRESS": "B-64 KDA-1 Main Karsaz Road Karachi,Pakistan",
+        "PHONE": "  92-21-4312937   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 82,
+        "NAME": "HIGHNOON LABORATORIES LTD.",
+        "ADDRESS": "17.5-Km, Multan Road, Lahore,Pakistan",
+        "PHONE": "  92-42-7510037, 5711715   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 83,
+        "NAME": "HILTON PHARMA (PVT) LIMITED",
+        "ADDRESS": "801, 8th Floor, Progressive Plaza Beaumont Road, Karachi,Pakistan",
+        "PHONE": 5656497,
+        "FAX": "BC"
+    },
+    {
+        "ID": 84,
+        "NAME": "HIMONT PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "17-Km, Ferozepur Road, Lahore,Pakistan",
+        "PHONE": "  92-42-5814394   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 85,
+        "NAME": "HI-NET PHARMA",
+        "ADDRESS": "Karachi,Pakistan"
+    },
+    {
+        "ID": 86,
+        "NAME": "HIZAT PHARMACEUTICAL INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "170-Industrial Estate Jamrud Road Peshawar,Pakistan",
+        "PHONE": "  92-91-2216589   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 87,
+        "NAME": "HOSPITAL SUPPLY CORPORATTION",
+        "ADDRESS": "42, Darul Aman Society, Shahra-e-Faisal, Karachi,Pakistan",
+        "PHONE": 4547493,
+        "FAX": "BC"
+    },
+    {
+        "ID": 88,
+        "NAME": "HYAN PHARMA",
+        "ADDRESS": "16-T, Gulberg-ll, Lahore-54600,Pakistan",
+        "PHONE": "  92-42-5755057   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 89,
+        "NAME": "AVENTIS BEHRING",
+        "ADDRESS": "IBL HEALTH CARE (PVT) LTD., 9th Floor, NIC Building, Abbasi Shaheed Road, Karachi-75530,Pakistan",
+        "PHONE": "  5682772, 5683841   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 90,
+        "NAME": "MEADJOHNSON",
+        "ADDRESS": "C/O IBL HEALTH CARE (PVT) LTD., 9th Floor, NIC Building, Abbasi Shaheed Road, Karachi-75530,Pakistan",
+        "PHONE": "  5682772, 5683841   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 91,
+        "NAME": "ICI PAKISTAN LTD.",
+        "ADDRESS": "ICI House, 5 West Wharf, P.O. Box 4731, Karachi,Pakistan",
+        "PHONE": "  (92-21)2313431   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 92,
+        "NAME": "IDEAL PHARMACEUTICAL INDUSTRIES",
+        "ADDRESS": "16-17 Ist Floor ,Mian Arcade, 130-C Ferozepur Road. Ichhra Lahore,Pakistan",
+        "PHONE": "  42-7593101   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 93,
+        "NAME": "INDUS PHARMA (PVT) LTD.",
+        "ADDRESS": "Plot No.6, Iqbal Arcade, Mezzanine FloorPlot A-26,K.E.C.S.H, UCA Block 7/8 Shaheed e Millat Road Karachi,Pakistan",
+        "PHONE": 4535255,
+        "FAX": "BC"
+    },
+    {
+        "ID": 94,
+        "NAME": "INNVOTEK PHARMACEUTICALS",
+        "ADDRESS": "# 35, Industrial Estate Triangle Kahuta Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 95,
+        "NAME": "IRZA PHARMA (PVT) LTD.",
+        "ADDRESS": "109, College Road, G.O.R.I. Shahrah-e-Quaid-e-Azam, Lahore,Pakistan",
+        "PHONE": "  (92-42) 6365632   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 96,
+        "NAME": "JANSSEN-CILAG",
+        "ADDRESS": "A division of Johnson & Johnson Pakistan (Pvt) Ltd., Karachi,Pakistan",
+        "PHONE": 5045029,
+        "FAX": "BC"
+    },
+    {
+        "ID": 97,
+        "NAME": "KARACHI CHEMICAL INDUSTRIES",
+        "ADDRESS": "F-25, Estate Avenue, S.I.T.E., Karachi-75730,Pakistan",
+        "PHONE": "  21-2561574   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 98,
+        "NAME": "KARACHI PHARMACEUTICAL LABORATORY",
+        "ADDRESS": "Plot No. S/54 , Maripur Road S.I.T.E., Karachi,Pakistan",
+        "PHONE": 2564899,
+        "FAX": "BC"
+    },
+    {
+        "ID": 99,
+        "NAME": "GENIX PHARMA (PVT) LTD",
+        "ADDRESS": "44,45-B, Korangi Creek Road, Karachi-75190,Pakistan",
+        "PHONE": "  (021) 111-10-10-22   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 100,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 101,
+        "NAME": "KOBEC PHARMACALS",
+        "ADDRESS": "28-Saint Johns Park, Lahore Cantt Lahore-54810,Pakistan",
+        "PHONE": "  (92-42)6660581   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 102,
+        "NAME": "KRKA-PAK PHARMACEUTICAL & CHEMICAL WORKS",
+        "ADDRESS": "307, Wahab Archade M.A.Jinnah Road Karachi, Karachi, Sindh Karachi,Pakistan",
+        "PHONE": 2629654,
+        "FAX": "BC"
+    },
+    {
+        "ID": 103,
+        "NAME": "LAHORE CHEMICAL & PHARMACEUTICAL WORKS (PVT) LTD",
+        "ADDRESS": "137,Ferozepur Road, C/o LCPW Lahore-54600,Pakistan",
+        "PHONE": "  92-42-7588987-8   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 104,
+        "NAME": "LEAMA CHEMI PHARMA (PVT.) LTD.",
+        "ADDRESS": "37-A, Industrial Estate, Jamrud Road, Peshawar,Pakistan",
+        "PHONE": "  091-5824562   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 105,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 106,
+        "NAME": "LIBRA PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "77, Industrial Estate, Jamrud Road, Peshawar,Pakistan",
+        "PHONE": "  (92-91) 814915   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 107,
+        "NAME": "LLOYDS PHARMACEUTICALS",
+        "ADDRESS": "286, Kahuta Industrial Triangle, Kahuta Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 108,
+        "NAME": "LUNDBECK PAKISTAN (PVT) LTD.",
+        "ADDRESS": "40 T/4, Blessing Street Block -6 P.E.C.H.S Karachi,Pakistan",
+        "PHONE": "  +9221 34392573   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 109,
+        "NAME": "MACRICHSON INTERNATIONAL"
+    },
+    {
+        "ID": 110,
+        "NAME": "MACTER INTERNATIONAL (PVT) LTD.",
+        "ADDRESS": "F-216, S.I.T.E Karachi-75700,Pakistan",
+        "PHONE": "  92-21-2564236   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 111,
+        "NAME": "MARTIN DOW PHARMACEUTICALS (PAK) LTD.",
+        "ADDRESS": "45 - KM, Multan Road Lahore-75400,Pakistan",
+        "PHONE": "  (92-21)4532640   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 112,
+        "NAME": "MARTINDALE HEALTH CARE",
+        "ADDRESS": "111, Amber Pride, 13-A Block-6 P.E.C.H.S., Main Shahra-e-Faisal, Karachi,Pakistan",
+        "PHONE": "  4543986, 6630159   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 113,
+        "NAME": "MARVI LABORATORIES",
+        "ADDRESS": "Plot No.70 Sector 24, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": 5055388,
+        "FAX": "BC"
+    },
+    {
+        "ID": 114,
+        "NAME": "MASS PHARMA (PRIVATE) LIMITED",
+        "ADDRESS": "515-A, Faisal Town, *17 Km, Ferozepur Lahore,Pakistan",
+        "PHONE": "  (92-42)5162831   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 115,
+        "NAME": "MATRIX PHARMA",
+        "ADDRESS": "Plot No. 12 Sector 15, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": 5050114,
+        "FAX": "BC"
+    },
+    {
+        "ID": 116,
+        "NAME": "MEDIAIMS PHARMACEUTICALS",
+        "ADDRESS": "62, Tipu Block, New Garden Town, Lahore,Pakistan",
+        "PHONE": "  92-42-5881204   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 117,
+        "NAME": "MEDICAIDS PAKISTAN (PVT) LTD.",
+        "ADDRESS": "Plot No. 10 Sector 27, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": "  92-21-5054447   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 118,
+        "NAME": "MEDICRAFT PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "126-B, Industrial Estate, Jamrud Road, Peshawar,Pakistan",
+        "PHONE": "  92-91-816658   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 119,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 120,
+        "NAME": "MEDIMPEX SCIENTIFIC OFFICE",
+        "ADDRESS": "D-39, Block-F, North Nazimabad, Karachi-74700,Pakistan",
+        "PHONE": "  92-21-6642591   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 121,
+        "NAME": "MEDISURE LABORATORIES PAKISTAN (PVT.) LTD.",
+        "ADDRESS": "C-145,K.D.A. Scheme#1,Off Karsaz Road, Karachi,Pakistan",
+        "PHONE": "  92-21-4938068,4923755   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 122,
+        "NAME": "MEDIPAK LIMITED",
+        "ADDRESS": "132/1, Industrial Estate, Kot Lakhpat, Lahore,Pakistan",
+        "PHONE": "  042-5114929   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 123,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 124,
+        "NAME": "MEDITEC INTERNATIONAL",
+        "ADDRESS": "Karachi,Pakistan"
+    },
+    {
+        "ID": 125,
+        "NAME": "MEEZAB INTERNATIONAL",
+        "ADDRESS": "C-33, Citizen Co-op. H.Society, Hyderabad, Sindh, Hyderabad,Pakistan",
+        "PHONE": "  9222-2620220   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 126,
+        "NAME": "MERCK PRIVATE LTD.",
+        "ADDRESS": "D-7, Shaheed-e-Millat Road, P.O. Box 13021 Karachi-75350,Pakistan",
+        "PHONE": "  021,4535294, 4559221   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 127,
+        "NAME": "MERCK SHARP & DHOME OF PAKISTAN LTD.",
+        "ADDRESS": "91 Clifton Shara-e Iran Block-5 C/o OBS Karachi-75600,Pakistan",
+        "PHONE": "  92-21-35293421-22   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 128,
+        "NAME": "MIAN BROTHERS LABORATORIES (PVT) LTD.",
+        "ADDRESS": "112/10, Industrial State, Township. Lahore,Pakistan",
+        "PHONE": "  042-5110906   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 129,
+        "NAME": "MULLER & PHIPPS PAKISTAN (PVT) LTD.",
+        "ADDRESS": "2nd, Floor Din Arcade, Uzma Court Main Clifton Road Karachi,Pakistan",
+        "PHONE": "  92-21-5870922   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 130,
+        "NAME": "MULTICARE DISTRIBUTION SERVICES (PVT) LTD.",
+        "ADDRESS": "77-F,Off Imam Ahmed Road Bolck-6, P.E.C.H.S., Karachi-74500,Pakistan",
+        "PHONE": "  (92-21)4541990   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 131,
+        "NAME": "MUNAWAR PHARMA (PVT) LTD.",
+        "ADDRESS": "224-A, First Floor, New Muslim Town, Lahore,Pakistan",
+        "PHONE": "  92-42-5841328   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 132,
+        "NAME": "NABIQASIM INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "509-510, 5th Floor, Commerce Center, Hasrat Mohani Road, Karachi-74200,Pakistan",
+        "PHONE": 32636313,
+        "FAX": "BC"
+    },
+    {
+        "ID": 133,
+        "NAME": "NAFAR PHARMACEUTICALS LAB. (PVT) LTD.",
+        "ADDRESS": "27/28-B Industrial Estate, Jamrud Road Peshawar,Pakistan",
+        "PHONE": 825616,
+        "FAX": "BC"
+    },
+    {
+        "ID": 134,
+        "NAME": "NENZA PHARMACEUTICALS (PVT) LIMITED",
+        "ADDRESS": "33-A, Industrial Estate Hayatabad, Peshawar,Pakistan",
+        "PHONE": "  92-91-818184   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 135,
+        "NAME": "NEO MEDIX",
+        "ADDRESS": "Plot 5, Street N-5, RCCI, Industrial Estate, Rawat Islamabad,Pakistan",
+        "PHONE": "  (92-51) 5518162   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 136,
+        "NAME": "NEUTRO PHARMA (PVT) LTD.",
+        "ADDRESS": "9.5 Km, Seikhupoura Road Lahore,Pakistan",
+        "PHONE": "  92-42-7915791   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 137,
+        "NAME": "NOVARTIS PHARMA  (PAK) LTD",
+        "ADDRESS": "15,West Wharf Road, Karachi-74000,Pakistan",
+        "PHONE": 2310241,
+        "FAX": "BC"
+    },
+    {
+        "ID": 138,
+        "NAME": "NOVO NORDISK SCIENTIFIC OFFICE",
+        "ADDRESS": "Scientific Office Pakistan 113, Shahra-e-Iran, Clifton, Karachi,Pakistan",
+        "PHONE": "  92-21-5831058   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 139,
+        "NAME": "OBSONS PHARMACEUTICALS",
+        "ADDRESS": "209-S, Industrial Estate, Kot Lakhpat, Lahore,Pakistan",
+        "PHONE": "  92-42-5118954   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 140,
+        "NAME": "OPAL LABORATORIES (PVT) LTD.",
+        "ADDRESS": "LC-41, L.I.T.E. Landhi, Karachi,Pakistan",
+        "PHONE": "  (92-21) 5020785   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 141,
+        "NAME": "ORGANON PAKISTAN (PVT) LTD.",
+        "ADDRESS": "36-A/1 Lalazar Near M.T.Khan Road (opp Beach Luxury Hotel) C/o OBS Health Care Karachi-7400,Pakistan",
+        "PHONE": 5611893,
+        "FAX": "BC"
+    },
+    {
+        "ID": 142,
+        "NAME": "ORTA LABS. (PVT) LTD.",
+        "ADDRESS": "92-C, Model Town, Lahore,Pakistan",
+        "PHONE": 5832080,
+        "FAX": "BC"
+    },
+    {
+        "ID": 143,
+        "NAME": "OTSUKA PAKISTAN LTD.",
+        "ADDRESS": "30-B, Sindhi Muslim Co-operative Housing Society, Karachi-74400,Pakistan",
+        "PHONE": "  92-21-4549857   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 144,
+        "NAME": "PACIFIC PHARMACEUTICALS LTD.",
+        "ADDRESS": "30-Km, Multan Road, Lahore,Pakistan",
+        "PHONE": "  92-42-7541354   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 145,
+        "NAME": "PAKISTAN PHARMACEUTICAL PRODUCTS (PVT) LTD.",
+        "ADDRESS": "301-5, 3rd Floor, Kavaish Crown Centre, D.M.C.H. Society, Shahra-e-Faisal, Karachi,Pakistan",
+        "PHONE": 4389472,
+        "FAX": "BC"
+    },
+    {
+        "ID": 146,
+        "NAME": "PARAMOUNT PHARMACEUTICALS",
+        "ADDRESS": "36 - Industrial Triangle Kahuta Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 147,
+        "NAME": "PARKE DAVIS & COMPANY LTD.",
+        "ADDRESS": "B-2, S.I.T.E., C/o Pfizer Karachi-75700,Pakistan",
+        "PHONE": "  92-21-2564520-2577023   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 148,
+        "NAME": "P.D.H. PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "9.5 KM, Sheikhupura Road Lahore,Pakistan",
+        "PHONE": "  (92-42) 5823425   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 149,
+        "NAME": "PEARL PHARMACEUTICALS",
+        "ADDRESS": "204, Street No-1, I-10/3, Industrial Area, Islamabad,Pakistan",
+        "PHONE": "  (92-51) 4441840   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 150,
+        "NAME": "PFIZER LABORATORIES LTD.",
+        "ADDRESS": "12, Dockyard Road, West Wharf, Karachi-74000,Pakistan",
+        "PHONE": "  021-2204451   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 151,
+        "NAME": "PHARMACARE LABORATORIES (PVT) LTD.",
+        "ADDRESS": "129/1, Industrial Estate, Kot Lakhpat, Lahore,Pakistan",
+        "PHONE": "  92-42-5117577   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 152,
+        "NAME": "PHARMACIA & UP JOHN (PVT) LTD.",
+        "ADDRESS": "Industrial Triangle, Kahuta Road, Islamabad,Pakistan",
+        "PHONE": 51,
+        "FAX": "BC"
+    },
+    {
+        "ID": 153,
+        "NAME": "PHAR-MAN LABORATORIES",
+        "ADDRESS": "64-C, 11th Commercial Street, Phase ll Extension, D.H. Authority, Karachi,Pakistan",
+        "PHONE": "  92-21-5892720   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 154,
+        "NAME": "PHARMATEC PAKISTAN (PVT) LTD.",
+        "ADDRESS": "D - 86 / A, S. I. T. E., Manghopir Road, Karachi-75700,Pakistan",
+        "PHONE": "  92-21-2561330   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 155,
+        "NAME": "PHARMAWISE LABS. (PVT) LTD.",
+        "ADDRESS": "25-M, Quaid-e- Azam, Industrial Estate Kot Lakhpat, Lahore,Pakistan",
+        "PHONE": "  042-5116574   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 156,
+        "NAME": "PHARMEDIC  (PVT) LTD.",
+        "ADDRESS": "16-Km, Multan Road, Lahore,Pakistan",
+        "PHONE": "  92-42-7511396   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 157,
+        "NAME": "PHARMEVO (PVT) LTD.",
+        "ADDRESS": "402, Business Avenue, Block 6, P.E.C.H.S., Shahra-e-Faisal, Karachi-75400,Pakistan",
+        "PHONE": "  92-21-4750487-4556344   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 158,
+        "NAME": "PHARMIX LABORATORIES (PRIVATE) LIMITED.",
+        "ADDRESS": "21-KM, Ferozepur Road, Lahore,Pakistan",
+        "PHONE": "  (92-42) 5271181   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 159,
+        "NAME": "PLATINUM PHARMACEUTICALS (PVT.) LTD.",
+        "ADDRESS": "A-20, North Western Industrial Zone, Bin Qasim, Karachi,Pakistan",
+        "PHONE": "  (92-0201) 750229   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 160,
+        "NAME": "PLIVA PAKISTAN (PVT) LIMITED",
+        "ADDRESS": "498-F, Hume Road, Opp. Islamia College Block 6 P.E.C.H.S Karachi-74500,Pakistan",
+        "PHONE": 4927410,
+        "FAX": "BC"
+    },
+    {
+        "ID": 161,
+        "NAME": "POPULAR CHEMICAL WORKS  (PVT) LTD.",
+        "ADDRESS": "9-Km, Sheikhupura Road, P.O. Box-527, Lahore,Pakistan",
+        "PHONE": "  92-42-7924044   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 162,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 163,
+        "NAME": "PROGRESSIVE LABORATORIES",
+        "ADDRESS": "C/19-2219, Down House Shahi Bazar Hyderabad-71000,Pakistan"
+    },
+    {
+        "ID": 164,
+        "NAME": "PULSE PHARMACEUTICALS",
+        "ADDRESS": "17-A, HBFC , A Block Faisal Town Lahore",
+        "PHONE": "  042-5179012   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 165,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 166,
+        "NAME": "QURESHI PHARMA (PVT) LTD.",
+        "ADDRESS": "M-2, Manzoor Square Building, Plaza Quarters, Karachi,Pakistan",
+        "PHONE": 2734836,
+        "FAX": "BC"
+    },
+    {
+        "ID": 167,
+        "NAME": "RAAZEE THERAPUTICS (PVT) LTD.",
+        "ADDRESS": "65/3, Syed Maratib Ali Road, F.C.C Gulberg-IV Lahore,Pakistan",
+        "PHONE": "  (92-42)5751250   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 168,
+        "NAME": "RAKAPOSHI PHARMACEUTICAL (PVT) LTD.",
+        "ADDRESS": "97-K, Industrial Estate, Jamrud Road,Hayatabad Peshawar-25000,Pakistan",
+        "PHONE": "  92-91-819646   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 169,
+        "NAME": "RECKITT BENCKISER PAKISTAN LTD.",
+        "ADDRESS": "11th Floor, State Life Building No, 11, Abdullah Haroon Road, Karachi-74400,Pakistan",
+        "PHONE": "  5687104-6   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 170,
+        "NAME": "REKO PHARMACAL (PVT) LTD.",
+        "ADDRESS": "13-Km Multan Road, Lahore-57300,Pakistan",
+        "PHONE": "  92-21-5411533   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 171,
+        "NAME": "RENAL CARE",
+        "ADDRESS": "703, Progressive Square, P.E.C.H.S., Shahra-e-Faisal, Karachi-75400,Pakistan",
+        "PHONE": 4310098,
+        "FAX": "BC"
+    },
+    {
+        "ID": 172,
+        "NAME": "ROCHE PAKISTAN LTD.",
+        "ADDRESS": "37-C, Block 6, P.E.C.H.S., Karachi-75400,Pakistan",
+        "PHONE": 4549563,
+        "FAX": "BC"
+    },
+    {
+        "ID": 173,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 174,
+        "NAME": "ROYAL CONSUMER MANUFACTURING COMPANY",
+        "ADDRESS": "Karachi,Pakistan"
+    },
+    {
+        "ID": 175,
+        "NAME": "ROYAL DERMA",
+        "ADDRESS": "1-5, Byculla Mansion, Opp. ARKAY Square, New Chali Karachi,Pakistan",
+        "PHONE": "  92-21-2142154   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 176,
+        "NAME": "R.Y. INTERNATIONAL",
+        "ADDRESS": "6-U, Block-6, P.E.C.H.S., Nursery, Karachi,Pakistan",
+        "PHONE": "  92-21-4548454   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 177,
+        "NAME": "SAIA PHARMACEUTICALS",
+        "ADDRESS": "29/3, Block 3, Road #2,Bhaudrabad, Karachi,Pakistan",
+        "PHONE": 34135485,
+        "FAX": "BC"
+    },
+    {
+        "ID": 178,
+        "NAME": "SAMI PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "34-C, Block-6, P.E.C.H.S, Karachi-75350,Pakistan",
+        "PHONE": "  92-21-2563934, 4549190   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 179,
+        "NAME": "SANITAL PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "No. M-1895-B/9, Chandni Chowk, Murree Road, C/o Angelini Rawalpindi,Pakistan",
+        "PHONE": 4424183,
+        "FAX": "BC"
+    },
+    {
+        "ID": 180,
+        "NAME": "SANTE (PVT) LIMITED",
+        "ADDRESS": "245/2-Z P.E.C.H.S Block-6 Karachi-75400,Pakistan",
+        "PHONE": 4548847,
+        "FAX": "BC"
+    },
+    {
+        "ID": 181,
+        "NAME": "SAYDON PHARMACEUTICAL INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "77-A, Industrial Estate, Hayatabad, Peshawar,Pakistan",
+        "PHONE": "  92-91-5817900,5816700   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 182,
+        "NAME": "SCHARPER PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "190-A/1, Gulberg-lll, Lahore-54000,Pakistan",
+        "PHONE": "  92-42-5753526   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 183,
+        "NAME": "SCHERING ASIA GMBH",
+        "ADDRESS": "Pakistan Branch 11/1, Block-B, Model Town, C/o Bayer Schering Pharma Lahore,Pakistan",
+        "PHONE": "  042-5866895   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 184,
+        "NAME": "SEARLE PAKISTAN  (PVT.) LTD.",
+        "ADDRESS": "1st Floor, N.I.C. Building, Abbasi Shaheed Road, Karachi-75530,Pakistan",
+        "PHONE": "  (92-21) 5687693, 5674593   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 185,
+        "NAME": "SEIGNIOR PHARMA",
+        "ADDRESS": "Mezzanine Floor, Al-Madina Arcade, Plot #.3/4,Block-3, P.E.C.H.S., Khalid Bin Walid Road, Karachi-75400,Pakistan",
+        "PHONE": 4531316,
+        "FAX": "BC"
+    },
+    {
+        "ID": 186,
+        "NAME": "SEMOS PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "Plot No. 11, Sector 12-A, North Karachi Industrial Area, Karachi-75850,Pakistan",
+        "PHONE": "  92-21-6981277   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 187,
+        "NAME": "SERVIER RESEARCH & PHARMACEUTICALS PAKISTAN (PVT) LTD.",
+        "ADDRESS": "65-Main Boulevard, Gulberg, Lahore 710, Bus Lahore,Pakistan",
+        "PHONE": "  ,92-42-5878855,5832873, 5883340   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 188,
+        "NAME": "SHAIGAN PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "14th Km., Adyala Road, Post Office Dhagal. Rawalpindi,Pakistan",
+        "PHONE": "  051- 5573437 , 5574563   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 189,
+        "NAME": "SHEPHERD TRANSNATIONAL PHARMACEUTICAL (PVT) LTD.",
+        "ADDRESS": "9-F, Fatima Centre, 14-Queens Road, Lahore,Pakistan",
+        "PHONE": "  042-6308581   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 190,
+        "NAME": "SHROOQ PHARMACEUTICALS",
+        "ADDRESS": "21 km, Feroz Pur Road, Behind Masjid-e-Ibrahim, Lahore,Pakistan",
+        "PHONE": "  92-42-5274031   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 191,
+        "NAME": "SIND MEDICAL STORES",
+        "ADDRESS": "13-B, Block 6, P.E.C.H.S, Shahrah-e-Faisal Karachi,Pakistan",
+        "PHONE": 4384084,
+        "FAX": "BC"
+    },
+    {
+        "ID": 192,
+        "NAME": "SIZA INTERNATIONAL (PVT) LTD.",
+        "ADDRESS": "65/2, Syed Maratib Ali Road, F.C.C. Gulberg lV, Lahore-54660,Pakistan",
+        "PHONE": "  (92-42) 5751250   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 193,
+        "NAME": "S.J. & G. FAZUL ELLAHIE (PVT) LTD.",
+        "ADDRESS": "17, Maqbool Co-operative Housing Society Block 7 & 8. Lal Mohammad Choudhry Road, Karachi-75350,Pakistan",
+        "PHONE": "  4528708-9   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 194,
+        "NAME": "SOCIAL MARKETING PAKISTAN (GUARANTEE) LTD.",
+        "ADDRESS": "Technology Park Karachi,Pakistan",
+        "PHONE": "  021-32803169   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 195,
+        "NAME": "SPENCER PHARMA",
+        "ADDRESS": "Beach Luxury Hotel, M.T. Khan Road, Karachi-74000,Pakistan",
+        "PHONE": "  (92-21) 5611289   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 196,
+        "NAME": "STANDPHARM PAKISTAN (PVT) LTD.",
+        "ADDRESS": "20-Km, Ferozepur Road, Lahore-53000,Pakistan",
+        "PHONE": "  042-5822006   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 197,
+        "NAME": "STANLEY PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "84-B, Industrial Estate, Jamrud Road, Peshawar,Pakistan",
+        "PHONE": 818963,
+        "FAX": "BC"
+    },
+    {
+        "ID": 198,
+        "NAME": "STIEFEL LABORATORIES PAKISTAN (PVT) LTD.",
+        "ADDRESS": "2 - K/1, Model Town, Lahore,Pakistan",
+        "PHONE": "  (92-42) 5830239   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 199,
+        "NAME": "SWISS PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "Ist Floor Mehran Chambers, Medicine Street # 2 Karachi-75400,Pakistan",
+        "PHONE": 2413935,
+        "FAX": "BC"
+    },
+    {
+        "ID": 200,
+        "NAME": "TABROS PHARMA",
+        "ADDRESS": "Essa House, 32-1-C, Block-6, P.E.C.H.S., Karachi-75400,Pakistan",
+        "PHONE": "  21-4532898, 34544638   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 201,
+        "NAME": "TAGMA PHARMA (PVT) LTD.",
+        "ADDRESS": "Suite No.1, 4th Floor, Sharjah Centre, Shadman Market Lahore,Pakistan",
+        "PHONE": "  (92-42) 5320268,7561404   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 202,
+        "NAME": "TAYYEBI DAWAKHANA (PVT) LTD.",
+        "ADDRESS": "ll-B-4, Commercial Area Nazimabad No. 2, Karachi,Pakistan",
+        "PHONE": 6682683,
+        "FAX": "BC"
+    },
+    {
+        "ID": 203,
+        "NAME": "THE EASTERN TRADE &  DISTRIBUTION CO. (PVT) LTD.",
+        "ADDRESS": "5th Floor, Commerce Centre, Hasrat Mohani Road Karachi,Pakistan",
+        "PHONE": "  (92-21) 2630456   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 204,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 205,
+        "NAME": "TURNER GRAHAMS OF PAKISTAN (PVT) LTD.",
+        "ADDRESS": "3, Mandviwala Chambers, Talpur Road, C/o Pharmachemie Karachi-74000,Pakistan",
+        "PHONE": "  2428566, 2415797   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 206,
+        "NAME": "UCB PHARMA",
+        "ADDRESS": "D-109, S.I.T.E., C/o GSK Karachi-75700,Pakistan",
+        "PHONE": 2581244,
+        "FAX": "BC"
+    },
+    {
+        "ID": 207,
+        "NAME": "UMAIR ASSOCIATES",
+        "ADDRESS": "Allahwala Building, Medicine Street No. 1, Denso Hall, Karachi,Pakistan",
+        "PHONE": "  92-21-2348108   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 208,
+        "NAME": "UNEXO LABS (PVT) LTD.",
+        "ADDRESS": "235, Ravi Park, Lahore,Pakistan",
+        "PHONE": "  92-42-7707913   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 209,
+        "NAME": "UNIBRANDS (PVT) LTD.",
+        "ADDRESS": "3rd Floor, Services Mess Extention, Mereweather Road, Karachi-75530,Pakistan",
+        "PHONE": 5683204,
+        "FAX": "BC"
+    },
+    {
+        "ID": 210,
+        "NAME": "USMANCO INTERNATIONAL",
+        "ADDRESS": "33-C, Block-2, P.E.C.H.S., Masjid-e-Tayyaba Road, Karachi-75400,Pakistan",
+        "PHONE": "  92-21-4520227   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 211,
+        "NAME": "VARIOLINE INTERNATIONAL (PVT) LTD.",
+        "ADDRESS": "60-Mazz Floor., Land Mark Plaza, 5/6, Jail Road, Lahore,Pakistan",
+        "PHONE": "  42-7587282   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 212,
+        "NAME": "VENTURE CHEMICAL &  PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "D-90, Block-2, Scheme 5, Kehkashan, Clifton Karachi,Pakistan",
+        "PHONE": 5376156,
+        "FAX": "BC"
+    },
+    {
+        "ID": 213,
+        "NAME": "VENUS PHARMA",
+        "ADDRESS": "23-Km, Multan Road, Lahore,Pakistan",
+        "PHONE": "  92-42-7122983   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 214,
+        "NAME": "BIOREX PHARMACEUTICALS",
+        "ADDRESS": "251-A, Kahuta Industrial Triangle, Islamabad-46000,Pakistan",
+        "PHONE": "  +92-51-4490344   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 215,
+        "NAME": "WERRICK PHARMACEUTICALS",
+        "ADDRESS": "Plot No. 216-217, I - 10/3 Industrial Area, Islamabad,Pakistan",
+        "PHONE": "  92-51-2828570   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 216,
+        "NAME": "WILSHIRE LABORATORIES (PVT) LTD.",
+        "ADDRESS": "124/1, Quaid-e-Azam Industrial Estate, Kot Lakhpat, Lahore,Pakistan",
+        "PHONE": "  92-42-35151721   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 217,
+        "NAME": "WILSONS PHARMACEUTICALS",
+        "ADDRESS": "317-318, I-9, Industrial Area. Islamabad,Pakistan",
+        "PHONE": "  92-51-584474   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 218,
+        "NAME": "W.WOODWARD  PAKISTAN (PVT)  LTD.",
+        "ADDRESS": "41, Bahadur Yar Jang Society, Amir Khusro Rd, Karachi-76400,Pakistan",
+        "PHONE": "  92-21-4545794   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 219,
+        "NAME": "WYETH PAKISTAN LIMITED",
+        "ADDRESS": "S-33, Hawkes Bay Road, S.I.T.E., P.O. Box No. 167, C/o Pfizer Karachi,Pakistan",
+        "PHONE": 25564428,
+        "FAX": "BC"
+    },
+    {
+        "ID": 220,
+        "NAME": "XENON PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "9-5-Km, Sheikhupura Road, Lahore,Pakistan",
+        "PHONE": "  042-7929540   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 221,
+        "NAME": "ZAFA PHARMACEUTICAL LABORATORIES (PVT) LTD.",
+        "ADDRESS": "L-1/B, Block 22, Federal \"B\" Industrial Area, Karachi-75950,Pakistan",
+        "PHONE": "  6346761, 6312814   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 222,
+        "NAME": "ZAM ZAM CORPORATION",
+        "ADDRESS": "Room # 11/15 & 16, Ground Floor, Beaumont Plaza, 6-CL-10 Beaumont Road, Karachi,Pakistan",
+        "PHONE": "  92-21-5689481   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 223,
+        "NAME": "LAHORE PHARMA",
+        "ADDRESS": "9-Km, Sheikhupura Road, Lahore,Pakistan",
+        "PHONE": "  (92-42)7932654   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 224,
+        "NAME": "AKBAR BROTHERS.",
+        "ADDRESS": "20, Masson Road, Lahore,Pakistan",
+        "PHONE": "  6310008, 111-111-555   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 225,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 226,
+        "NAME": "AL-HAMEED AGENCIES (PVT) LTD.",
+        "ADDRESS": "187-C, Mayo Road, Rawalpindi,Pakistan",
+        "PHONE": "  5584800, 5564255   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 227,
+        "NAME": "AKSON PHARMACEUTICALS  (PVT) LTD.",
+        "ADDRESS": "Plot No. 9B-1 & 2, Sector D/1, Old Industrial Area, Mirpur, Azad Kashmir,Pakistan",
+        "PHONE": "  058610-46317   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 228,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 229,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 230,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 231,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 232,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 233,
+        "NAME": "AMROS  PHARMACEUTICALS.",
+        "ADDRESS": "434-435, 4th Floor, Hoor Center, N. Napier Road. Karachi,Pakistan",
+        "PHONE": 2773979,
+        "FAX": "BC"
+    },
+    {
+        "ID": 234,
+        "NAME": "ANKAZ PHARMEX (PVT) LTD.",
+        "ADDRESS": "Plot No.24, Sector 12-A, North Karachi Industrial Area. Karachi,Pakistan",
+        "PHONE": "  92-42-6920603   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 235,
+        "NAME": "BIO PHARMA",
+        "ADDRESS": "97 A-1, Gulgasht, Multan,Pakistan",
+        "PHONE": "  061-524270   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 236,
+        "NAME": "B. BRAUN PAKISTAN (PVT) LTD.",
+        "ADDRESS": "2nd Floor,141-D, Block-2 P.E.C.H.S Karachi,Pakistan",
+        "PHONE": 4541002,
+        "FAX": "BC"
+    },
+    {
+        "ID": 237,
+        "NAME": "BLOOM PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "House # 104, Hali Road, Street No.11, Westridge 1, Rawalpindi,Pakistan",
+        "PHONE": "  (92-51) 5476029   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 238,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 239,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 240,
+        "NAME": "ASTA MEDICA AG",
+        "ADDRESS": "C/o Ali Gohar Pharmaceuticals (Pvt.) Ltd., B-23, S.I.T.E. Karachi,Pakistan",
+        "PHONE": 2563559,
+        "FAX": "BC"
+    },
+    {
+        "ID": 241,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 242,
+        "NAME": "POPULAR INTERNATIONAL (PVT) LTD., BAYER BIOLOGICAL DIVISION",
+        "ADDRESS": "Z-517, Stadium Road, C/o Talecris Karachi,Pakistan",
+        "PHONE": 4941745,
+        "FAX": "BC"
+    },
+    {
+        "ID": 243,
+        "NAME": "BECTON DICKINSON SERVICES (PVT) LTD.",
+        "ADDRESS": "60 Main Boulevard Gulberg, Lahore,Pakistan",
+        "PHONE": "  92-42-5718056   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 244,
+        "NAME": "BEAUFOUR IPSEN INTERNATIONAL, FRANCE",
+        "ADDRESS": "C/o Atco Laboratory (Pvt.) Ltd. ,France"
+    },
+    {
+        "ID": 245,
+        "NAME": "BERNA PRODUCTS, SWISS SERUM AND VACCINE INSTITUTE, SWITZERLAND",
+        "ADDRESS": "C/o Hakimsons Impex (Pvt.) Ltd., Hakimsons Bldg, 19 West Wharf, Karachi,Pakistan",
+        "PHONE": 2312631,
+        "FAX": "BC"
+    },
+    {
+        "ID": 246,
+        "NAME": "BIOCHEMICA FARMACEUTICA, ITALY",
+        "ADDRESS": "C/o Prix Pharmaceutical (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 247,
+        "NAME": "BIOREN",
+        "ADDRESS": "C/o IBL Pharmaceuticals/ International Brands Pvt. Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 248,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 249,
+        "NAME": "BONN PHARMA",
+        "ADDRESS": "813, Uni Plaza, 8th Floor, I. I. Chundrigar Road, Karachi-74000,Pakistan",
+        "PHONE": "  92-021-2412480,2437254   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 250,
+        "NAME": "BORYUNG BIOPHARMA CO. LTD. KOREA",
+        "ADDRESS": "C/o Hospital Services and Sales, 14 Sunny Plaza, Hasrat Mohani Road, Off I. I. Chundrigar Road, Karachi,Pakistan",
+        "PHONE": 2628177,
+        "FAX": "BC"
+    },
+    {
+        "ID": 251,
+        "NAME": "BROCADES PHARMA",
+        "ADDRESS": "C/o Adamjee Pharmaceutical (Pvt.) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 252,
+        "NAME": "BRUBERG FARMA, ITALY",
+        "ADDRESS": "C/o Sami Pharma (Pvt.) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 253,
+        "NAME": "BRULIN AMSON FARMACO BIOLOGIC",
+        "ADDRESS": "C/o AMSON VACCINES & PHARMA (PVT) LTD. Karachi,Pakistan"
+    },
+    {
+        "ID": 254,
+        "NAME": "BRUSCHETTINI SRI, ITALY",
+        "ADDRESS": "C/o Drug's Inn Karachi,Pakistan"
+    },
+    {
+        "ID": 255,
+        "NAME": "BSM & B CO., CHINA",
+        "ADDRESS": "C/o Mehran Traders Karachi,Pakistan"
+    },
+    {
+        "ID": 256,
+        "NAME": "BUCKLEYS",
+        "ADDRESS": "C/o Pacific Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 257,
+        "NAME": "BYK GULDEN",
+        "ADDRESS": "C/o Knoll Pharmaceutical Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 258,
+        "NAME": "21ST CENTURY PHARMACEUTICALS CO.",
+        "ADDRESS": "Ahmed Tower, 2nd Floor, khyber, Supper market,Peshawar Cantt, Peshawar,Pakistan",
+        "PHONE": "  081-5277544   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 259,
+        "NAME": "CENTEON PHARMA",
+        "ADDRESS": "C/o IBL Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 260,
+        "NAME": "CEPA, SPAIN"
+    },
+    {
+        "ID": 261,
+        "NAME": "CHEILJEDANG CORP, SEOAL - KOREA",
+        "ADDRESS": "C/o Gastro Care Karachi,Pakistan"
+    },
+    {
+        "ID": 262,
+        "NAME": "CHEMAPOL",
+        "ADDRESS": "C/o Umair Associates Karachi,Pakistan"
+    },
+    {
+        "ID": 263,
+        "NAME": "CHEMOTECNICA SINTYAL S. A., GREECE",
+        "ADDRESS": "C/o Sami Pharmaceuticals Karachi,Pakistan"
+    },
+    {
+        "ID": 264,
+        "NAME": "CHENGDU PHARMACEUTICAL.",
+        "ADDRESS": "C/o Drug's Inn Karachi,Pakistan"
+    },
+    {
+        "ID": 265,
+        "NAME": "CHINION",
+        "ADDRESS": "C/o Medimpex Karachi,Pakistan"
+    },
+    {
+        "ID": 266,
+        "NAME": "CHIRON",
+        "ADDRESS": "C/o Novartis Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 267,
+        "NAME": "CHONG KUN DANG CORP. SEOUL, KOREA.",
+        "ADDRESS": "C/o Genesis Pharmaceuticals (Pvt.) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 268,
+        "NAME": "CHRIPSA S.A., GREECE",
+        "ADDRESS": "C/o Meezab International Karachi,Pakistan"
+    },
+    {
+        "ID": 269,
+        "NAME": "CHUGAI PHARMACEUTICAL, JAPAN",
+        "ADDRESS": "C/o Highnoon Laboratories Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 270,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 271,
+        "NAME": "CONVATEC",
+        "ADDRESS": "C/o BM Squibb Karachi,Pakistan"
+    },
+    {
+        "ID": 272,
+        "NAME": "COX PHARMACEUTICALS, UK.",
+        "ADDRESS": "C/o Searle Karachi,Pakistan"
+    },
+    {
+        "ID": 273,
+        "NAME": "CTC, HOLLAND",
+        "ADDRESS": "C/o Slimfit Neutro Pharma (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 274,
+        "NAME": "CURAMED",
+        "ADDRESS": "C/o Ali Gohar Pharmaceuticals Karachi,Pakistan"
+    },
+    {
+        "ID": 275,
+        "NAME": "CUTTER-MILES",
+        "ADDRESS": "C/o Bayer Biologicals Karachi,Pakistan"
+    },
+    {
+        "ID": 276,
+        "NAME": "DAEWOO PHARMA COMPANY LTD., PUSSAN CITY, KOREA",
+        "ADDRESS": "C/o Drugs Inn Karachi,Pakistan"
+    },
+    {
+        "ID": 277,
+        "NAME": "DAIICHI SEIYAK CO. LTD., TOKYO JAPAN",
+        "ADDRESS": "C/o Hilton Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 278,
+        "NAME": "DBL FAULDING",
+        "ADDRESS": "C/o Atco Laboratories (Pvt.) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 279,
+        "NAME": "DELANADALE",
+        "ADDRESS": "C/o French Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 280,
+        "NAME": "DELUX CHEMICAL INDUSTRIES",
+        "ADDRESS": "LT-26 A-1, Landhi Industrial Area Karachi-75120,Pakistan",
+        "PHONE": "  0092-213-5015820   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 281,
+        "NAME": "DELTA PHARMA (PVT) LTD.",
+        "ADDRESS": "Plot No. 9, Industrial Estate (SIZ) Nowshehra, Risalpur,Pakistan",
+        "PHONE": "  0931-780327   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 282,
+        "NAME": "DEXAMEDICA, INDONESIA",
+        "ADDRESS": "C/o Medimark International Karachi,Pakistan"
+    },
+    {
+        "ID": 283,
+        "NAME": "DIAFORM LTD., SWITZERLAND",
+        "ADDRESS": "C/o Swiss Pharmaceuticals (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 284,
+        "NAME": "DISPERSA",
+        "ADDRESS": "C/o Ciba Vision of MediPak Karachi,Pakistan"
+    },
+    {
+        "ID": 285,
+        "NAME": "DOMS LABORATORY, FRANCE",
+        "ADDRESS": "C/o Phar-Man Labs / S.G. Associates / Neutro Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 286,
+        "NAME": "DONG-IL PHARMA, KOREA",
+        "ADDRESS": "C/o Comba Karachi,Pakistan"
+    },
+    {
+        "ID": 287,
+        "NAME": "DONGKWANG PHARMACEUTICAL COMPANY TD., KOREA",
+        "ADDRESS": "C/o Drugs Inn Karachi,Pakistan"
+    },
+    {
+        "ID": 288,
+        "NAME": "DONG-A PHARM, KOREA",
+        "ADDRESS": "C/o Century Pharmaceuticals (Pvt.) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 289,
+        "NAME": "DONG KOO PHARM, CO, KOREA",
+        "ADDRESS": "C/o Neutro Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 290,
+        "NAME": "DONG KOOK PHARMA, KOREA",
+        "ADDRESS": "C/o Medisure Pharma International Karachi,Pakistan"
+    },
+    {
+        "ID": 291,
+        "NAME": "DOW-CONVATEC,",
+        "ADDRESS": "20 Masson Road, Lahore,Pakistan"
+    },
+    {
+        "ID": 292,
+        "NAME": "DR. FALK GMBH & CO., GERMANY",
+        "ADDRESS": "C/o Ali Gohar Pharmaceuticals Karachi,Pakistan"
+    },
+    {
+        "ID": 293,
+        "NAME": "DR. GROSSMANN",
+        "ADDRESS": "C/o AGP Karachi,Pakistan"
+    },
+    {
+        "ID": 294,
+        "NAME": "DR. MADAUS",
+        "ADDRESS": "C/o IBI Karachi,Pakistan"
+    },
+    {
+        "ID": 295,
+        "NAME": "DR. SCHWARZ",
+        "ADDRESS": "C/o ATCO Karachi,Pakistan"
+    },
+    {
+        "ID": 296,
+        "NAME": "DRUGS INN PAKISTAN",
+        "ADDRESS": "Office No.1-I, Park View Inn Plaza, Markaz F-10 Markaz Islamabad,Pakistan",
+        "PHONE": "  92-51-2251141   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 297,
+        "NAME": "DUO PHARMA, MALAYSIA",
+        "ADDRESS": "C/o Al Hameed Agencies / Valor Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 298,
+        "NAME": "DUPHAR B.V. WEESP HOLLAND",
+        "ADDRESS": "C/o Highnoon Laboratories Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 299,
+        "NAME": "DUPONT PHARMA, USA.",
+        "ADDRESS": "ICI Pharmaceuticals Karachi,Pakistan"
+    },
+    {
+        "ID": 300,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 301,
+        "NAME": "EBEWE ARZNEIMITTEL, AUSTRIA",
+        "ADDRESS": "C/o Bio Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 302,
+        "NAME": "EGIS",
+        "ADDRESS": "C/o Medimpex Karachi,Pakistan"
+    },
+    {
+        "ID": 303,
+        "NAME": "ELDER",
+        "ADDRESS": "C/o French Pharmaceuticals / Haroon Brothers Karachi,Pakistan"
+    },
+    {
+        "ID": 304,
+        "NAME": "ELKO ORGANIZATION (PVT) LTD.",
+        "ADDRESS": "27-28, Sector 12-B, North Karachi Industrial Area, Karachi,Pakistan",
+        "PHONE": "  92 21 6958684, 021-32477280   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 305,
+        "NAME": "ELLIES LABORATORIES (PVT) LTD.",
+        "ADDRESS": "5th KM, Adila Road, Rawalpindi,Pakistan"
+    },
+    {
+        "ID": 306,
+        "NAME": "E. MERCK",
+        "ADDRESS": "C/o Merck Private Limited Karachi,Pakistan"
+    },
+    {
+        "ID": 307,
+        "NAME": "ENGLISH PHARMACEUTICALS INDUSTRIES",
+        "ADDRESS": "F-B-5 First Floor Awami Complex Usman Block, New Garden Town, Lahore,Pakistan",
+        "PHONE": "  92-42-5410395   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 308,
+        "NAME": "ENZYPHARM",
+        "ADDRESS": "C/o Holsten Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 309,
+        "NAME": "ETHEL PHARMA INTERNATIONAL",
+        "ADDRESS": "A-3, First Floor, Murree Heights SB-31, Block-13-C Main University Road, Gulshan-e-Iqbal Karachi Karachi,Pakistan",
+        "PHONE": -214962155,
+        "FAX": "BC"
+    },
+    {
+        "ID": 310,
+        "NAME": "FARVET LABORATORIES, HOLLAND",
+        "ADDRESS": "C/o Prix Pharmaceutical (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 311,
+        "NAME": "FAULDING",
+        "ADDRESS": "C/o Atco Laboratories (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 312,
+        "NAME": "FERRER INTERNATIONAL, S.A., SPAIN",
+        "ADDRESS": "C/o Alina Combine Pakistan (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 313,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 314,
+        "NAME": "FRENCH PHARMACEUTICAL GROUP",
+        "ADDRESS": "3-C, Al-Haroon, Garden Road, P.O. Box 7215, Karachi,Pakistan",
+        "PHONE": 2722451,
+        "FAX": "BC"
+    },
+    {
+        "ID": 315,
+        "NAME": "GALENA",
+        "ADDRESS": "C/o Umair Associates Karachi,Pakistan"
+    },
+    {
+        "ID": 316,
+        "NAME": "GRANDIPHAR PAKISTAN (PVT) LTD.",
+        "ADDRESS": "B-19, S.I.T.E., Hyderabad,Pakistan"
+    },
+    {
+        "ID": 317,
+        "NAME": "HAJI MEDICINE CO.",
+        "ADDRESS": "C/o Rotexmedica, B-327, Iqbal Road, Rawalpindi,Pakistan",
+        "PHONE": "  92-51-5539686   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 318,
+        "NAME": "HAMAZ PHARMACEUTICAL (PVT) LTD.",
+        "ADDRESS": "Amas Plaza, Abdali Road, Near Town Hall, Multan,Pakistan",
+        "PHONE": 548662595109,
+        "FAX": "BC"
+    },
+    {
+        "ID": 319,
+        "NAME": "HAROON BROTHERS",
+        "ADDRESS": "Haroon / Imran Brothers, 1/A, Karimjee Bldg, W.O. 7-15, Napier Road, Opp.HBL, Off. Denso Hall. Karachi-74000,Pakistan",
+        "PHONE": 7731498,
+        "FAX": "BC"
+    },
+    {
+        "ID": 320,
+        "NAME": "HEBER BIOTEC CENTRE FOR GENETIC ENGG. & BIOTECHNOLOGY (CIGB)",
+        "ADDRESS": "C/o Macter International (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 321,
+        "NAME": "HEPATROL (LABORATORIE DE L HEPATROL), FRANCE",
+        "ADDRESS": "C/o French Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 322,
+        "NAME": "HOLSTEN PHARMA",
+        "ADDRESS": "Suite No.602, Uniplaza, 6th Floor, I.I. Chundrigar Road, Karachi,Pakistan",
+        "PHONE": "  (92-21) 2424352,241480   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 323,
+        "NAME": "HOMBURG",
+        "ADDRESS": "C/o ASTA Karachi,Pakistan"
+    },
+    {
+        "ID": 324,
+        "NAME": "HOME CHEMICAL INDUSTRIES",
+        "ADDRESS": "16-Km, Multan Road, Lahore,Pakistan",
+        "PHONE": 7511594,
+        "FAX": "BC"
+    },
+    {
+        "ID": 325,
+        "NAME": "HOVID SDN BDN, MALAYSIA",
+        "ADDRESS": "C/o Unimark Pharmaceuticals Karachi,Pakistan"
+    },
+    {
+        "ID": 326,
+        "NAME": "I.C. PRODUCTS SA, SWITZERLAND",
+        "ADDRESS": "C/o Slimfit Neutro Pharma (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 327,
+        "NAME": "ICON PHARMA",
+        "ADDRESS": "Al-Kehkashan Mall, Suite No.322-323, 3rd Floor, 172/1, P.E.C.H.S., Tariq Road C/o Spencer Pharma Karachi,Pakistan",
+        "PHONE": "  021-4387857   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 328,
+        "NAME": "INSTITUT MERIEUX , FRANCE",
+        "ADDRESS": "C/o Aventis Pastuer Karachi,Pakistan"
+    },
+    {
+        "ID": 329,
+        "NAME": "I.Q. PHARMA",
+        "ADDRESS": "3/9, T.C.H.S, Off Shaheed-e-Millat Road C/o Karachi Chemical Karachi,Pakistan",
+        "PHONE": 4552158,
+        "FAX": "BC"
+    },
+    {
+        "ID": 330,
+        "NAME": "JAPAN MEDICAL SUPPLY CO. LTD.",
+        "ADDRESS": "C/o S. Ejazuddin Karachi,Pakistan"
+    },
+    {
+        "ID": 331,
+        "NAME": "JAYSON PHARMACEUTICALS, DHAKA-BANGLADESH",
+        "ADDRESS": "C/o Life Line Karachi,Pakistan"
+    },
+    {
+        "ID": 332,
+        "NAME": "J. LOGEAIS LABORATORIES, FRANCE",
+        "ADDRESS": "C/o Bio Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 333,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 334,
+        "NAME": "KALBE PHARMA, INDONESIA",
+        "ADDRESS": "C/o Shafaz Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 335,
+        "NAME": "K.H. HOE FARMASIUTIKA, MALAYSIA",
+        "ADDRESS": "C/o Sulk Farmaceutici Karachi,Pakistan"
+    },
+    {
+        "ID": 336,
+        "NAME": "KIN PHARMACEUTICAL",
+        "ADDRESS": "187, Attaturk Block, New Garden Town, Lahore,Pakistan"
+    },
+    {
+        "ID": 337,
+        "NAME": "KOREA PHARMA/UNITED PHARMA CO. LTD., SEOUL KOREA",
+        "ADDRESS": "C/o Al-Habib Corporation Karachi,Pakistan"
+    },
+    {
+        "ID": 338,
+        "NAME": "KYOWA HAKKO CO LTD., JAPAN",
+        "ADDRESS": "C/o S. Ejazuddin & Co Karachi,Pakistan"
+    },
+    {
+        "ID": 339,
+        "NAME": "LABORATORIES FOR APPLIED BIOLOGY LTD., ENGLAND",
+        "ADDRESS": "C/o Bio Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 340,
+        "NAME": "LABORATORIES A. BAILLY-SPEAB, FRANCE",
+        "ADDRESS": "C/o Shafaz Pharma Karachi,Pakistan"
+    },
+    {
+        "ID": 341,
+        "NAME": "LABORATORIES WOLFS, BELGIUM",
+        "ADDRESS": "C/o Rayon International Karachi,Pakistan"
+    },
+    {
+        "ID": 342,
+        "NAME": "LIFE LINE PHARMACEUTICALS (PVT.) LTD.",
+        "ADDRESS": "F-415, S.I.T.E, Karachi,Pakistan",
+        "PHONE": "  (92-21)2575856   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 343,
+        "NAME": "LISKO PAKISTAN (PVT) LTD",
+        "ADDRESS": "L-10-D, BL-21, Federal B Industrial Area, Shaheed Rashid Minhas Road, Karachi,Pakistan",
+        "PHONE": "  (92-21) 6326531   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 344,
+        "NAME": "LOGEAIS, J. LABORATORIES, FRANCE",
+        "ADDRESS": "C/o Biopharma (Chiesi Pharma)"
+    },
+    {
+        "ID": 345,
+        "NAME": "MASSONE, INSTITUTO",
+        "ADDRESS": "C/o Excel Health Care S.A.,Argentina"
+    },
+    {
+        "ID": 346,
+        "NAME": "MAY & BAKER",
+        "ADDRESS": "C/o Rhone-Poulenc-Rorer / Sanofi Aventis"
+    },
+    {
+        "ID": 347,
+        "NAME": "MULTINATIONAL BUISNESS LINK",
+        "ADDRESS": "31/3 Jinnah Housing Society Karachi-74800,Pakistan"
+    },
+    {
+        "ID": 348,
+        "NAME": "M.C.A., SPA.",
+        "ADDRESS": "C/o Al-Hameed Agencies / Valor Pharma Milan,Italy"
+    },
+    {
+        "ID": 349,
+        "NAME": "MEDICURE LABORATORIES",
+        "ADDRESS": "Plot F-29, Behind Karachi Polytechnic, S.I.T.E., Karachi,Pakistan"
+    },
+    {
+        "ID": 350,
+        "NAME": "MEDIMARK INTERNATIONAL CO.",
+        "ADDRESS": "A.P.W.A Complex, Suite#:F-4,1st Floor 67-A, Garden Road, Karachi-74400,Pakistan",
+        "PHONE": "  (92-21) 2242728   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 351,
+        "NAME": "MEDINEX PHARMACEUTICALS MARIK",
+        "ADDRESS": "C/o Mass Pharma"
+    },
+    {
+        "ID": 352,
+        "NAME": "MEHRAN TRADERS",
+        "ADDRESS": "Mehran Chambers, Medicine Street No.2, Marriot Road, Karachi-74000,Pakistan",
+        "PHONE": "  (92-21)2413935   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 353,
+        "NAME": "MEIJI",
+        "ADDRESS": "C/o Global Brand Distributors, 204-E.I. Lines, Dr. Daud Pota Road, Karachi,Pakistan",
+        "PHONE": 5681315,
+        "FAX": "BC"
+    },
+    {
+        "ID": 354,
+        "NAME": "MERIEUX",
+        "ADDRESS": "C/o Aventis Pasteur"
+    },
+    {
+        "ID": 355,
+        "NAME": "MILES (BIOLOGICAL)",
+        "ADDRESS": "C/o Bayer Biological Karachi,Pakistan"
+    },
+    {
+        "ID": 356,
+        "NAME": "M SUUA PHARMA INTERNATIONAL",
+        "ADDRESS": "Hamza House, Gulistan-e-Zafar 11-C, PRECHS Near SMCHS Karachi,Pakistan",
+        "PHONE": "  92-21-4313705   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 357,
+        "NAME": "MEXIMP TECHNOLOGES",
+        "ADDRESS": "Saima Trade Towers, 1st Floor, Suit # 120, Block-B, I.I. Chundrigar Road, Karachi,Pakistan",
+        "PHONE": "  92-21-2210697   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 358,
+        "NAME": "NIPPON KAYAKU CO. LTD., JAPAN",
+        "ADDRESS": "C/o S. Ejazuddin & Co. / Sharex Karachi,Pakistan"
+    },
+    {
+        "ID": 359,
+        "NAME": "NOBLE PHARMA",
+        "ADDRESS": "Room # 11/15 & 16 , Ground Floor,Beaumont Plaza, 6-CL-10, Beamount Road Karachi,Pakistan",
+        "PHONE": 5689481,
+        "FAX": "BC"
+    },
+    {
+        "ID": 360,
+        "NAME": "NORGINE LT D., ENGLAND",
+        "ADDRESS": "C/o Biopharma Karachi,Pakistan"
+    },
+    {
+        "ID": 361,
+        "NAME": "NUTRITECH PAKISTAN",
+        "ADDRESS": "1st Floor, 94-H1, BLock-6, P.E.C.H.S., Karachi,Pakistan",
+        "PHONE": 4544595,
+        "FAX": "BC"
+    },
+    {
+        "ID": 362,
+        "NAME": "NYCOMED",
+        "ADDRESS": "C/o Mtec Meximp Technologist ,Norway"
+    },
+    {
+        "ID": 363,
+        "NAME": "OCCIDENTAL PHARMA (PVT) LTD.",
+        "ADDRESS": "14-P GULBERG II, Lahore,Pakistan"
+    },
+    {
+        "ID": 364,
+        "NAME": "SAFE PHARMACEUTICAL (PVT) LTD.",
+        "ADDRESS": "Plot No.C-I-20, Sec 6-B, North Karachi Industrial Area, Karachi,Pakistan",
+        "PHONE": "  92-21-6905641   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 365,
+        "NAME": "ORALE ANWENDUNG",
+        "ADDRESS": "C/o Haroon Brothers Karachi,Pakistan"
+    },
+    {
+        "ID": 366,
+        "NAME": "PASTUER MERIEUX",
+        "ADDRESS": "C/o Aventis Pasteur Connaught,France"
+    },
+    {
+        "ID": 367,
+        "NAME": "POLYFINE CHEMPHARMA (PVT) LTD.",
+        "ADDRESS": "51- Hayatabad Industrial Estate, Jamrud Road, Cantt, Peshawar,Pakistan",
+        "PHONE": "  92-91-814938   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 368,
+        "NAME": "PRINSEN",
+        "ADDRESS": "C/o Neutro Pharma (Pvt) Ltd. B.V.,Holland"
+    },
+    {
+        "ID": 369,
+        "NAME": "PRIX PHARMACEUTICA",
+        "ADDRESS": "26-Abbot Road, Lahore,Pakistan",
+        "PHONE": 6364196,
+        "FAX": "BC"
+    },
+    {
+        "ID": 370,
+        "NAME": "P.T. KALBE FARMA",
+        "ADDRESS": "C/o Shafaz Pharma Jakarta,Indonesia"
+    },
+    {
+        "ID": 371,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 372,
+        "NAME": "RAYON INTERNATIONAL",
+        "ADDRESS": "9/11,Arkay Square, Ext. Shahra-e-Liaqat, G.P.O. Box 844 Karachi,Pakistan",
+        "PHONE": "  92-21-2422912   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 373,
+        "NAME": "REGENT LABORATORIES LTD.",
+        "ADDRESS": "C-20 S.I.T.E,Super Highway Karachi,Pakistan",
+        "PHONE": "  92-21-6351946   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 374,
+        "NAME": "REHMAN MEDICINE CO.",
+        "ADDRESS": "Suite No.12 & 13, Block-C Ist Floor, Cantonment, Super Market, Cantt., Peshawar,Pakistan",
+        "PHONE": "  (92-91) 272291   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 375,
+        "NAME": "REMINGTON PHARMACEUTICAL INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "18KM Multan Road, Lahore,Pakistan",
+        "PHONE": "  +92-42-3751 2846   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 376,
+        "NAME": "ROTEX MEDICA, GERMANY",
+        "ADDRESS": "C/o Haji Medicine Company Karachi,Pakistan"
+    },
+    {
+        "ID": 377,
+        "NAME": "R.P. DRUG LTD., ENGLAND",
+        "ADDRESS": "C/o Adamjee Pharmaceuticals Karachi,Pakistan"
+    },
+    {
+        "ID": 378,
+        "NAME": "SAFFRON PHARMACEUTICAL COMPANY",
+        "ADDRESS": "9-306, Garden Colony Faisalabad,Pakistan",
+        "PHONE": "  0411-732039   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 379,
+        "NAME": "SAMCHULLY PHARM COMPANY LTD.",
+        "ADDRESS": "C/o Century Pharrmaceuticals (Pvt) Ltd. Seoul,Korea"
+    },
+    {
+        "ID": 380,
+        "NAME": "SAM CHUN DANG PHARMA CO. LTD.",
+        "ADDRESS": "C/o Rehman Medicine Seoul,Korea"
+    },
+    {
+        "ID": 381,
+        "NAME": "SAMJIN PHARM CO. LTD.",
+        "ADDRESS": "C/o Al-Habib Pharmaceuticals C/o Century Seoul,Korea"
+    },
+    {
+        "ID": 382,
+        "NAME": "THE SCHAZOO LABORATORIES LTD.",
+        "ADDRESS": "Schazoo House, 45-G.T. Road, Lahore,Pakistan",
+        "PHONE": "  (92-42) 6856631   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 383,
+        "NAME": "SCHILS FOOD, HOLLAND",
+        "ADDRESS": "C/o Neutro Pharma (Pvt) Ltd. Karachi,Pakistan"
+    },
+    {
+        "ID": 384,
+        "NAME": "S. EJAZUDDIN & COMPANY",
+        "ADDRESS": "1st and 2nd Floor, Zia Plaza, Altaf Hussain Road, Karachi,Pakistan",
+        "PHONE": 4553141,
+        "FAX": "BC"
+    },
+    {
+        "ID": 385,
+        "NAME": "SERVICES MULTINATIONAL",
+        "ADDRESS": "S-10, 2nd Floor, Bilour Plaza, Cantt, Peshawar,Pakistan"
+    },
+    {
+        "ID": 386,
+        "NAME": "SGP, SWISS GERMAN",
+        "ADDRESS": "C/o AGP Karachi,Pakistan"
+    },
+    {
+        "ID": 387,
+        "NAME": "SHAFAZ PHARMA INTERNATIONAL (PVT) LTD.",
+        "ADDRESS": "6, Aiback Block, New Garden Town, Lahore,Pakistan",
+        "PHONE": 5860329,
+        "FAX": "BC"
+    },
+    {
+        "ID": 388,
+        "NAME": "SHANGHAI PHARMACEUTICAL CO. LTD. & SHANGHAI MEDICINAL CORP, CHINA.",
+        "ADDRESS": "C/o Drug`s Inn Karachi,Pakistan"
+    },
+    {
+        "ID": 389,
+        "NAME": "SHENZHEN PHARMA, CHINA",
+        "ADDRESS": "C\\O Umair Associates C/o R.Y.International, Accurate Karachi,Pakistan",
+        "PHONE": "  92-21-2438108-4984232   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 390,
+        "NAME": "SINPHAR PHARMACEUTICAL CO. LTD., TAIWAN.",
+        "ADDRESS": "C/o Combat Karachi,Pakistan"
+    },
+    {
+        "ID": 391,
+        "NAME": "SLIMFIT PHARMACEUTICALS DIVISIONS",
+        "ADDRESS": "31/3A, Abu Bakar Block New Garden Town Lahore,Pakistan",
+        "PHONE": "  92-42-5889938   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 392,
+        "NAME": "SLOVAKOFARMA, SLOVAKIA",
+        "ADDRESS": "C/o Neo Medix Karachi,Pakistan"
+    },
+    {
+        "ID": 393,
+        "NAME": "SMITH & NEPHEW (PAK) LTD.",
+        "ADDRESS": "C/o BSN Medical Karachi,Pakistan"
+    },
+    {
+        "ID": 394,
+        "NAME": "SOLCO BASLE LTD., SWITZERLAND",
+        "ADDRESS": "C/o Haroon Brothers Karachi,Pakistan"
+    },
+    {
+        "ID": 395,
+        "NAME": "SPECIFIC RESEARCH LABORATORIES",
+        "ADDRESS": "10,Sidiq Manzil Aram Bagh Road Karachi-75700,Pakistan"
+    },
+    {
+        "ID": 396,
+        "NAME": "SPIC, CHINA",
+        "ADDRESS": "C/o Mehran Traders Karachi,Pakistan"
+    },
+    {
+        "ID": 397,
+        "NAME": "STAR LABORATORIES (PVT) LTD.",
+        "ADDRESS": "23-Km Multan Road, (Chung), Lahore,Pakistan",
+        "PHONE": "  042-7510163, 7512620   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 398,
+        "NAME": "SULK PHARMA",
+        "ADDRESS": "42-Al Abbas Market, Adam Jee Road, Rawalpindi,Pakistan",
+        "PHONE": "  92-51- 5584900   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 399,
+        "NAME": "SWE PAK",
+        "ADDRESS": "C/o B. Braun Karachi,Pakistan"
+    },
+    {
+        "ID": 400,
+        "NAME": "SWISS SERUM & VACCINE INSTITUTE, SWITZERLAND",
+        "ADDRESS": "C/o Berna Karachi,Pakistan"
+    },
+    {
+        "ID": 401,
+        "NAME": "TRIMAX NUTRITION, ENGLAND",
+        "ADDRESS": "C/o Services Multinational Karachi,Pakistan"
+    },
+    {
+        "ID": 402,
+        "NAME": "UNIMARK PHARMACEUTICALS",
+        "ADDRESS": "Plot No. 7-A Street No.S-7, National Industrial Zone, Rawat Islamabad,Pakistan   "
+    },
+    {
+        "ID": 403,
+        "NAME": "VALOR PHARMACEUTICALS",
+        "ADDRESS": "124/A, Kahuta Triangle Industrial Area Islamabad,Pakistan",
+        "PHONE": "  (92-51) 5584800   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 404,
+        "NAME": "WALTER RITTER",
+        "ADDRESS": "C/o International Brand Pvt. Ltd. (IBL) Karachi,Pakistan"
+    },
+    {
+        "ID": 405,
+        "NAME": "WEDDEL PHARMACEUTICAL LTD. ENGLAND",
+        "ADDRESS": "C/o Biopharma Karachi,Pakistan"
+    },
+    {
+        "ID": 406,
+        "NAME": "WENZHOU PHARMACEUTICAL FACTORY, CHINA",
+        "ADDRESS": "C/o Mehran Traders Karachi,Pakistan"
+    },
+    {
+        "ID": 407,
+        "NAME": "XEPA SOUL PATTINSON, MALAYSIA",
+        "ADDRESS": "C/o Sulk Farmaceutici Karachi,Pakistan"
+    },
+    {
+        "ID": 408,
+        "NAME": "Z-JANS PHARMACEUTICAL (PVT) LTD.",
+        "ADDRESS": "148-A, Industrial Estate, Hayyatabad, Peshawar,Pakistan",
+        "PHONE": "  92-91-275571   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 409,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 410,
+        "NAME": "FARMIGEA PAK (PVT) LTD.",
+        "ADDRESS": "32-A Usman Center Shah Alam Market Lahore,Pakistan"
+    },
+    {
+        "ID": 411,
+        "NAME": "AL-SHIFA PHARMACEUTICALS",
+        "ADDRESS": "Jehlum Road Rawalpindi   "
+    },
+    {
+        "ID": 412,
+        "NAME": "ARDIN PHARMACEUTICALS",
+        "ADDRESS": "Plot No. 56 Sector 27, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": 5057742,
+        "FAX": "BC"
+    },
+    {
+        "ID": 413,
+        "NAME": "SWAT PHARMACEUTICALS",
+        "ADDRESS": "Saidu Sharif, Swat"
+    },
+    {
+        "ID": 414,
+        "NAME": "SIBRO PHARMACEUTICALS",
+        "ADDRESS": "P.No. 230 Industrial Area, Nowshera"
+    },
+    {
+        "ID": 415,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 416,
+        "NAME": "CATTS LTD.",
+        "ADDRESS": "D-126 S.I.T.E., C/o Merck Private Limited Karachi"
+    },
+    {
+        "ID": 417,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 418,
+        "NAME": "RISMA LABORATORIES",
+        "ADDRESS": "Flat A/2C S.I.T.E Karachi"
+    },
+    {
+        "ID": 419,
+        "NAME": "ANTIBIOTICS (PVT) LTD.",
+        "ADDRESS": "Iskandarabad (Daudkhel). Mianwali"
+    },
+    {
+        "ID": 420,
+        "NAME": "RHONE & POULENEC RORER",
+        "ADDRESS": "GT Road, Wah Cantt, Lahore,Pakistan"
+    },
+    {
+        "ID": 421,
+        "NAME": "REDEX PHARMACEUTICAL",
+        "ADDRESS": "13 Km Satiana Road, Faisalabad"
+    },
+    {
+        "ID": 422,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 423,
+        "NAME": "NATIONAL INSTITUTE OF HEALTH",
+        "ADDRESS": "Islamabad"
+    },
+    {
+        "ID": 424,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 425,
+        "NAME": "STANDARD DRUG CO.",
+        "ADDRESS": "F/6 S.I.T.E., Hyderabad"
+    },
+    {
+        "ID": 426,
+        "NAME": "PAKISTAN PHARMACEUTICALS & CHEMICAL LABS",
+        "ADDRESS": "A-34, S.I.T.E., Hyderabad"
+    },
+    {
+        "ID": 427,
+        "NAME": "VIRGO MANUF. CHEMIST LTD.",
+        "ADDRESS": "P. No. 50-52 Industrial Estate, Multan"
+    },
+    {
+        "ID": 428,
+        "NAME": "ALKEMY PHARMACEUTICAL LABORATORIES (PRIVATE) LTD.",
+        "ADDRESS": "203, Al-Amin Tower, Block-10, Gulshan-e-Iqbal. Karachi,Pakistan",
+        "PHONE": "  (92-21) 4971540   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 429,
+        "NAME": "SHAHBAZ LABORATORIES",
+        "ADDRESS": "P/8 S.I.T.E., Hyderabad"
+    },
+    {
+        "ID": 430,
+        "NAME": "AHSON DRUG CO.",
+        "ADDRESS": "T/1 S.I.T.E., Tando Adam, Sindh"
+    },
+    {
+        "ID": 431,
+        "NAME": "CKD PHARMACEUTICALS LABS",
+        "ADDRESS": "P.No.50, Sector 28, Korangi Industrial Area, Karachi"
+    },
+    {
+        "ID": 432,
+        "NAME": "EROS PHARMACEUTICALS",
+        "ADDRESS": "94 / 23, Korangi Industrial Area Karachi-74200,Pakistan",
+        "PHONE": "  92-21-2414579   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 433,
+        "NAME": "OVAL PHARMA",
+        "ADDRESS": "112/11 Indus. Estate, Township, Lahore"
+    },
+    {
+        "ID": 434,
+        "NAME": "UMERSONS",
+        "ADDRESS": "367 Industrial Area Sector I-9, Islamabad"
+    },
+    {
+        "ID": 435,
+        "NAME": "PREMA PRODUCTS",
+        "ADDRESS": "P. No. 150-151, Sector 24, Korangi Industrial Area, Karachi"
+    },
+    {
+        "ID": 436,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 437,
+        "NAME": "MICKO INDUS. CHEMICAL CO. (PVT) LTD.",
+        "ADDRESS": "28 Km Ferozpur Road, Lahore"
+    },
+    {
+        "ID": 438,
+        "NAME": "LIFE PHARMACEUTICAL COMPANY",
+        "ADDRESS": "24-III Industrial Estate, Multan"
+    },
+    {
+        "ID": 439,
+        "NAME": "QAMAR INDUSTRIES",
+        "ADDRESS": "P. No. 28-A, Sriki Road, Quetta"
+    },
+    {
+        "ID": 440,
+        "NAME": "SAPIENT PHARMA",
+        "ADDRESS": "123-S Industrial Area, Kot Lakhpat, Lahore",
+        "PHONE": "  92-42-5122823   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 441,
+        "NAME": "JAMSON PHARMA LABORATORIES (REGD.)",
+        "ADDRESS": "88-B Indusrtrial Estate, Multan"
+    },
+    {
+        "ID": 442,
+        "NAME": "MEDICON PHARMACEUTICALS INDUSTRIES (PVT) LTD",
+        "ADDRESS": "B-1, 11, Industrial Estate, Hayatabad Peshawar,Pakistan"
+    },
+    {
+        "ID": 443,
+        "NAME": "MEREDOA",
+        "ADDRESS": "P.No. 44, Sector 27, Korangi Industrial Area, Karachi"
+    },
+    {
+        "ID": 444,
+        "NAME": "MEDIPHARM LTD.",
+        "ADDRESS": "Plot No 108, Kot Lakhpat, C/o Bayer Schering Lahore"
+    },
+    {
+        "ID": 445,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 446,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 447,
+        "NAME": "UNIK CHEM (PVT) LTD.",
+        "ADDRESS": "8 Km Sheikhupura Sargodha Road, Machike, Sheikhupura"
+    },
+    {
+        "ID": 448,
+        "NAME": "FERRO PHARMACEUTICAL LABORATORIES",
+        "ADDRESS": "356-A, I-9 Sector Islamabad,Pakistan"
+    },
+    {
+        "ID": 449,
+        "NAME": "AFAN PHARMA (PVT) LTD.",
+        "ADDRESS": "P.No. C-78, 35-A, Gulshan-e-Hali, Zaman Town, Korangi-4, Karachi"
+    },
+    {
+        "ID": 450,
+        "NAME": "REHMAN PHARMA",
+        "ADDRESS": "GT Road, Link Attock City,"
+    },
+    {
+        "ID": 451,
+        "NAME": "HEALERS LABORATORIES",
+        "ADDRESS": "96-102C S.I.E, Kohat Road, Peshawar"
+    },
+    {
+        "ID": 452,
+        "NAME": "IMCO PHARMACEUTICALS LABORATORIES",
+        "ADDRESS": "73/A.S. Industrial Estate, Jamrud Road, Peshawar,Pakistan",
+        "PHONE": "  92-91-814720   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 453,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 454,
+        "NAME": "LAWRENCE PHARMA",
+        "ADDRESS": "2nd, Floor Bilal Market Chowk Anar Kali 193-Circular Roa Lahore,Pakistan",
+        "PHONE": "  (92-42)7233537   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 455,
+        "NAME": "BIO FINE PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "C/o Bio Pharma Multan"
+    },
+    {
+        "ID": 456,
+        "NAME": "KATRIANA PHARMACEUTICAL INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "10-Km Sheikhupura Road, Sheikhupura"
+    },
+    {
+        "ID": 457,
+        "NAME": "A.Z. PHARMACEUTICALS CO."
+    },
+    {
+        "ID": 458,
+        "NAME": "BENTLEY PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "18- Km Raiwind Road, Lahore"
+    },
+    {
+        "ID": 459,
+        "NAME": "KURRAM PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "69/70 Industrial Estate, Bannu"
+    },
+    {
+        "ID": 460,
+        "NAME": "UMAR USMAN SURGICAL COTTON IND.",
+        "ADDRESS": "Faisalabad Road, Jhang"
+    },
+    {
+        "ID": 461,
+        "NAME": "PRIME LABS. (PVT) LTD.",
+        "ADDRESS": "9.5 Km Sheikhupura Road, Lahore"
+    },
+    {
+        "ID": 462,
+        "NAME": "SPECTRUM LABS. (PVT) LTD.",
+        "ADDRESS": "20 Km Raiwind Road, Lahore"
+    },
+    {
+        "ID": 463,
+        "NAME": "ISLAMABAD PHARMACEUTICAL PRODUCTS",
+        "ADDRESS": "34 Indsustrial Triangle, Kahuta Road, Islamabad",
+        "PHONE": "  92-51-4491657   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 464,
+        "NAME": "YOUSUF ALI SHAH CHEMICAL IND. (PVT) LTD.",
+        "ADDRESS": "P. No. 192/1, Gadoon Amazai, ,Pakistan"
+    },
+    {
+        "ID": 465,
+        "NAME": "TAS PHARMACEUTICAL",
+        "ADDRESS": "209 Sihala Triangle Kahuta Road, Islamabad"
+    },
+    {
+        "ID": 466,
+        "NAME": "SAILOR LABS.",
+        "ADDRESS": "133 - C S.I.E., Sahiwal"
+    },
+    {
+        "ID": 467,
+        "NAME": "SHAHZAIB PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "Hazara Trunk Road, Sarai Gadaee, Haripur"
+    },
+    {
+        "ID": 468,
+        "NAME": "COTECH INDUSTRIES (PVT) LTD.",
+        "ADDRESS": "Hattar Industrial Estate, Harripur"
+    },
+    {
+        "ID": 469,
+        "NAME": "M.S. ENTERPRISES LTD.",
+        "ADDRESS": "3.5 Km From Raiwind Road, Kot Radha Kishan Road, Lahore"
+    },
+    {
+        "ID": 470,
+        "NAME": "ZEPHYR PHARMATEC (PVT) LTD.",
+        "ADDRESS": "1st Floor, Kashana-e-Mumtaz, C-312, Block-6, F.B.Area, Karachi,Pakistan",
+        "PHONE": "  92-21- 6342562   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 471,
+        "NAME": "UNIPHARMA (PVT) LTD.",
+        "ADDRESS": "24, C-1, Jail Rd. Lahore,Pakistan",
+        "PHONE": "  92-42-7584223   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 472,
+        "NAME": "PRIDE PHARMACEUTICALS",
+        "ADDRESS": "P.No. 4, Sector 21, Korangi Industrial Area, Karachi"
+    },
+    {
+        "ID": 473,
+        "NAME": "S.B. PHARMA",
+        "ADDRESS": "5 E Industrial Triangle, Kahuta Road, Islamabad"
+    },
+    {
+        "ID": 474,
+        "NAME": "DAVIS PHARMACEUTICAL LABORATORIES",
+        "ADDRESS": "Davis House, 143 - B, St # 12, Chacklala Scheme - III Rawalpindi,Pakistan",
+        "PHONE": "  051-4490642   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 475,
+        "NAME": "AHAD INTERNATIONAL PHARMACEUTICALS",
+        "ADDRESS": "13,Km Gomal University, Multan Road D.I. Khan"
+    },
+    {
+        "ID": 476,
+        "NAME": "ALEN PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "138-A Road No 1, Industrial Estate, Risalpur"
+    },
+    {
+        "ID": 477,
+        "NAME": "FLASH PHARMACEUTICALS INDUSTRIES",
+        "ADDRESS": "30-A S.I.E., Mansehra"
+    },
+    {
+        "ID": 478,
+        "NAME": "NAWAN LABORATORIES (PVT) LTD.",
+        "ADDRESS": "Plot # No. 136-138 Sector 15, Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": "  92-21-5061936   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 479,
+        "NAME": "HAMAYUN INTERNATIONAL PHARMA (PVT) LTD.",
+        "ADDRESS": "20-Km Satiana Road, Faisalabad"
+    },
+    {
+        "ID": 480,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 481,
+        "NAME": "GENERA PHARMACEUTICALS",
+        "ADDRESS": "Plot No. 244, Street No. 8, I - 9/2, Industrial Area, Islamabad",
+        "PHONE": "  (092-051) 4431862   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 482,
+        "NAME": "CANDID PHARMACEUTICALS",
+        "ADDRESS": "172-H,1st,Floor,Phase-1, Defence Housing Authority, Pasrur,Pakistan"
+    },
+    {
+        "ID": 483,
+        "NAME": "CAYLEX PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "27-Km Main Raiwind Road, Lahore",
+        "PHONE": "  042-7552889   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 484,
+        "NAME": "ALI NOOR INDUSTRIES",
+        "ADDRESS": "8-Km Depalpur Road. Okara"
+    },
+    {
+        "ID": 485,
+        "NAME": "SILVER OAK CORPORATION.",
+        "ADDRESS": "P.No. 16/1, Phase No. 4 Industrial Estate, Hattar Distt., Haripur",
+        "PHONE": "  92-995-617642   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 486,
+        "NAME": "RANACON PHARMA",
+        "ADDRESS": "18 Km Ferozpur Road, Opp Nishtar Colony, Lahore"
+    },
+    {
+        "ID": 487,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 488,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 489,
+        "NAME": "NBS PHARMA",
+        "ADDRESS": "18 Km Raiwind Road, Lahore"
+    },
+    {
+        "ID": 490,
+        "NAME": "MEDIWAYS INTERNATIONAL",
+        "ADDRESS": "16 Km Multan Road, Lahore"
+    },
+    {
+        "ID": 491,
+        "NAME": "PERFECT PHARMA (PVT) LTD.",
+        "ADDRESS": "5 Km Manga Road, Raiwind, Lahore"
+    },
+    {
+        "ID": 492,
+        "NAME": "SHIFA LABORATORIES.(PVT) LTD.",
+        "ADDRESS": "39-Industrial Estate, Gulberg-III Lahore,Pakistan",
+        "PHONE": "  042-5764527   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 493,
+        "NAME": "MEDICEENA PHARMA (PVT) LTD.",
+        "ADDRESS": "230, Shadman 1 Lahore",
+        "PHONE": "  92-42-7552889   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 494,
+        "NAME": "REHMAT PHARMA",
+        "ADDRESS": "10.5 Km Sheikhupura Road, Lahore"
+    },
+    {
+        "ID": 495,
+        "NAME": "BATALA PHARMACEUTICALS.",
+        "ADDRESS": "23/B, Small Industrial Estate, No. 2 Gujranwala,Pakistan",
+        "PHONE": 283240,
+        "FAX": "BC"
+    },
+    {
+        "ID": 496,
+        "NAME": "TECHNICS HOSPITAL EQUIPMENTS (PVT) LTD.",
+        "ADDRESS": "P.No. 46-A, SIE, Jamrud Industrial Estate, Hayatabad, Peshawar"
+    },
+    {
+        "ID": 497,
+        "NAME": "SEAGUL SURGICAL COTTON",
+        "ADDRESS": "Bandage Industries, Gojra Road, Jhang Saddar"
+    },
+    {
+        "ID": 498,
+        "NAME": "CHISHTI PHARMACEUTICALS INDUSTRIES",
+        "ADDRESS": "Faisalabad Road, 111/7R Tehsil Chichawatni, Sahiwal"
+    },
+    {
+        "ID": 499,
+        "NAME": "SURGE LABORATORIES (PVT) LTD.",
+        "ADDRESS": "5 Floor, Commerce Centre, Hasrat Mohani Road Karachi,Pakistan",
+        "PHONE": "  92-21-2636313,   92-04931-882653   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 500,
+        "NAME": "OPHTH-PHARMA (PVT) LTD.",
+        "ADDRESS": "P.No. 241, Sector 24, Korangi Industrial Area, Karachi",
+        "PHONE": "  92-21-5068671   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 501,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 502,
+        "NAME": "PAKHEIM INTERNANATIONAL PHARMA",
+        "ADDRESS": "1st Floor, 7-K, Commercial Area, Model Town Lahore,Pakistan",
+        "PHONE": "  92-42-5820334   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 503,
+        "NAME": "NAWABSONS LABORATORIES (PVT) LTD.",
+        "ADDRESS": "7/A Friends Colony, Bastami Road, Multan Road, Lahore"
+    },
+    {
+        "ID": 504,
+        "NAME": "UNISON CHEMICAL WORKS",
+        "ADDRESS": "19 Km GT Road, Kala Shah Kaku, Lahore"
+    },
+    {
+        "ID": 505,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 506,
+        "NAME": "MACQUINS INTERNATIONAL",
+        "ADDRESS": "F.2-H, PTCL Industrial Complex. S.I.T.E., Karachi,Pakistan",
+        "PHONE": "  92-21-2582674   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 507,
+        "NAME": "SCOTMANN PHARMACEUTICALS",
+        "ADDRESS": "5-D, I-10/3, Industrial Area, Islamabad,Pakistan",
+        "PHONE": "  92-51-2653022   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 508,
+        "NAME": "AGS PHARMA & CHEMICAL IND. (PVT) LTD.",
+        "ADDRESS": "58-A, Industrial Estate, Jamrud Road, Peshawar"
+    },
+    {
+        "ID": 509,
+        "NAME": "ROBINS PHARMACEUTICAL INDUSTRIES",
+        "ADDRESS": "43 Industrial Triangle, Kahutta Road, Islamabad"
+    },
+    {
+        "ID": 510,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 511,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 512,
+        "NAME": "ALCO CHEMICAL INDUSTRIES",
+        "ADDRESS": "19.5- Km, Ferozepure Road, Lahore"
+    },
+    {
+        "ID": 513,
+        "NAME": "ALPHA CHEMICAL (PVT) LTD.",
+        "ADDRESS": "65 Km Lahore-Multan National Highway, Industrial Zone, Chunian. Kasur"
+    },
+    {
+        "ID": 514,
+        "NAME": "ASKARI PHARMACEUTICALS.",
+        "ADDRESS": "St, 1,H.21,Cavalry Ground Lahore Cantt. Lahore,Pakistan",
+        "PHONE": "  092-042-6680461   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 515,
+        "NAME": "HIMONT CHEMICAL (PVT) LTD.",
+        "ADDRESS": "Raiwind Road, Industrial Area, Raiwind"
+    },
+    {
+        "ID": 516,
+        "NAME": "DRUG PHARMACEUTICALS CHEM. (PVT).",
+        "ADDRESS": "P.No. 226, Sector 23, Korangi Industrial Area, Karachi"
+    },
+    {
+        "ID": 517,
+        "NAME": "CRESENT COTTON",
+        "ADDRESS": "Chowk Depalpur, Okara"
+    },
+    {
+        "ID": 518,
+        "NAME": "COTTON CRAFT LTD.",
+        "ADDRESS": "10-Km Stone, Multan Road, Lahore"
+    },
+    {
+        "ID": 519,
+        "NAME": "SHAH BROTHERS",
+        "ADDRESS": "Shahabad, Noorpur Road, Faisalabad"
+    },
+    {
+        "ID": 520,
+        "NAME": "THE NATIONAL ABSORBENT COTTON MILLS CO.",
+        "ADDRESS": "A/37, S.I.T.E., Mangopir Road, Karachi"
+    },
+    {
+        "ID": 521,
+        "NAME": "KOHINOOR INDUSTRIES",
+        "ADDRESS": "160 Plot, S.I.E., Sahiwal",
+        "PHONE": "  92-0441-54103   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 522,
+        "NAME": "SHAN COTTON INDUSTRIES",
+        "ADDRESS": "11.5 Km Satiana Road, Faisalabad"
+    },
+    {
+        "ID": 523,
+        "NAME": "KARIM INDUSTRIES",
+        "ADDRESS": "Industrial Area Lah Ne, Raiwind"
+    },
+    {
+        "ID": 524,
+        "NAME": "FARBAND INTERNATIONAL",
+        "ADDRESS": "Samsani Road, off Multan Road, Hanjarwal, Lahore"
+    },
+    {
+        "ID": 525,
+        "NAME": "SURGICAL TEXTILE (PVT) LTD.",
+        "ADDRESS": "70 Km Multan Road, Near Patoki,"
+    },
+    {
+        "ID": 526,
+        "NAME": "DR. SETHI INDUSTRIES",
+        "ADDRESS": "3-Bure Wala Road, Chichawatni"
+    },
+    {
+        "ID": 527,
+        "NAME": "KAMTEX COTTON INDUS",
+        "ADDRESS": "44 Km Lahore G.T Road, Kamonke Distt., Gujranwala"
+    },
+    {
+        "ID": 528,
+        "NAME": "SPINZER COTTON INDUSTRIES (PVT).",
+        "ADDRESS": "69/70 Industrial Estate, Jamrud Road, Peshawar"
+    },
+    {
+        "ID": 529,
+        "NAME": "FAISAL PHARMACEUTICALS",
+        "ADDRESS": "602-B, S.I.E., Sargodha Road, Faisalabad"
+    },
+    {
+        "ID": 530,
+        "NAME": "NIZAM COTTON INDUSTRIES",
+        "ADDRESS": "7 Km Sialkot Road, Sohdra, Wazirabad"
+    },
+    {
+        "ID": 531,
+        "NAME": "PHARMA COTTON (PVT) LTD.",
+        "ADDRESS": "31 Km Ferozpur Road, Lahore"
+    },
+    {
+        "ID": 532,
+        "NAME": "PAKTEX INDUSTRIES",
+        "ADDRESS": "2.5 Km Tatlay Road, Sroyabad, Kamonki, Gujranwala"
+    },
+    {
+        "ID": 533,
+        "NAME": "FAMOUS PHARMA",
+        "ADDRESS": "Pak. Town, GT Road, Kamonki, Gujranwala"
+    },
+    {
+        "ID": 534,
+        "NAME": "SHAFI TEXTILE CORP.",
+        "ADDRESS": "S.I.E., Faisalabad"
+    },
+    {
+        "ID": 535,
+        "NAME": "KHALID NASIR BANDAGES (PVT) LTD.",
+        "ADDRESS": "3-Km Lahore Road, Pindi Bhatian, Hafizabad"
+    },
+    {
+        "ID": 536,
+        "NAME": "SURGICAL FIBRE (PVT) LTD.",
+        "ADDRESS": "1 Km Katarband Road, off Multan Road, Lahore"
+    },
+    {
+        "ID": 537,
+        "NAME": "HUSSAIN TRADERS",
+        "ADDRESS": "Surajkund Road, Multan"
+    },
+    {
+        "ID": 538,
+        "NAME": "ZEB LABORATORIES",
+        "ADDRESS": "33/A Commercial Area, Kamalgang, Lahore,Pakistan"
+    },
+    {
+        "ID": 539,
+        "NAME": "ZACO (PAK) LTD.",
+        "ADDRESS": "120/H Model Town, Lahore,Pakistan"
+    },
+    {
+        "ID": 540,
+        "NAME": "SULSON PHARMA",
+        "ADDRESS": "10-Old F.C.C. Ferozepure Road, Lahore"
+    },
+    {
+        "ID": 541,
+        "NAME": "SHAMSI PHARMACY",
+        "ADDRESS": "1-A Justice Sharif Scheme, Samanabad, Lahore"
+    },
+    {
+        "ID": 542,
+        "NAME": "SARCO CHEMICALS",
+        "ADDRESS": "732-B Masoom Shah Road, Jama-e- Aloom, Multan"
+    },
+    {
+        "ID": 543,
+        "NAME": "UNITED DRUG COMPANY",
+        "ADDRESS": "173 Islam Blocks Azam Garden, Multan Road, Lahore"
+    },
+    {
+        "ID": 544,
+        "NAME": "ALI INDUSTRIES",
+        "ADDRESS": "11-B, Gulberg-III, Lahore"
+    },
+    {
+        "ID": 545,
+        "NAME": "SOMA LABORATORIES",
+        "ADDRESS": "692-N, Samanabad, Lahore"
+    },
+    {
+        "ID": 546,
+        "NAME": "ORIENT LABORATORIES",
+        "ADDRESS": "24.Imam Din Medicine Market.Opp Lalori Gate,Circular Road,Lahore Lahore"
+    },
+    {
+        "ID": 547,
+        "NAME": "A.W. LABORATORIES"
+    },
+    {
+        "ID": 548,
+        "NAME": "B. I. DRUG COMPANY",
+        "ADDRESS": "Mughalpura, Lahore"
+    },
+    {
+        "ID": 549,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 550,
+        "NAME": "GELCAP (PAK) LTD.",
+        "ADDRESS": "Hub P.No. B-43, H.I.T.E., Balochistan"
+    },
+    {
+        "ID": 551,
+        "NAME": "PHARMAAGEN LTD.",
+        "ADDRESS": "Kot Nabi Bakhsh Wala, Ferozpur Road, Lahore"
+    },
+    {
+        "ID": 552,
+        "NAME": "MEDIVET (PVT) LTD.",
+        "ADDRESS": "16 Km Sheikhupura Road, Lahore"
+    },
+    {
+        "ID": 553,
+        "NAME": "KAILGON AGRO INDUS",
+        "ADDRESS": "849, Pathra Hub Choki RCD Road, Balochistan"
+    },
+    {
+        "ID": 554,
+        "NAME": "BIO LABS (PVT) LTD.",
+        "ADDRESS": "Plot No.145 Industrial Triangle Kahuta Road Islamabad,Pakistan",
+        "PHONE": "  +92-51-4491714   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 555,
+        "NAME": "FARM AID GROUP PAK LTD.",
+        "ADDRESS": "P. No. 3/2 Hattar Industrial Estate. Hattar"
+    },
+    {
+        "ID": 556,
+        "NAME": "ANIMA NUTRITIONAL PRODUCTS",
+        "ADDRESS": "I/9 Industrial Area. Islamabad",
+        "PHONE": "  (92-51) 4432076   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 557,
+        "NAME": "VETEC LABORATORIES",
+        "ADDRESS": "51 Industrial Kahuta Triangle Road, Islamabad"
+    },
+    {
+        "ID": 558,
+        "NAME": "SYMANS PHARMA",
+        "ADDRESS": "10 Km Sheikhupura Road, Lahore"
+    },
+    {
+        "ID": 559,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 560,
+        "NAME": "AVICENNA LABORATORIES",
+        "ADDRESS": "14- Km, Faisalabad Road, Bhikki Distt., Sheikhupura"
+    },
+    {
+        "ID": 561,
+        "NAME": "SANNA LABORATORIES",
+        "ADDRESS": "10-19 B, Punjab SIE, Sargodha Road, Faisalabad"
+    },
+    {
+        "ID": 562,
+        "NAME": "KAKASIAN PHARM. (PVT) LTD.",
+        "ADDRESS": "30 Km. Ferozpur Road, Lahore"
+    },
+    {
+        "ID": 563,
+        "NAME": "VETY-CARE PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "P.No. 81-A , Street No 6, I-10/3, Islamabad"
+    },
+    {
+        "ID": 564,
+        "NAME": "UNIVET PHARMACEUTICALS",
+        "ADDRESS": "14 Km Adyala Road, Rawalpindi,Pakistan",
+        "PHONE": "  051 - 5573437   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 565,
+        "NAME": "HIRRA PHARMACEUTICALS LABS",
+        "ADDRESS": "1.3 Km Asil Raiwind Road, Ladhakay, Buller"
+    },
+    {
+        "ID": 566,
+        "NAME": "BETTERS TRADERS",
+        "ADDRESS": "Faisalabad"
+    },
+    {
+        "ID": 567,
+        "NAME": "KHYBER POULTRY",
+        "ADDRESS": "Faisalabad"
+    },
+    {
+        "ID": 568,
+        "NAME": "BIO-VET",
+        "ADDRESS": "Gujranwala"
+    },
+    {
+        "ID": 569,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 570,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 571,
+        "NAME": "M. E. F. T. ENTERPRISES",
+        "ADDRESS": "Islamabad"
+    },
+    {
+        "ID": 572,
+        "NAME": "PEARL & PEARL",
+        "ADDRESS": "Shamim House, Jehlum Road, Near State Bank, Islamabad"
+    },
+    {
+        "ID": 573,
+        "NAME": "SHAHEEN PHARMACEUTICALS",
+        "ADDRESS": "3-KM.,Murghzar Road, Saidu Sharif, Swat",
+        "PHONE": 726938,
+        "FAX": "BC"
+    },
+    {
+        "ID": 574,
+        "NAME": "UPJOHN",
+        "ADDRESS": "Kahuta Triangle, Sitala Road, Islamabad"
+    },
+    {
+        "ID": 575,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 576,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 577,
+        "NAME": "A. FEROZ & CO.",
+        "ADDRESS": "M.R.131, Durwala Building Katchi Gali-1, Marriot Road, Karachi, Karachi",
+        "PHONE": "  9221-2731478   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 578,
+        "NAME": "ADARSHA MEDICAL HALL"
+    },
+    {
+        "ID": 579,
+        "NAME": "AFZAL CORPORATION",
+        "ADDRESS": "Kharadar, opp HBL Napier Road, Karachi"
+    },
+    {
+        "ID": 580,
+        "NAME": "AIMS TRADERS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 581,
+        "NAME": "ALLERGAN PHARMACEUTICALS",
+        "ADDRESS": "See under Barret hodgon Karachi"
+    },
+    {
+        "ID": 582,
+        "NAME": "ALLIED DISTRIBUTER",
+        "ADDRESS": "Shahra-e-Qaideen, Karachi"
+    },
+    {
+        "ID": 583,
+        "NAME": "ALLIED MEDICAL SUPLIES",
+        "ADDRESS": "194 K.M.C.H Block-7. Karachi"
+    },
+    {
+        "ID": 584,
+        "NAME": "ANDRASHA MEDICAL HALL",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 585,
+        "NAME": "ANIMAL HEALTH & CURE",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 586,
+        "NAME": "APEX (PVT) LTD.",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 587,
+        "NAME": "ASIAN AGENCIES",
+        "ADDRESS": "103/4 Business Arcade, Karachi"
+    },
+    {
+        "ID": 588,
+        "NAME": "BUFORD TRADING",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 589,
+        "NAME": "CARE & CURE",
+        "ADDRESS": "Altaf Hussain Road, Karachi"
+    },
+    {
+        "ID": 590,
+        "NAME": "CIBA GEIGY",
+        "ADDRESS": "C/O Novartis Pharma. Karachi"
+    },
+    {
+        "ID": 591,
+        "NAME": "COGENT PHARMACEUTICAL",
+        "ADDRESS": "A-217, Block 13/C Gulshan-e-Iqbal, Karachi",
+        "PHONE": "  92-21-4977765   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 592,
+        "NAME": "CRESENT CHEMIST",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 593,
+        "NAME": "CYNAMID",
+        "ADDRESS": "C/O Wyeth Pakistan Karachi"
+    },
+    {
+        "ID": 594,
+        "NAME": "DR. ZIAUDDIN HOSPITAL",
+        "ADDRESS": "ST-16, Block-B, North Nazimabad, Karachi"
+    },
+    {
+        "ID": 595,
+        "NAME": "EASTERN AGENCIES",
+        "ADDRESS": "C/o Nabi Qasim laboratories Karachi"
+    },
+    {
+        "ID": 596,
+        "NAME": "EVANS MEDICAL STORE"
+    },
+    {
+        "ID": 597,
+        "NAME": "F. Y. CORPORATION",
+        "ADDRESS": "6-U Block 6, P.E.C.H.S., C/o R.Y.International Karachi"
+    },
+    {
+        "ID": 598,
+        "NAME": "FAIR INTERNATIONAL",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 599,
+        "NAME": "FAROOQ CORPORATION",
+        "ADDRESS": "Katchi Gali no 1, Marriot Road, Karachi"
+    },
+    {
+        "ID": 601,
+        "NAME": "GHAZALI BROTHERS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 602,
+        "NAME": "GOLDEN HARVEST",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 603,
+        "NAME": "GROW WELL",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 604,
+        "NAME": "HAEMO DIAGNOSTIC SYSTEM",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 605,
+        "NAME": "HAFIZ AHSON ELLAHI"
+    },
+    {
+        "ID": 606,
+        "NAME": "HEALTH CARE PRODUCTS",
+        "ADDRESS": "Altaf Hussain Road, Karachi"
+    },
+    {
+        "ID": 607,
+        "NAME": "HOECHST PHARMACEUTICALS",
+        "ADDRESS": "C/O Aventis Pharma Karachi"
+    },
+    {
+        "ID": 608,
+        "NAME": "HYDARI INTERNATIONAL",
+        "ADDRESS": "Wahab Arcade, M. A. Jinnah Road, Karachi"
+    },
+    {
+        "ID": 609,
+        "NAME": "IMRAN & COMPANY",
+        "ADDRESS": "Katchi Gali no.1, Marriot Road, Karachi,Pakistan"
+    },
+    {
+        "ID": 610,
+        "NAME": "IMRAN BROTHERS",
+        "ADDRESS": "Haroon / Imran Brothers, 1/A, Karimjee Bldg, W.O. 7-15, Napier Road, OPP.HBL, Off. Densohall, Karachi,Pakistan",
+        "PHONE": 7731498,
+        "FAX": "BC"
+    },
+    {
+        "ID": 611,
+        "NAME": "IQBAL ENTERPRISES",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 612,
+        "NAME": "JOHNSON & JOHNSON PAKISTAN (PVT) LTD",
+        "ADDRESS": "P.NO. 10 & 25,Sector 20, Korangi Industrial Area, Karachi-75180"
+    },
+    {
+        "ID": 613,
+        "NAME": "K. S. AGENCIES",
+        "ADDRESS": "West Land Appartments, Office no. M-7, Alamgir Road, Karachi"
+    },
+    {
+        "ID": 614,
+        "NAME": "KADILA PHARMA",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 615,
+        "NAME": "KARACHI MEDICAL & DENTAL",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 616,
+        "NAME": "KAUSAR MEDICOS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 617,
+        "NAME": "MAHEER ENTERPRISES",
+        "ADDRESS": "7 Moorad Palace, G. Allana Road, Karachi"
+    },
+    {
+        "ID": 618,
+        "NAME": "MALIK BROTHERS",
+        "ADDRESS": "Medicine Street No-1, Marriot Road, Karachi"
+    },
+    {
+        "ID": 619,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 620,
+        "NAME": "MASON EASTERN",
+        "ADDRESS": "IBI House, G-6 C. C. Area, Shaheed-e-Millat Road, Karachi"
+    },
+    {
+        "ID": 621,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 622,
+        "NAME": "MEHRAN INTERNATIONAL",
+        "ADDRESS": "Katchi Gali no.1, Marriot Road, Karachi"
+    },
+    {
+        "ID": 623,
+        "NAME": "MUBARAK SONS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 624,
+        "NAME": "NATIONAL AGENCIES",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 625,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 626,
+        "NAME": "NAWAN TRADING",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 627,
+        "NAME": "PACIFIC DISTRIBUTOR",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 628,
+        "NAME": "PAK. CHINA",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 629,
+        "NAME": "PAKALON CORPORATION",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 630,
+        "NAME": "PAKISTAN BUSINESS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 631,
+        "NAME": "PHARMACEUTICALS MANAGEMENT SERVICES",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 632,
+        "NAME": "PROGRESSIVE ASSOCIATES",
+        "ADDRESS": "831 Mohammadi House, I.I. Chundrigar Road, Karachi"
+    },
+    {
+        "ID": 633,
+        "NAME": "PROGRESSIVE MEDICAL",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 634,
+        "NAME": "R. P. R.",
+        "ADDRESS": "B-11, KDA Scheme no 1, Shahra-e-Faisal, Karachi"
+    },
+    {
+        "ID": 635,
+        "NAME": "RABANIES",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 636,
+        "NAME": "RAHI ENTERPRISES",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 637,
+        "NAME": "RAJPUT",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 638,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 639,
+        "NAME": "REX MEDICAL STORE",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 640,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 641,
+        "NAME": "ROUSEL",
+        "ADDRESS": "C/o Sanofi Aventis Karachi"
+    },
+    {
+        "ID": 642,
+        "NAME": "S. K. CORPORATION",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 643,
+        "NAME": "S. M. YAHYA",
+        "ADDRESS": "Mandviwala Chamber, Talpur Road, Karachi"
+    },
+    {
+        "ID": 644,
+        "NAME": "SAITEX",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 645,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 646,
+        "NAME": "SERTYO",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 647,
+        "NAME": "SHAHEEN AGENCIES",
+        "ADDRESS": "Katchi Gali no 1, Marriot Road, Karachi"
+    },
+    {
+        "ID": 648,
+        "NAME": "SHAHID MEDICOS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 649,
+        "NAME": "SHAKIL ENTERPRISES",
+        "ADDRESS": "Wahab Arcade, M. A. Jinnah Road, Karachi"
+    },
+    {
+        "ID": 650,
+        "NAME": "SORAB JEE PATEL",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 651,
+        "NAME": "ST. JOHN",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 652,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 653,
+        "NAME": "U.M. ENTERPRISE",
+        "ADDRESS": "18-C III Floor Dolmen E, State Build, Block 7&8 Shaheed-e-Millat Road, Karachi"
+    },
+    {
+        "ID": 654,
+        "NAME": "UNIFEROZ",
+        "ADDRESS": "32/8, Sector 15, Korangi Industrial Area,P.O.Box# 8221, K Karachi,Pakistan",
+        "PHONE": "  92-21-5050140   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 655,
+        "NAME": "UNITED AGENCIES",
+        "ADDRESS": "Kharadar, opp HBL Napier Road, Karachi"
+    },
+    {
+        "ID": 656,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 657,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 658,
+        "NAME": "VETMAX TRADING",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 659,
+        "NAME": "WASEEM IMPEX",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 660,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 661,
+        "NAME": "WESTERN SCIENTIFIC TRADERS",
+        "ADDRESS": "Karachi"
+    },
+    {
+        "ID": 662,
+        "NAME": "WORLD TRADING AGENCIES",
+        "ADDRESS": "Karachi,Pakistan"
+    },
+    {
+        "ID": 663,
+        "NAME": "ALGA",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 664,
+        "NAME": "ALLIED TRADING",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 665,
+        "NAME": "AL-MARKAZ",
+        "ADDRESS": "5/2 Chughtai Park, 39-Nicholson Road. Lahore"
+    },
+    {
+        "ID": 666,
+        "NAME": "CHARISHED",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 667,
+        "NAME": "CLASS PHARMA",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 668,
+        "NAME": "DATA LABORATORIES",
+        "ADDRESS": "Sadiq Plaza 2nd Floor, Room no. 37, Shahra-e-Qaid Azam, Lahore"
+    },
+    {
+        "ID": 669,
+        "NAME": "F. RABBI & CO.",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 670,
+        "NAME": "FAM PHARMA",
+        "ADDRESS": "P. O. Box 10179, Lahore"
+    },
+    {
+        "ID": 671,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 672,
+        "NAME": "FAZALDIN SONS",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 673,
+        "NAME": "INTERNATIONAL CHEMPHAR",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 674,
+        "NAME": "KHALID BROTHERS",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 675,
+        "NAME": "MAARK PHARMA",
+        "ADDRESS": "Address: 35-G, Gulberg III, Lahore, Pakistan Lahore"
+    },
+    {
+        "ID": 676,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 677,
+        "NAME": "MARSHAL DRUG CORPORATION",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 678,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 679,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 680,
+        "NAME": "NENSER DRUG CO.",
+        "ADDRESS": "Nenser House, 230- Civic Centre, New Garden, Lahore"
+    },
+    {
+        "ID": 681,
+        "NAME": "PHARMAGEN BEXIMCO",
+        "ADDRESS": "2H Block H, Gulberg II, Lahore"
+    },
+    {
+        "ID": 682,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 683,
+        "NAME": "SELMORE AGENCIES",
+        "ADDRESS": "500 Dhadman-I, Lahore"
+    },
+    {
+        "ID": 684,
+        "NAME": "SONIA",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 685,
+        "NAME": "TABORINA CORPORATION",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 686,
+        "NAME": "TREAD PHARMACEUTICALS PVT LTD",
+        "ADDRESS": "Iqbal Complex, 60-Shadman Market, Lahore",
+        "PHONE": "  92-42-7564108   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 687,
+        "NAME": "USMAN DRUG HOUSE",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 688,
+        "NAME": "VET. MED",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 689,
+        "NAME": "WELL & WELL  PHARMA (PVT) LTD",
+        "ADDRESS": "Plot 7, Street S-8, RCCI, National Industrial Zone, Rawat Islamabad"
+    },
+    {
+        "ID": 690,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 691,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 692,
+        "NAME": "COMIPEX",
+        "ADDRESS": "Multan"
+    },
+    {
+        "ID": 693,
+        "NAME": "JUPITER ENTERPRISES",
+        "ADDRESS": "Peshawar"
+    },
+    {
+        "ID": 694,
+        "NAME": "MEDICO INTERNATIONAL",
+        "ADDRESS": "23,24 Gul Plaza,Charsadda Road, Peshawar"
+    },
+    {
+        "ID": 695,
+        "NAME": "RABBROZ ARZNEIMITTEL",
+        "ADDRESS": "S-25,26,27, II Floor, Bilour Plaza, Saddar Road, Cantt, Peshawar,Pakistan",
+        "PHONE": 284879,
+        "FAX": "BC"
+    },
+    {
+        "ID": 696,
+        "NAME": "RAZEE TRADING CORP.",
+        "ADDRESS": "Quetta"
+    },
+    {
+        "ID": 697,
+        "NAME": "ARROW INTERNATIONAL",
+        "ADDRESS": "E-3, Shah Plaza, M. Road, Rawalpindi"
+    },
+    {
+        "ID": 698,
+        "NAME": "AVIOMATIC",
+        "ADDRESS": "Rawalpindi"
+    },
+    {
+        "ID": 699,
+        "NAME": "BIO VET PHARMA",
+        "ADDRESS": "Rawalpindi"
+    },
+    {
+        "ID": 700,
+        "NAME": "MAJEED SONS",
+        "ADDRESS": "Shamim House, Jehlum Road, C/o Amson Rawalpindi"
+    },
+    {
+        "ID": 701,
+        "NAME": "MEDICATE INTERNATIONAL",
+        "ADDRESS": "Rawalpindi"
+    },
+    {
+        "ID": 702,
+        "NAME": "NAVEGAL LABORATORIES",
+        "ADDRESS": "OD-131, Ist Floor,K.K., Shopping Centre Muree Road, Shamsabad Rawalpindi",
+        "PHONE": "  51-4428859   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 703,
+        "NAME": "PAN CHEM",
+        "ADDRESS": "Chaklala Scheme no III, Rawalpindi Cantt"
+    },
+    {
+        "ID": 704,
+        "NAME": "VMD",
+        "ADDRESS": "O/569 Kartar Pyrn, Rawalpindi"
+    },
+    {
+        "ID": 705,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 706,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 707,
+        "NAME": "3A PHARMACEUTICALS PVT. LTD",
+        "ADDRESS": "F-08 4th Floor Mateen Shopping Galaxy Karachi"
+    },
+    {
+        "ID": 708,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 709,
+        "NAME": "AMASS ENTERPRISES",
+        "ADDRESS": "Banglow # 13/13,Block 13-A Gulshan-e-Iqbal Karachi,Pakistan",
+        "PHONE": "  92-42-4991196   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 710,
+        "NAME": "ARISTO PHARMACEUTICALS LTD",
+        "ADDRESS": "23-A, Shah Industrial Estate, Off Veera Road, Andher( West) Mumbai-400 053,India",
+        "PHONE": "  91 26734792   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 711,
+        "NAME": "BESTE PHARMA (PVT) LTD.",
+        "ADDRESS": "129-B, Block-2 P.E.C.H.S Karachi-75400,Pakistan",
+        "PHONE": "  021-4396535   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 712,
+        "NAME": "BIODERMA LABORATORIES",
+        "ADDRESS": "C/o Pharma Health"
+    },
+    {
+        "ID": 713,
+        "NAME": "CEDAR PHARM (PVT) LTD.",
+        "ADDRESS": "Karachi,Pakistan"
+    },
+    {
+        "ID": 714,
+        "NAME": "CITY PHARMA",
+        "ADDRESS": "C-51,Block-3 Darul Aman Society,Haider Ali Rd,Near Hill Park, Karachi,Pakistan",
+        "PHONE": "  92-21-4528972   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 715,
+        "NAME": "DENTECIA",
+        "ADDRESS": "C/o S.J.&G Fazul Ellahie Karachi",
+        "PHONE": "  92-21-4528709   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 716,
+        "NAME": "DUTCH PHARMACEUTICALS",
+        "ADDRESS": "A-19, Block-5,Gulshan-e-Iqbal, Karachi,Pakistan",
+        "PHONE": "  92-21-496 37 73   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 717,
+        "NAME": "ELLAHI PHARMACEUTICAL (PVT) LTD.",
+        "ADDRESS": "Plot no.19 , Sector 16, Korangi Industrial Area C/o Genix pharma Karachi,Karachi",
+        "PHONE": 5060871,
+        "FAX": "BC"
+    },
+    {
+        "ID": 718,
+        "NAME": "EUROPHARMA INTERNATIONAL"
+    },
+    {
+        "ID": 719,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 720,
+        "NAME": "GERISHON INTERNATIONAL",
+        "ADDRESS": "121-122 Abdullah Square,New Charli Karachi,Pakistan",
+        "PHONE": "  92-21-2411835   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 721,
+        "NAME": "GLAXY PHARMACEUTICALS",
+        "ADDRESS": "Suit # 337-A, 3rd Floor, Bhayani Shooping Centre,SE-5,Block-M,North Nazimabad Karachi,Pakistan",
+        "PHONE": "  92-42-6971776   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 722,
+        "NAME": "GUL-E-FEROZA",
+        "ADDRESS": "2nd Floor,3-E Ejaz Arcade,Main Market Gulberg II Lahore",
+        "PHONE": "  92-42-5751607   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 723,
+        "NAME": "HINOVEX PHARMA",
+        "ADDRESS": "(HILTON PHARMA GROUP OF COMPANIES)",
+        "PHONE": "  111-124-000   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 724,
+        "NAME": "HORIZON PHARMACEUTICALS",
+        "ADDRESS": "House# 13, Block-3, Rohail Khand Society,Karachi Karachi,Pakistan",
+        "PHONE": "  021-4390735   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 725,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 726,
+        "NAME": "INNO PHARM",
+        "ADDRESS": "203.,Anum Blessings Plot Z,C.C Area Block 7/8,K.C.H.S.U Pakistan,Pakistan",
+        "PHONE": "  92-21-4541877   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 727,
+        "NAME": "IPRAM INTERNATIONAL",
+        "ADDRESS": "Plot No.26, S.S.3, National Industrial Zone,Rawat Islamabad,Pakistan",
+        "PHONE": "  92-51-441 51 21   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 728,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 729,
+        "NAME": "JAFSON PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "65, Industrial Estate Jamrud Road, Peshawar. Peshawar,Pakistan",
+        "PHONE": "  92-91-5818421   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 730,
+        "NAME": "LIFE CARE PHARMACEUTICALS",
+        "ADDRESS": "Suite # 337, Bhayani Shopping Centre, SE-5, Block M, Nor Karachi,Pakistan",
+        "PHONE": "  92-21-4541877   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 731,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 732,
+        "NAME": "MED MARK HEALTH CARE"
+    },
+    {
+        "ID": 733,
+        "NAME": "MEDLINE HEALTH CARE"
+    },
+    {
+        "ID": 734,
+        "NAME": "NEO NEXUS PAKISTAN (PVT) LTD.",
+        "ADDRESS": "117 C, 1st floor, 12th East Street, Phase 1, D.H.A, Karachi Karachi,Pakistan",
+        "PHONE": "  92-21-5384925   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 735,
+        "NAME": "OLIVE PHARMACEUTICALS",
+        "ADDRESS": "Office# 9, Services Plaza-5 The Mall Rawalpindi Rawalpindi",
+        "PHONE": "  92-51-5516216   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 736,
+        "NAME": "ORISON PHARMA",
+        "ADDRESS": "77-F, Imam Ahmed Rd, Block-6, PECHS, Karachi--74500"
+    },
+    {
+        "ID": 737,
+        "NAME": "PAKISTAN DRUG HOUSE (PVT) LTD.",
+        "ADDRESS": "Opp. Parsi Tample,Molana Din Mohd, Wafai Rd, Karachi,Pakistan",
+        "PHONE": "  92-21-2620787   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 738,
+        "NAME": "PHARM ARK (PVT) LTD.",
+        "ADDRESS": "12th Floor Arkay Squire (Ext) Shahra-e-Liquat Karachi,Pakistan",
+        "PHONE": "  92-21-2431009   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 739,
+        "NAME": "PHARMAKO PAKISTAN",
+        "ADDRESS": "407-Kashif Centre, Shahra-e-Faisal Karachi,Pakistan",
+        "PHONE": "  92-21-5682449   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 740,
+        "NAME": "PRIMEX PHARMA",
+        "ADDRESS": "Suite #M-9, Crystal Homes Sharfabad Karachi",
+        "PHONE": "  92-21-4939397   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 741,
+        "NAME": "REVITAS (PVT) LTD.",
+        "ADDRESS": "Sector 29, LC-41/A Landi, Industrial Trading Estate Karachi",
+        "PHONE": "  92-21-5022219   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 742,
+        "NAME": "RG PHARMACEUTICA (PVT) LTD.",
+        "ADDRESS": "Suit # 703, Progressive Square, P.E.C.H.S., Block-6, Shahrah-e- Faisal, Karachi-75400,Pakistan",
+        "PHONE": "  (92-21) 4310098   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 743,
+        "NAME": "RISING PHARMA",
+        "ADDRESS": "24, Circular Rd,Opp. Lohari Gate Lahore",
+        "PHONE": "  92-42-7322990   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 744,
+        "NAME": "RITE AID DRUGS (PVT) LTD.",
+        "ADDRESS": "304, Clifton centre, DC 1, Block 5, Clifton Karachi"
+    },
+    {
+        "ID": 745,
+        "NAME": "ROMEN HOMEO/HERB PHARMA"
+    },
+    {
+        "ID": 746,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 747,
+        "NAME": "S.S. PHARMA",
+        "ADDRESS": "B- 601-614, Saima Trade Towers, I.I. Chundrigar Road, Near Jang Press Karachi,Pakistan",
+        "PHONE": "  (92-21) 2210748   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 748,
+        "NAME": "SAFEWAY HEALTH CARE",
+        "ADDRESS": "Bungalow # D-42/1,Block 3, KDA, Scheme 5 Kehkeshan Clifto Karachi",
+        "PHONE": "  92-21-5874735   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 749,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 750,
+        "NAME": "SAVIOUR PHARMACEUTICALS",
+        "ADDRESS": "54-B LGF Land Mark Plaza Jail Road Lahore Lahore"
+    },
+    {
+        "ID": 751,
+        "NAME": "SHAZALS PHARMACEUTICALS",
+        "ADDRESS": "House No. 97, Block-A, Satellite Town, Rawalpindi,Pakistan",
+        "PHONE": 4426567,
+        "FAX": "BC"
+    },
+    {
+        "ID": 752,
+        "NAME": "TASK INTERNATIONAL PHARMA",
+        "ADDRESS": "712, Mashriq centre, Block 14, Gulshan-e-Iqbal Karachi,Pakistan"
+    },
+    {
+        "ID": 753,
+        "NAME": "UNIVERSAL ENTERPRISES",
+        "ADDRESS": "29-Block-3,Overseas Co-operative Housing Society Road,Karachi Karachi-74800,Pakistan",
+        "PHONE": "  92-21-4923878   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 754,
+        "NAME": "VERTEX PHARMA",
+        "ADDRESS": "C-3, Shalimar Appartment, Block-M, North Nazimabad, Karachi",
+        "PHONE": "  92-21-667 64 29   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 755,
+        "NAME": "VISION PHARMACUETICALS",
+        "ADDRESS": "224,Street No.1,I-10/3.Industrial Area Islamabad,Pakistan",
+        "PHONE": "  +92 (51) 4440676   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 756,
+        "NAME": "WISDOM THERAPEUTICS",
+        "ADDRESS": "55/5, Shadman Market, Lahore,Pakistan",
+        "PHONE": "  92-21-759 02 26   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 757,
+        "NAME": "XEMBURG INTERNATIONAL",
+        "ADDRESS": "1st Floor M.K Arcad Near Muslim League House, 32 Davis Roa Lahore,Pakistan",
+        "PHONE": "  92-42-6369645   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 758,
+        "NAME": "ZEEST PHARMA",
+        "ADDRESS": "Suite #1, Mezzanine, 547-548 C, PECHS, Block-2 Karachi,Pakistan",
+        "PHONE": "  92-21-4386294   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 759,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 760,
+        "NAME": "CASA PHARM (PVT) LTD.",
+        "ADDRESS": "C/o Akhai Pharma Karachi",
+        "PHONE": "  92-21-6628366   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 761,
+        "NAME": "EXCEL PHARMA",
+        "ADDRESS": "B-180,Block-6,Gulshan-e-Iqbal, Karachi Karachi,Pakistan",
+        "PHONE": "  21-4983695   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 762,
+        "NAME": "GENETICS PHARMACEUTICALS",
+        "ADDRESS": "16-C, Samanabad Lahore,Pakistan"
+    },
+    {
+        "ID": 763,
+        "NAME": "F.M. PHARMACEUTICALS INTERNATIONAL",
+        "ADDRESS": "3-Asif Flats,Nishtarabad Peshawar,Pakistan",
+        "PHONE": "  92-91-2571942   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 764,
+        "NAME": "MEDERA PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "Plot No.249/A, Industrial Triangle, Kahuta Road, Islamabad,Pakistan",
+        "PHONE": "  051-4492014   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 765,
+        "NAME": "EVEREST PHARMACEUTICALS",
+        "ADDRESS": "Plot No-124, Industrial Triangle, Kahuta Road Islamabad,Pakistan"
+    },
+    {
+        "ID": 766,
+        "NAME": "CARDEX PHARMACEUTICALS",
+        "ADDRESS": "38-A, Industrial Estate, Hayatabad Peshawar,Pakistan"
+    },
+    {
+        "ID": 767,
+        "NAME": "ROOTS (PVT) LTD.",
+        "ADDRESS": "Bambla Kaniath, Soan Valley Rawalpindi,Pakistan"
+    },
+    {
+        "ID": 768,
+        "NAME": "MILLINIUM PHARMACEUTICAL COMPANY",
+        "ADDRESS": "10/5, 5th Floor, Sharja Centre Altaf Hussain Road, New Challi, Karachi Karachi-74400,Pakistan",
+        "PHONE": "  021-32473483   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 769,
+        "NAME": "DERMAGEN PHARMA PAKISTAN (PVT) LIMITED",
+        "ADDRESS": "207-D/2, MODEL TOWN, Lahore-54700,Pakistan",
+        "PHONE": "  042-5847063   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 770,
+        "NAME": "LINZ PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "Linx House,16 Maqbool Society,Block 7-8 Lal Mohammad Choudhery Road Karachi,Pakistan",
+        "PHONE": 4387517,
+        "FAX": "BC"
+    },
+    {
+        "ID": 771,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 772,
+        "NAME": "KWANG MYUNG PHARM CO LTD DBA KM PHARM CO LTD",
+        "ADDRESS": "686 53 SINDAEBANG 1 DONG DONGJAK KU SEOUL-156 011,South Korea"
+    },
+    {
+        "ID": 773,
+        "NAME": "BIOCARE PHARMACEUTICAL",
+        "ADDRESS": "705,7th Floor, Progressive Square,Block-6,P.E.C.H.S, Shahr-e-Faisal Nursery Karachi,Pakistan",
+        "PHONE": "  021-343148612   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 774,
+        "NAME": "ACME LABORATORIES PAKISTAN (PVT) LTD.",
+        "ADDRESS": "431-E,JOHAR TOWN LAHORE,PAKISTAN",
+        "PHONE": 5170933,
+        "FAX": "BC"
+    },
+    {
+        "ID": 775,
+        "NAME": "ZESION PHARMACEUTICAL (PVT) LTD",
+        "ADDRESS": "408, Dosal Arcade Jinnah Avenue, Blue Area, Islamabad,Pakistan",
+        "PHONE": "  92-51-2271139   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 776,
+        "NAME": "ORGANON PHARMACEUTICAL OSS",
+        "ADDRESS": "C\\o OBS Healthcare ,NETHERLANDS"
+    },
+    {
+        "ID": 777,
+        "NAME": "MEDINET PHARMACEUTICALS",
+        "ADDRESS": "Office No.101,1st Floor, Windsong Palace, Pllot # A-16, Block 7/8 KCHS, Shahrah-e-Faisal Karachi,PAKISTAN",
+        "PHONE": "  021-4389341   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 778,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 779,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 780,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 781,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 782,
+        "NAME": "BRICK LABORATORIES",
+        "ADDRESS": "5-A Ahbab Colony 12 KM., Multan Road Lahore,PAKISTAN",
+        "PHONE": 5432056,
+        "FAX": "BC"
+    },
+    {
+        "ID": 783,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 784,
+        "NAME": "FYNK PHARMACEUTICALS",
+        "ADDRESS": "ROOM NO. 18,3RD FLOOR,GOHAR CENTRE,WAHTAT ROAD,LAHORE LAHORE",
+        "PHONE": 5844063,
+        "FAX": "BC"
+    },
+    {
+        "ID": 785,
+        "NAME": "GENE-TECH LABORATORIES",
+        "ADDRESS": "A-802 AMBER TOWER,P.E.C.H.S., SHAHRAH-E-FAISAL,KARACHI Karachi,PAKISTAN",
+        "PHONE": 4543137,
+        "FAX": "BC"
+    },
+    {
+        "ID": 786,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 787,
+        "NAME": "HI-WARBLE PHARMACEUTICAL (PVT) LTD",
+        "ADDRESS": "44 B II. Phase 1, Johar Town Lahore,PAKISTAN",
+        "PHONE": "  92 - 42 - 5176939   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 788,
+        "NAME": "IBL HEALTH CARE (PVT) LTD",
+        "ADDRESS": "9th Floor,N.I.C.Building., Abbasi Shaheed Road., OFF Shahra-e-Faisal Road. C/o Hakim-Sons Impex Karachi,PAKISTAN",
+        "PHONE": 56827725683841,
+        "FAX": "BC"
+    },
+    {
+        "ID": 789,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 790,
+        "NAME": "MASCON PHARMACAL",
+        "ADDRESS": "23-C, Zafar Ali Road, Gulberg-5, Lahore,Pakistan"
+    },
+    {
+        "ID": 791,
+        "NAME": "MEDICS LABORATORIES",
+        "ADDRESS": "DP-32-C North Karachi, Industrial Area Karachi,Pakistan",
+        "PHONE": 6950946,
+        "FAX": "BC"
+    },
+    {
+        "ID": 792,
+        "NAME": "MEGA PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "524-A, Faisal Town, Moulana Shaukat Ali Rd, Lahore,Pakistan",
+        "PHONE": "  92-42-5116111   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 793,
+        "NAME": "NOA HEMIS PHARMACEUTICALS",
+        "ADDRESS": "Plot-154,Sector 23, Korangi Industrial Area. Karachi,Pakistan",
+        "PHONE": 5073589,
+        "FAX": "BC"
+    },
+    {
+        "ID": 794,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 795,
+        "NAME": "STERN PHARMA",
+        "ADDRESS": "83-G,Block-6,P.E.C.H.S. Karachi,PAKISTAN",
+        "PHONE": "  021-34391210   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 796,
+        "NAME": "SYCOM PHARMACEUTICALS",
+        "ADDRESS": "24- 2nd Floor, Shahid Plaza, University Rd, Peshawar,Pakistan"
+    },
+    {
+        "ID": 797,
+        "NAME": "USAWA PHARMACEUTICALS",
+        "ADDRESS": "146 Special Industrial Zone (export processing zone) Risal Mardan Pakistan Risalpur,Pakistan",
+        "PHONE": "  0937 -880368   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 798,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 799,
+        "NAME": "FUMY ENTERPRISES",
+        "ADDRESS": "Allahwala Building Medicine Street No.1, Denso Hall, Karachi, Sindh,Karachi Karachi,PAKISTAN",
+        "PHONE": 32438108,
+        "FAX": "BC"
+    },
+    {
+        "ID": 800,
+        "NAME": "MIDEAST ENTERPRISES",
+        "ADDRESS": "Plot #85 Sector 15,Korangi Industrial Area, Karachi,Pakistan",
+        "PHONE": "  92-21-5050481   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 801,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 802,
+        "NAME": "ZANCTOK PHARMACEUTICALS",
+        "ADDRESS": "F/5 S.I.T.E., Hyderabad,Pakistan",
+        "PHONE": 4671357,
+        "FAX": "BC"
+    },
+    {
+        "ID": 803,
+        "NAME": "HOSPITAL SERVICES & SALES",
+        "ADDRESS": "13-B, Block-6,P.E.C.H.S., Shahrah-e-Faisal, Karachi Karachi,Pakistan"
+    },
+    {
+        "ID": 804,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 805,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 806,
+        "NAME": "NESTLE PAKISTAN LIMITED",
+        "ADDRESS": "NestlÃ© Corporate Office,308 Upper Mall, Lahore, Pakistan -874,pakistan"
+    },
+    {
+        "ID": 807,
+        "NAME": "VEGA PHARMACEUTICALS LTD.",
+        "ADDRESS": "217-A New Muslim Town Lahore,Pakistan",
+        "PHONE": "  92-42-7541465   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 808,
+        "NAME": "HEALTHTEK (PVT) LTD",
+        "ADDRESS": "41-Q,Block-6, P.E.CH.S Karachi-75350,Pakistan",
+        "PHONE": "  92-91-4391048   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 809,
+        "NAME": "COMBAT PHARMA",
+        "ADDRESS": "Combat Eruasian Pharma 18-A, Hassan Street,Ghousia Colony, Iqbal Town. Lahore,Pakistan",
+        "PHONE": "  92-42-7567575   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 810,
+        "NAME": "EMRIZ PHARMA",
+        "ADDRESS": "P.O Box.No 16023. Karachi"
+    },
+    {
+        "ID": 811,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 812,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 813,
+        "NAME": "HOORA PHARMA",
+        "ADDRESS": "G-143,Defence View, Shaheed -e-Millat Expressway Karachi,Pakistan",
+        "PHONE": "  92-21-5388249   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 814,
+        "NAME": "NEUTRA SOFT HEALTH CARE",
+        "ADDRESS": "Office No. 07, Al-Ahmed Mansion, 2nd Floor, Block 13-B, Karachi,Pakistan",
+        "PHONE": "  92-21-4813866   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 815,
+        "NAME": "NUTRA-MED PRIVATE LIMITED",
+        "ADDRESS": "Kashif Centre, Shahr-e-Faisal Karachi"
+    },
+    {
+        "ID": 816,
+        "NAME": "SQUARE PHARMACEUTICALS",
+        "ADDRESS": "Square Centre, 48, Mohakhali C/A, Dhaka-1212,Bangladesh"
+    },
+    {
+        "ID": 817,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 818,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 819,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 820,
+        "NAME": "SYNTEX PHARMACEUTICALS",
+        "ADDRESS": "Kamara Road,Attock City Attock City",
+        "PHONE": "  92-57-2610888   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 821,
+        "NAME": "ABBOTT LABORATORIES (PAKISTAN) LIMITED.",
+        "ADDRESS": "Opp.Radio Pakistan Transmission Centre, Hyderabad Road, Landhi Karachi-7229,Pakistan",
+        "PHONE": 5013245,
+        "FAX": "BC"
+    },
+    {
+        "ID": 822,
+        "NAME": "ACTI-MED PHARMA (PVT) LTD.",
+        "ADDRESS": "Al-Rehman Center A-31 Suit # 101,K.U.C.HS, Shaheed-e-Millat Road Karachi",
+        "PHONE": "  (+92-21) 34384278   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 823,
+        "NAME": "NEUTROGENA  PHARMA",
+        "ADDRESS": "C-51, Block-3, Darul-Aman Society,Hayder Ali Road,",
+        "PHONE": 4528972,
+        "FAX": "BC"
+    },
+    {
+        "ID": 824,
+        "NAME": "RASCO PHARMA",
+        "ADDRESS": "5.5km Raiwind Road Lahore,Pakistan",
+        "PHONE": "  42-5321346   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 825,
+        "NAME": "SHAREX LABORATORIES (PVT.) LTD.",
+        "ADDRESS": "Sharex Colony Sadiqabad Sadiqabad-64350,Pakistan",
+        "PHONE": "  92-68-5702853   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 826,
+        "NAME": "LEADS PHARMA (PVT) LTD",
+        "ADDRESS": "Plot No-81- A, Street # 6, I-10/3 Islamabad,Pakistan",
+        "PHONE": "  92-51-4441080,92-51-4431463   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 827,
+        "NAME": "NOVA PHARMACEUTICALS",
+        "ADDRESS": "131, Outside Katchery Gate Peshawar,Pakistan",
+        "PHONE": 219361,
+        "FAX": "BC"
+    },
+    {
+        "ID": 828,
+        "NAME": "SYMANS PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "1st floor Symans Tower Hotel, 25, Lower Mall Lahore,Pakistan",
+        "PHONE": "  042-7234139   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 829,
+        "NAME": "QINTAR PHARMACUTICALS",
+        "ADDRESS": "14-A P.S.I.E Lahore Road, Sargodha,Pakistan",
+        "PHONE": 3720658,
+        "FAX": "BC"
+    },
+    {
+        "ID": 830,
+        "NAME": "NOVINS INTERNATIONAL",
+        "ADDRESS": "D-127, Block-4, Clifton Karachi,Pakistan",
+        "PHONE": "  021-5865275   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 831,
+        "NAME": "MEDISEARCH PHARMACAL(PVT) LTD",
+        "ADDRESS": "B-31, Agro Square, Shadman Market Lahore,Pakistan",
+        "PHONE": "  042-7537932   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 832,
+        "NAME": "JAWA PHARMACEUTICALS(PVT) LTD.",
+        "ADDRESS": "112/10 Quaid-e- Azam Industrial Area Kot Lakhpat Lahore,Pakistan",
+        "PHONE": "  042-5110906   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 833,
+        "NAME": "TECHNOVISION PHARMACEUTICALS",
+        "ADDRESS": "1, Blue Star Building, I &T Center, G-8/4 Islamabad,Pakistan",
+        "PHONE": 2261935,
+        "FAX": "BC"
+    },
+    {
+        "ID": 834,
+        "NAME": "GLITZ PHARMA",
+        "ADDRESS": "205, Muhammadia Plaza College Road Rawalpindi,Pakistan",
+        "PHONE": "  ++92-51-5552487   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 835,
+        "NAME": "FOZAN PHARMACEUTICALS INDUSTRIERS (PVT) LTD",
+        "ADDRESS": "36-A Indutrial State Hyatabad Peshawar,Pakistan",
+        "PHONE": 5817900,
+        "FAX": "BC"
+    },
+    {
+        "ID": 836,
+        "NAME": "REX PHARMACEUTICALS  PAKISTAN",
+        "ADDRESS": "DP-3, Sector 12-D North Karachi Indutrial Area Karachi,Pakistan",
+        "PHONE": 6976216,
+        "FAX": "BC"
+    },
+    {
+        "ID": 837,
+        "NAME": "RORYAN PHARMACEUTICAL INDUSTRIES (PVT) LTD",
+        "ADDRESS": "Plot # 85-B Industrial Estate Hayatabad Peshawar,Pakistan"
+    },
+    {
+        "ID": 838,
+        "NAME": "OLIVE LABORATORIES",
+        "ADDRESS": "52-S6, National Industrial Zone, Rawat. Islamabad,Pakistan"
+    },
+    {
+        "ID": 839,
+        "NAME": "HOFFMAN HEALTH PAKISTAN LTD.",
+        "ADDRESS": "20-Masoon Road, Lahore,Pakistan",
+        "PHONE": 6375104,
+        "FAX": "BC"
+    },
+    {
+        "ID": 840,
+        "NAME": "NEXTAR PHARMA (PVT) LTD.",
+        "ADDRESS": "176 Block II, PECHS, Karachi,Pakistan",
+        "PHONE": 4850271,
+        "FAX": "BC"
+    },
+    {
+        "ID": 841,
+        "NAME": "BIO MARK FARMA",
+        "ADDRESS": "C/o Accurate pharma Lahore,Pakistan"
+    },
+    {
+        "ID": 842,
+        "NAME": "BD MEDICAL",
+        "ADDRESS": "19-D/I, Gulberg- III Lahore-54660,Pakistan",
+        "PHONE": "  042-5718056   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 843,
+        "NAME": "GALAXY PHARMA (PVT) LTD.",
+        "ADDRESS": "B-102 BLOCK-6 GULSHAN0E-IQBAL Karachi,Pakistan",
+        "PHONE": "  00 92 21 4817554   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 844,
+        "NAME": "SALUS PHARMACEUTICALS",
+        "ADDRESS": "148/3, Murree Road Rawalpindi,Pakistan",
+        "PHONE": "  051-5584568   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 845,
+        "NAME": "MERCY PHARMACEUTICAL LTD",
+        "ADDRESS": "Flat #2 Behind Shell Pump, Hussain Abad, Gulbahar Peshawar,Pakistan",
+        "PHONE": 218120,
+        "FAX": "BC"
+    },
+    {
+        "ID": 846,
+        "NAME": "HEPA CARE",
+        "ADDRESS": "C/o Accurate Medical Supplies Lahore,Pakistan"
+    },
+    {
+        "ID": 847,
+        "NAME": "KURATIVE PAK (PVT) LTD",
+        "ADDRESS": "C-51, Darulaman Society, Haider Ali Road, Near Hill Park, Block 3 Karachi,Pakistan",
+        "PHONE": 4551908,
+        "FAX": "BC"
+    },
+    {
+        "ID": 848,
+        "NAME": "AZRON PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "27-28/2b Sayed Maratab Ali, Road, FCC, Gulberg IV Lahore,Pakistan",
+        "PHONE": "  042-5752339   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 849,
+        "NAME": "URSAPHARM",
+        "ADDRESS": "Iqbal Brothers House No 14 Gulbahar Colony # 1 Peshawar,Pakistan",
+        "PHONE": 253821,
+        "FAX": "BC"
+    },
+    {
+        "ID": 850,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 851,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 852,
+        "NAME": "SCHAZOO ZAKA",
+        "ADDRESS": "Schazoo House, 45-G.T. Road, Lahore,Pakistan",
+        "PHONE": "  (92-42) 6856631   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 853,
+        "NAME": "DANAS PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "312, Industrial Triangle Kahuta Road Islamabad,Pakistan",
+        "PHONE": 514491674,
+        "FAX": "BC"
+    },
+    {
+        "ID": 854,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 855,
+        "NAME": "LOWITT PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot.No.24 Industrial Estate, Peshawar",
+        "PHONE": "  92-91-5810545   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 856,
+        "NAME": "MEDI PLUS PHARMA",
+        "ADDRESS": "479,Block-P,L.C.C.H.S,Defence Karachi"
+    },
+    {
+        "ID": 857,
+        "NAME": "V CARE INTERNATIONAL",
+        "ADDRESS": "Sunset Commercial Lane, 24th Commercial Street, Phase II, Extension, Karachi",
+        "PHONE": "  021-5394957   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 858,
+        "NAME": "TANSY PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "House # 3, Rehman Street Behind Block # 3Sodiwal Colony, Multan Road. Lahore,Pakistan",
+        "PHONE": "  042-7470900   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 859,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 860,
+        "NAME": "UNICORN PHARMA",
+        "ADDRESS": "E-30 Sector-15 Korangi Industrial Area C/o TG Pharma Karachi-74900,Pakistan",
+        "PHONE": "  021-5053973   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 861,
+        "NAME": "MARIONS LABORATORIES PAKISTAN"
+    },
+    {
+        "ID": 862,
+        "NAME": "ATC PAKISTAN (PVT) LTD",
+        "ADDRESS": "Room #210,2nd floor,Europa Center,Hasrat Mohani Road -74000,Pakistan",
+        "PHONE": 70116732621219,
+        "FAX": "BC"
+    },
+    {
+        "ID": 863,
+        "NAME": "MAPLE PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot No. 147, Sector 23, Korangi Industrial Area Karachi-74900,Pakistan",
+        "PHONE": "  92-21=5113934   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 864,
+        "NAME": "ACCURATE MEDICAL SUPPLIERS",
+        "ADDRESS": "79, Aibak Block New Garden Town Lahore",
+        "PHONE": "  042-5846897   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 865,
+        "NAME": "ALFALAH PHARMA (PVT) LTD.",
+        "ADDRESS": "12-KM, Sheikhupora Road Lahore-54750,Pakistan",
+        "PHONE": "  042-791-8021   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 866,
+        "NAME": "ALSON PHARMACEUTICALS",
+        "ADDRESS": "169, Industrial Estate, Hyatabed. Peshawar",
+        "PHONE": "  091-828164   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 867,
+        "NAME": "ARIES PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "45, Amin Mansion, G.T Peshawar,Pakistan",
+        "PHONE": "  0092-91-2212239   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 868,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 869,
+        "NAME": "TRIGON PHARMACEUTICALS PAKISTAN (PVT) LTD.",
+        "ADDRESS": "Lahore"
+    },
+    {
+        "ID": 870,
+        "NAME": "WEBROS PHARMACEUTICALS",
+        "ADDRESS": "H-630, ST. # 95, I-8/4, Main double Road. Islamabad",
+        "PHONE": "  051-4447595   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 871,
+        "NAME": "ZAIN PHARMACEUTICAL",
+        "ADDRESS": "S-15, Al-Fareed Center Peshawar,Pakistan",
+        "PHONE": "  091-246813   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 872,
+        "NAME": "SALZA PHARMACEUTICALS"
+    },
+    {
+        "ID": 873,
+        "NAME": "NOVA MED PHARMACEUTICALS",
+        "ADDRESS": "28-KM Ferozpur Road Lahore",
+        "PHONE": "  042-5272566   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 874,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 875,
+        "NAME": "ZINTA PHARMACEUTICALS INDUSTRIES",
+        "ADDRESS": "68, Industrial Estate, Hyatabad Peshawar",
+        "PHONE": "  091-5828601   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 876,
+        "NAME": "MAC & RANS PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "74 A/2, Abubakar Block, New Garden Town Lahore",
+        "PHONE": "  92-42-5882021   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 877,
+        "NAME": "STALWART PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Suit # S-2,3 Al Faid Center Eid Gah Road, Peshawar"
+    },
+    {
+        "ID": 878,
+        "NAME": "SPIRAX INTERNATIONAL",
+        "ADDRESS": "Suit 2 & 3 Ground Floor, Beside ABC Neelam Ghar, Nursery, P.E.C.H.S Karachi",
+        "PHONE": "  021-4556238   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 879,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 880,
+        "NAME": "PHARMARK (PVT) LTD",
+        "ADDRESS": "ROOM 33, 12 th FLOOR, ARKAY SQUARE (EXT) SHAHRAH-E- LIAQUAT, Karachi,PAKISTAN",
+        "PHONE": "  021- 92- 21- 2433217   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 881,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 882,
+        "NAME": "GRAY`S PHARMACEUTICALS",
+        "ADDRESS": "Plot No.442, Street No.7, I-9/2,Industrial Area Islamabad,PAKISTAN",
+        "PHONE": "  051- 4443234   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 883,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 884,
+        "NAME": "HANSEL PHARMACUEUTICAL PVT (LTD)",
+        "ADDRESS": "18- Sikander Block Allama Iqbal Town. LAHORE-54570,PAKISTAN",
+        "PHONE": "  92-42-5414249   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 885,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 886,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 887,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 888,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 889,
+        "NAME": "FRIENDS PHARMA (PVT)  LTD",
+        "ADDRESS": "5/39, Lower Mall, Near Session Courts, Lahore-54000,Pakistan",
+        "PHONE": "  92- 42 7114410   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 890,
+        "NAME": "SYNCHRO PHARMACEUTICALS",
+        "ADDRESS": "77, Industrial Estate, Kot Lakhpat Lahore,PAKISTAN",
+        "PHONE": "  92-42- 5140764   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 891,
+        "NAME": "VISION 2000 PLUS",
+        "ADDRESS": "Suite # 1. 1st Floor, Arshad Plaza, Khyber Super Market. Peshawar,PAKISTAN",
+        "PHONE": "  091-5271398   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 892,
+        "NAME": "VITAL MARK LIBORATORIES (PVT) LTD",
+        "ADDRESS": "3rd floor , Fareed Plaza, 157/3, Ferozepor Road, Lahore C/o Geofman",
+        "PHONE": "  92-21-7576645   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 893,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 894,
+        "NAME": "ROOMI ENTERPRISES (PVT) LTD",
+        "ADDRESS": "Plot# 16, Sector 23, Korangi Industrial Area Karachi,Pakistan",
+        "PHONE": "  92-21-5060418, 5061001   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 895,
+        "NAME": "ROYAL PHARMACUTICLAS",
+        "ADDRESS": "ONB -E/2 Mehar Sons Estate Talpur ONB -E/2 Mehar Sons Estate, Talpur Road, Karachi-74000,Pakistan",
+        "PHONE": "  92-21-2412322   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 896,
+        "NAME": "NUZZER PHARMACEUTICALS & NUTRITONS",
+        "ADDRESS": "222/A, K.M.C.H.S, Block 7/8, Hill Park, Justicie Inaamullah rd, Karachi",
+        "PHONE": "  92-21-4390735   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 897,
+        "NAME": "KUNG DONG PHARMA"
+    },
+    {
+        "ID": 898,
+        "NAME": "DAEW & CO. PHARMACEUTICALS",
+        "ADDRESS": "Sunny Side Villa 15-C/L-8 Belgrave Street, Near Clifton Bridge ,Pakistan",
+        "PHONE": "  92-21   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 899,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 900,
+        "NAME": "AFTA PHARMA",
+        "ADDRESS": "Scientific Office: Nawab Estate, 4th Floor, Denso Hall, M.A.Jinnah Road ,Pakistan",
+        "PHONE": "  92-21-2438108   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 901,
+        "NAME": "LEXICON PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "G-3, Pioneer Arcade, Abul Hassan Asphahani Road, C/o Amarant Pharma Karachi,Pakistan",
+        "PHONE": "  021-4648322   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 902,
+        "NAME": "H.E.J RESEARCH INSITUTE OF CHEMISTRY",
+        "ADDRESS": "ICC BS University Of Karachi"
+    },
+    {
+        "ID": 903,
+        "NAME": "ALLIANCE PHARMACEUTICALS (PVT) LTD.",
+        "ADDRESS": "112-A Hayatabad,Industrial Estate Peshawar",
+        "PHONE": 5830268,
+        "FAX": "BC"
+    },
+    {
+        "ID": 904,
+        "NAME": "ANCHOR PHARMA",
+        "ADDRESS": "T-44, 3rd Floor Mateen Plaza, Tariq Road Karachi"
+    },
+    {
+        "ID": 905,
+        "NAME": "GEOFMAN IMPEX",
+        "ADDRESS": "Geofman Arcade,204-E.I Lines Dr. Doud Pota Road Karachi",
+        "PHONE": "  021-5681341   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 906,
+        "NAME": "MAKSON PHARMACEUTICALS",
+        "ADDRESS": "80-B,Street No-6, I-10/3, Industrial Area Islamabad",
+        "PHONE": "  051-4436522   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 907,
+        "NAME": "ONTECH CORPORATION",
+        "ADDRESS": "B-90, Block-10 Gulshan-e-Iqbal Karachi"
+    },
+    {
+        "ID": 908,
+        "NAME": "WESTMED PHARM (PVT) LTD",
+        "ADDRESS": "86-B, Mohammad Ali Society Karachi",
+        "PHONE": 4533288,
+        "FAX": "BC"
+    },
+    {
+        "ID": 909,
+        "NAME": "UN PHARMA INTERNATIONAL",
+        "ADDRESS": "D-806 Kawaish Crown Plaza Shahra-e-Faisal Karachi,Pakistan",
+        "PHONE": "  021-4321733   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 910,
+        "NAME": "BIOTECHNA (PVT) LTD",
+        "ADDRESS": "M-2 Date Centre, 125-U Block-2, P.E.C.H.S., Khalid Bin Walid Road Karachi,Pakistan",
+        "PHONE": "  021-4387327   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 911,
+        "NAME": "RENACON PHARMA",
+        "ADDRESS": "18-k.m., Ferozepur Road, Lahore. Lahore,Pakistan",
+        "PHONE": 5730967,
+        "FAX": "BC"
+    },
+    {
+        "ID": 912,
+        "NAME": "SHAWAN PHARMACEUTICALS",
+        "ADDRESS": "Plot # 37, Road; NS-1, National Industrial Zone,Rawat Islamabad,PAKISTAN"
+    },
+    {
+        "ID": 913,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 914,
+        "NAME": "NEXUS PHARMA (PVT) LTD",
+        "ADDRESS": "Suit # 2, 1st Floor, Al- Babar Center, F-8 Markaz, ,PAKISTAN"
+    },
+    {
+        "ID": 915,
+        "NAME": "FRONTIER DEXTROSE LTD",
+        "ADDRESS": "12-Baqir Lane Canal View Society Canal Bank Lahore,PAKISTAN"
+    },
+    {
+        "ID": 916,
+        "NAME": "ENVOY PHARMA",
+        "ADDRESS": "- ,PAKISTAN"
+    },
+    {
+        "ID": 917,
+        "NAME": "NIMRALL LABORATORIES",
+        "ADDRESS": "Plot No.24, St: No. SS-3, Indutrial Estata, Rawat Islamabad,PAKISTAN"
+    },
+    {
+        "ID": 918,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 919,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 920,
+        "NAME": "JINNAH PHARMACEUTICALS",
+        "ADDRESS": "13-Km, Lahore Road Lahore,PAKISTAN"
+    },
+    {
+        "ID": 921,
+        "NAME": "JAENS PHARMA",
+        "ADDRESS": "28 KM, Sheikhupura Lahore Road Sheikupura,PAKISTAN"
+    },
+    {
+        "ID": 922,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 923,
+        "NAME": "CARE PHARMACEUTICALS",
+        "ADDRESS": "8- KM Thokar, Raiwand Road Lahore,PAKISTAN"
+    },
+    {
+        "ID": 924,
+        "NAME": "OTTOMAN PHARMA",
+        "ADDRESS": "10-Km, Raiwand Road Lahore,PAKISTAN"
+    },
+    {
+        "ID": 925,
+        "NAME": "WNS FIELD PHARMACEUTICALS",
+        "ADDRESS": "Plot.No.122, Block-A, Phase-V, Industrial Estate, Hattar,PAKISTAN",
+        "PHONE": "  092-595-617662   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 926,
+        "NAME": "3M PAKISTAN (PVT) LTD.",
+        "ADDRESS": "Islamic Chamber Of Comm. Bldg.ST-2/A, Block-9, KDA Scheme-5 Clifton, Karachi 75600, Sindh, Karachi,Pakistan",
+        "PHONE": "  9221-5877865   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 927,
+        "NAME": "A. J. MIRZA PHARMA (PVT) LTD",
+        "ADDRESS": "Shafi Court, First Floor,Merewether Road, Civil Lines,Karachi Karachi,Pakistan",
+        "PHONE": "  9221 - 5680215   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 928,
+        "NAME": "AMEER PHARMA",
+        "ADDRESS": "14-A,Al-Minar Market Circular road LAHORE,PAKISTAN",
+        "PHONE": "  042-37669091   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 929,
+        "NAME": "MEDIATE PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot 150-151, Sector 24 Korangi Industrial Area Karachi,Pakistan",
+        "PHONE": "  021-5074196   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 930,
+        "NAME": "BIOVISTA (PVT) LTD",
+        "ADDRESS": "225/1/G, Block 6, P.E.C.H.S, Karachi, 75400 Karachi,Pakistan",
+        "PHONE": "  21-4300754   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 931,
+        "NAME": "CARAWAY PHARMACEUTICALS",
+        "ADDRESS": "Plot No.12, St.N-3, National Industrial Zone,Rawat Islamabad,Pakistan",
+        "PHONE": "  +92-51-555387   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 932,
+        "NAME": "CSH PHARMACEUTICALS-NORTH (PVT) LTD",
+        "ADDRESS": "82-E/1,4th floor, Eden Towers, Boulevard Gulberg Lahore,Pakistan",
+        "PHONE": 25790333,
+        "FAX": "BC"
+    },
+    {
+        "ID": 933,
+        "NAME": "DYSON RESEARCH LABORATORIES",
+        "ADDRESS": "59-U Albak Block Garden Town Lahore,PAKISTAN"
+    },
+    {
+        "ID": 934,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 935,
+        "NAME": "FOCOUS & RULZ PHARMACEUTICALS",
+        "ADDRESS": "44, Industrial Triangle, Kahuta Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 936,
+        "NAME": "GABA PHARMACEUTICALS LABS",
+        "ADDRESS": "Plot No.S/76, Mauripur Road S.I.T.E Karachi,Pakistan",
+        "PHONE": "  9221-2561013   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 937,
+        "NAME": "HONIG PHARMACEUTICALS LABORATORIES",
+        "ADDRESS": "14th KM Adyala Road. Rawalpindi"
+    },
+    {
+        "ID": 938,
+        "NAME": "HEAL PHARMACEUTICALS PVT LTD",
+        "ADDRESS": "Plot No. , W-33, Industrial Estate Hayatabad Peshawar,Pakistan"
+    },
+    {
+        "ID": 939,
+        "NAME": "MEDIZAN LABS (PVT) LTD",
+        "ADDRESS": "Plot No. 313, Industrial Triangle, Kahuta Road Islamabad,Pakistan",
+        "PHONE": "  +92-51-4492483   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 940,
+        "NAME": "LADERLY BIO-TECH PHARMA",
+        "ADDRESS": "803, Progressive Square, 11-A, PECHS, Block 6, Shahrah-e-Faisal, Karachi. ,Pakistan",
+        "PHONE": "  (+92-21) 34388776   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 941,
+        "NAME": "MICKO PHARMA",
+        "ADDRESS": "- ,Pakistan"
+    },
+    {
+        "ID": 942,
+        "NAME": "OBS PHARMA",
+        "ADDRESS": "36-A/1 Lalazar Near M.T.Khan Road (opp Beach Luxury Hotel) Karachi-7400,Pakistan",
+        "PHONE": 5611893,
+        "FAX": "BC"
+    },
+    {
+        "ID": 943,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 944,
+        "NAME": "VALENTINE PHARMACEUTICALS",
+        "ADDRESS": "- ,Pakistan"
+    },
+    {
+        "ID": 945,
+        "NAME": "ZAYNOON PHARMACEUTICALS",
+        "ADDRESS": "27-28-B, Industrial Estate, Hayatabad Peshawar,Pakistan"
+    },
+    {
+        "ID": 946,
+        "NAME": "MISSION PHARMACEUTICALS",
+        "ADDRESS": "29,Block-3,O.C.H, Society Stadium Road. Karachi,Pakistan",
+        "PHONE": "  021-4923878   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 947,
+        "NAME": "FESTEL LAB",
+        "ADDRESS": "karachi ,Pakistan"
+    },
+    {
+        "ID": 948,
+        "NAME": "GEMINI PHARMA",
+        "ADDRESS": "87 Modular Avenue, Commack, NY 1172 ,Pakistan"
+    },
+    {
+        "ID": 949,
+        "NAME": "W & ALI  SONS PHARMACEUTICALS",
+        "ADDRESS": "155-C BLOCK MODEL TOWN LAHORE ,Pakistan"
+    },
+    {
+        "ID": 950,
+        "NAME": "WISE PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot No.3-A, S-1, National Industrial Zone, Rawat Islamabad,Pakistan"
+    },
+    {
+        "ID": 951,
+        "NAME": "EPHARM LABORATORIES",
+        "ADDRESS": "1st Floor, Manzoor Chamber Katchi Gali No.02, Marriot Road Karachi,Pakistan",
+        "PHONE": "  +92-21-2443784   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 952,
+        "NAME": "EVERGREEN PHARMACEUTICALS PVT LIMITED",
+        "ADDRESS": "16-L Model Town ext Lahore, Lahore,Pakistan",
+        "PHONE": "  92-42-5161929   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 953,
+        "NAME": "RICHMOND PHARMACEUTICALS",
+        "ADDRESS": "- ,Pakistan"
+    },
+    {
+        "ID": 954,
+        "NAME": "NEXPHARM",
+        "ADDRESS": "65-INDUSTRIAL ESTATE, KOT LAKHPAT, LAHORE LAHORE--,-",
+        "PHONE": "  +92-042-35140980   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 955,
+        "NAME": "RESOUCE MEDICAL"
+    },
+    {
+        "ID": 956,
+        "NAME": "HSS"
+    },
+    {
+        "ID": 957,
+        "NAME": "PANACEA PHARMACEUTICALS",
+        "ADDRESS": "Plot No.4, St.No.S-6, National Industrial Zone,Rawat Islamabad"
+    },
+    {
+        "ID": 958,
+        "NAME": "LOTUS PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot No.118-A, St.No.8, I-10/3 Industrial Area, Islamabad"
+    },
+    {
+        "ID": 959,
+        "NAME": "ADVANCED PHARMACEUTICALS",
+        "ADDRESS": "Plot No.38, Street No.S-4 National Industrial Zone (RCCI),Rawat, Islamabad"
+    },
+    {
+        "ID": 960,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 961,
+        "NAME": "AIMS PHARMACEUTICALS",
+        "ADDRESS": "Plot No.291,Kahuta Triangle, Industrial Area. Islamabad,Pakistan"
+    },
+    {
+        "ID": 962,
+        "NAME": "AMBROSIA PHARMACEUTICALS",
+        "ADDRESS": "Plot. No.18, St.No.9 National Industries Zone Rawat Islamabad,Pakistan"
+    },
+    {
+        "ID": 963,
+        "NAME": "BIOGEN PHARMA",
+        "ADDRESS": "8 KM, Chakbeli Road,Rawat Islamabad,Pakistan"
+    },
+    {
+        "ID": 964,
+        "NAME": "GENERAL PHARMA",
+        "ADDRESS": "Farooq Khan Farm Road,3 KM, G.T. Road, Manhes (Kotli Wahga),Kamoke Gujranwala,Pakistan"
+    },
+    {
+        "ID": 965,
+        "NAME": "CRESENT PHARMACEUTICALS",
+        "ADDRESS": "43 - Industrial Triangle Kahutta Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 966,
+        "NAME": "CROWN PHARMACEUTICALS",
+        "ADDRESS": "Plot No.286,Industrial Triangle Kahuta Road. Islamabad,Pakistan"
+    },
+    {
+        "ID": 967,
+        "NAME": "FLORENCE FARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "266, Industrial Triangle, Khuta Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 968,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 969,
+        "NAME": "GOODMAN LABORATORIES",
+        "ADDRESS": "E-3, Shah Plaza, O-961/F, Sauq-e-Idrees, Muree Road Rawalpindi Islamabad,Pakistan"
+    },
+    {
+        "ID": 970,
+        "NAME": "LINEAR PHARMA",
+        "ADDRESS": "Plot No.18, St.No.4, (RCCI) National Industrial Zone,Rawat Islamabad,Pakistan",
+        "PHONE": "  +92-51-5150613   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 971,
+        "NAME": "MIRACLE PHARMACEUTICALS(PVT) LTD",
+        "ADDRESS": "Plot 8, Street 5, National Industrial Zone,Rawat Islamabad,China"
+    },
+    {
+        "ID": 972,
+        "NAME": "BF BIOSCIENCE LTD",
+        "ADDRESS": "5 KM Sundar Raiwind Road,Raiwand Lahore,Pakistan"
+    },
+    {
+        "ID": 973,
+        "NAME": "TRISON RESEARCH LABORATORIES (PVT) LTD",
+        "ADDRESS": "27-A, Punjab Small Industrial Estate Sargodha,Pkistan"
+    },
+    {
+        "ID": 974,
+        "NAME": "MAX PHARMACEUTICALS",
+        "ADDRESS": "Plot #12, Street # N-7, National Industrial Zone, Rawat Islamabad,Pakistan"
+    },
+    {
+        "ID": 975,
+        "NAME": "MEDLEY PHARMACEUTICALS",
+        "ADDRESS": "41-A, P.S.I.E, Jhang Bahtar Road, Wah Cantt,Pkistan"
+    },
+    {
+        "ID": 976,
+        "NAME": "ROGEN PHARMACEUTICALS",
+        "ADDRESS": "Plot No.30, S-4, National Industrial Zone,Rawat Islamabad,Pakistan"
+    },
+    {
+        "ID": 977,
+        "NAME": "ROTEX MEDICA PAKISTAN (PVT) LTD",
+        "ADDRESS": "Plot No.206-207, Industrial Triangle,Kahuta Road C/o Haji Medicine Co. Islamabad,Pakistan"
+    },
+    {
+        "ID": 978,
+        "NAME": "SUNSHINE PHARMACEUTICALS",
+        "ADDRESS": "Emanabad, G. T. Road Gujranwala,Pakistan"
+    },
+    {
+        "ID": 979,
+        "NAME": "SWAN PHARMACEUTICALS(PVT) LTD",
+        "ADDRESS": "11-E, Industrial Triangle, Kahota Road, Islamabad,Pakistan"
+    },
+    {
+        "ID": 980,
+        "NAME": "MEDITECH PHARMACEUTICALS",
+        "ADDRESS": "15-D Industrial Estate, Jamrud Road, Peshawar,Pakistan"
+    },
+    {
+        "ID": 981,
+        "NAME": "CHERWEL PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot.No.20 Phase 4 Hattar Industrial Estate, Hattar"
+    },
+    {
+        "ID": 982,
+        "NAME": "GENOME PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "House # 593-B, Street # 10, Chaklala Scheme III Rawalpindi,Pakistan",
+        "PHONE": "  +91 - 51 - 5153740   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 983,
+        "NAME": "WELLBORNE PHARMACHEM AND BIOLOGICALS",
+        "ADDRESS": "Plot # 51/1 & 52/2, Phase I&II Industrial Estate,Hattar Khyber Pakhtunkhwa,Pakistan"
+    },
+    {
+        "ID": 984,
+        "NAME": "WEATHER FOLDS PHARMACEUTICALS",
+        "ADDRESS": "69/2 Phase II Industrial Estate Hattar, Islamabad,Pakistan"
+    },
+    {
+        "ID": 985,
+        "NAME": "LAWARI INTERNATIONAL",
+        "ADDRESS": "Saidu Sharif Swat"
+    },
+    {
+        "ID": 986,
+        "NAME": "SPL PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot. No.4, Phase III, Industrial Estate Hattar"
+    },
+    {
+        "ID": 987,
+        "NAME": "SAAAF PHARMACEUTICALS",
+        "ADDRESS": "Industrial Estate, (SIZ) Risaipur, Noshera"
+    },
+    {
+        "ID": 988,
+        "NAME": "AMBRO PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "293, Industrial Triangle Kahuta Road, Islamabad"
+    },
+    {
+        "ID": 989,
+        "NAME": "WELMARK PHARMACEUTICALS",
+        "ADDRESS": "Plot # 122-B Phase-V Industrial Estate, Hattar,Pakistan"
+    },
+    {
+        "ID": 990,
+        "NAME": "HICON PHARMACEUTICALS",
+        "ADDRESS": "131, Industrial Estate, Hayatabad Peshawar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 991,
+        "NAME": "WELMED PHARMACEUTICALS INDUSTRIES (PVT) LTD",
+        "ADDRESS": "108 R-2 Industrial Estate Gadoon Swabi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 992,
+        "NAME": "WELWRD PHARMACEUTICALS",
+        "ADDRESS": "Plot No.3, Block No.A, Phase I-II, Industrial Estate Hattar",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 993,
+        "NAME": "FASSGEN PHARMACEUTICALS",
+        "ADDRESS": "Plot No. 67/1-A, Phase-III,Industrial Estate Hattar",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 994,
+        "NAME": "HISUN PHARMACEUTICALS",
+        "ADDRESS": "Plot.No.37 Road No, R-2, Industrial Estate Gadoon",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 995,
+        "NAME": "UNIVERSAL PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "131-A, Hayatabad Industrial Estate, Peshawar",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 996,
+        "NAME": "NAVEGAL LABORATORIES",
+        "ADDRESS": "41/1-A-2, Phase-1, Industrial Estate, Hattar",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 997,
+        "NAME": "MKB PHARMACEUTICALS( PVT) LTD",
+        "ADDRESS": "66-Hayatabad Industrial Estate, Peshawar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 998,
+        "NAME": "BREEZE PHARMA (PVT) LTD",
+        "ADDRESS": "(125, 126, 127)-A, Kahuta Road Islamabad",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 999,
+        "NAME": "WELL CARE PHARMACEUTICALS",
+        "ADDRESS": "A/7 P.S.I.E Sargodha,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1000,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1001,
+        "NAME": "SPADIX PHARMACEUTICALS",
+        "ADDRESS": "Rawat Islamabad",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1002,
+        "NAME": "AR PHARMACEUTICALS",
+        "ADDRESS": "Rawat Islamabad",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1003,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1004,
+        "NAME": "ASTELLAS PHARMACEUTICALS",
+        "ADDRESS": "Peshawar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1005,
+        "NAME": "GILLMAN PHARMACEUTICALS",
+        "ADDRESS": "Office # 7, Block- G, Sector F-6,Super Market Islamabad Hattar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1006,
+        "NAME": "MEDIFINE LABORATORIES",
+        "ADDRESS": "Mirpur,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1007,
+        "NAME": "MEDIFINE LABORATORIES",
+        "ADDRESS": "Mirpur,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1008,
+        "NAME": "PAK RISEN PHARMACEUTICALS",
+        "ADDRESS": "Hattar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1009,
+        "NAME": "MED ASIA PHARMACEUTICALS",
+        "ADDRESS": "Risalpur,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1010,
+        "NAME": "ROCK PHARMACEUTICALS",
+        "ADDRESS": "Risalpur,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1011,
+        "NAME": "SAYYED PHARMACEUTICALS",
+        "ADDRESS": "Hattar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1012,
+        "NAME": "RAY PHARMA (PVT) LTD",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1013,
+        "NAME": "KOHS PHARMACEUTICALS",
+        "ADDRESS": "PLOT#8 SITE AREA HYDERABAD SIND PAKISTAN",
+        "PHONE": "  (92-21)-3388168   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1014,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1015,
+        "NAME": "MEDIMARKERS PHARMACEUTICALS",
+        "ADDRESS": "A-104, S.I.T.E, Hyderabad Hyderabad,PAKISTAN",
+        "PHONE": "  +92-22-3886727   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1016,
+        "NAME": "UNI-TECH PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "45/H-1, Block-6, P.E.C.H.S.,Karachi Karachi-75400,Pakistan",
+        "PHONE": "  +9221 34301126   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1017,
+        "NAME": "ISIS PHARMACEUTICAL",
+        "ADDRESS": "133-B, Ground Floor, P.E.C.H.S. Block-2, karachi-75400",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1018,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1019,
+        "NAME": "ASIAN CONTINENTAL (PVT) COMPANY",
+        "ADDRESS": "Continental House,D- 133,Scheme # 1 Tipu Sultan Road",
+        "PHONE": 368817750,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1020,
+        "NAME": "FARMACEUTICS INTERNATIONAL",
+        "ADDRESS": "C/o Un Pharma International",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1021,
+        "NAME": "ALIED MEDICAL",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1022,
+        "NAME": "T.G PHARMA",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1023,
+        "NAME": "AMARANT PHARMACEUTICALS (PVT)",
+        "ADDRESS": "158, Deh Tore, gadab road, Super highway, near Baqai Hospital & University Karachi,Pakistan",
+        "PHONE": 2134410542,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1024,
+        "NAME": "ZUMARS PHARMA (PVT) LTD.",
+        "ADDRESS": "C/o R.Y.International karachi,pakistan",
+        "PHONE": "  +92 21 32713429   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1025,
+        "NAME": "SCILIFE PHARMA (PRIVATE) LTD",
+        "ADDRESS": "16,K.O.C.H,Ameer Khusro Road Karachi",
+        "PHONE": 34311768,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1026,
+        "NAME": "HATAF PHARMA",
+        "ADDRESS": ",Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1027,
+        "NAME": "SCITECH",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1028,
+        "NAME": "MCOLSON RESEARCH LABORATORIES",
+        "ADDRESS": "24-E Maulana Shoukat Ali Road, Jahar Town Lahore Lahore",
+        "PHONE": "  35751250, 3577568   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1029,
+        "NAME": "CONTINENTAL PH",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1030,
+        "NAME": "BIOMEDICS",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1031,
+        "NAME": "ANGELINI PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "221-Block CCA, Phase 4 DHA Lahore",
+        "PHONE": "  042-35753526   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1032,
+        "NAME": "ORGANIC PHARMACEUTICALS.",
+        "ADDRESS": "138-C, Sector 16-B, North Karachi, Industrial Area Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1033,
+        "NAME": "EASTWEST PHARMA",
+        "ADDRESS": "C-39/11, Lane No 5, Nishat Commercial Area DHA Phase VI Karachi",
+        "PHONE": 35245262,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1034,
+        "NAME": "PHARMETHICS",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1035,
+        "NAME": "TRANS ASIAN",
+        "ADDRESS": "236-G1, Behind Doctors Hospital, Johar Town Lahore, -54000,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1036,
+        "NAME": "SEATLE PHARMA PAKISTAN (PVT) LTD.",
+        "ADDRESS": "Office # 1001-D, 10th Floor, City Towers, Lahore,Pakistan",
+        "PHONE": "  +92 - 42 - 35788754   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1037,
+        "NAME": "ADCARE PHARMA",
+        "ADDRESS": "Office #4, First Floor, Commercial Center, Grace Plaza, Satelite Town Rawalpindi,Pakistan",
+        "PHONE": 4850593,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1038,
+        "NAME": "SHAF PHARMA",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1039,
+        "NAME": "FASTEL LAB",
+        "ADDRESS": "Link Khattarband Road Thokar Niaz Baig,Multan Road Lahore,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1040,
+        "NAME": "KINSA PHARMACEUTICALS",
+        "ADDRESS": "S4/S5, 2nd Floor, Al-Farid Center, Eidgah Road, Peshawar",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1041,
+        "NAME": "CELLGENE PHARMACEUTICALS INTERNATIONAL",
+        "ADDRESS": "1st Floor, 7-C ZamZama Comercial Lane-8, Phase V DHA Karachi",
+        "PHONE": 35310885,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1042,
+        "NAME": "AVENTEK PHARMA",
+        "ADDRESS": "24-C-1 Jail Road Lahore,Pakistan",
+        "PHONE": "  042-37554200   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1043,
+        "NAME": "OCU CARE",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1044,
+        "NAME": "SAIFVENT",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1045,
+        "NAME": "TRIPPLE A",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1046,
+        "NAME": "GT PHARMA",
+        "ADDRESS": "Head Office 313-B Main Boulevard Sabzazar Scheme, Multan Road. Lahore,Pakistan",
+        "PHONE": "  35844472, 3744004   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1047,
+        "NAME": "AVITAL PHARMA",
+        "ADDRESS": "Room# 21 2nd Floor Shalimar Center, Tariq Road Karachi",
+        "PHONE": 34544365,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1048,
+        "NAME": "MEDISAVE PHARMACEUTICALS",
+        "ADDRESS": "501-A Block E, Saman Berg, Johar Town Lahore,PAKISTAN",
+        "PHONE": 35176018,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1049,
+        "NAME": "CONVELL LABORATORIES",
+        "ADDRESS": "Saidu Sharif Swat,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1050,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1051,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1052,
+        "NAME": "CREST PHARMACEUTICALS",
+        "ADDRESS": "Plot No: 43 Industrial Triangle, Kahuta Road Islamabad,Pakistan",
+        "PHONE": "  92-51-4493093   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1053,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1054,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1055,
+        "NAME": "Al-Aju",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1056,
+        "NAME": "Aneeb Pharmaceuticals (Pvt.) Ltd",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1057,
+        "NAME": "ARSONS PHARMACEUTICALS INDUSTRIES (PVT) LTD",
+        "ADDRESS": "22 Km Multan Road, off 2.5 Km, Defence Road, Lahore - Pakistan Lahore - Pakistan",
+        "PHONE": "  +92-42-35340491-2   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1058,
+        "NAME": "AXIS PHARMACEUTICALS",
+        "ADDRESS": "3-B, Value Addition City, 1.5 Km,Khurrianwala-Sahianwala Road, Faisalabad",
+        "PHONE": "  +92 41 850 7272   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1059,
+        "NAME": "Basel Pharmaceuticals",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1060,
+        "NAME": "Baxter Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1061,
+        "NAME": "Berlex Lab International",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1062,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1063,
+        "NAME": "British Pharmaceuticals Ltd",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1064,
+        "NAME": "Curatech Pharma (Pvt) Ltd",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1065,
+        "NAME": "GHANI BROTHERS KARACHI",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1066,
+        "NAME": "Harrison Pharmaceuticals",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1067,
+        "NAME": "HOOVER PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "PLOT NO.16, ZAIN PARK INDUSTRIAL AREA SAGGIAN BY PASS LAHORE Lahore-54000",
+        "PHONE": "  0096-42-37903772   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1068,
+        "NAME": "HYGEIA PHARMACEUTICALS",
+        "ADDRESS": "295,Industrial Triangle, Kahuta Road Islamabad",
+        "PHONE": "  +92 51 4490983   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1069,
+        "NAME": "KINGS PHARMACEUTICALS",
+        "ADDRESS": "27- Sundar Industrial Estate",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1070,
+        "NAME": "Masfa Industries (Pvt) Ltd",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1071,
+        "NAME": "Medisynth Pharmaceuticals",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1072,
+        "NAME": "MURFY PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "7-A Friends Colony, Bastami, Road, Multan Road, LAHORE Lahore",
+        "PHONE": "  (9242) 37322990   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1073,
+        "NAME": "Myrtle Pharma Kar.",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1074,
+        "NAME": "NETWORK MARKETING SERVICE",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1075,
+        "NAME": "OBC. Kar",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1076,
+        "NAME": "ONCOGENE PHARMACEUTICALS KARACHI",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1077,
+        "NAME": "PDH LABORATORIES (PVT) LTD",
+        "ADDRESS": "19-Km Feroze Pur Road, Lahore, Punjab, Pakistan Lahore",
+        "PHONE": "  9242-5823425/5820853   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1078,
+        "NAME": "PRAYS PHARMACEUTICALS",
+        "ADDRESS": "Prays Pharmaceuticals Plot # 10, street SS-4, National Industrial Zone RCCI Rawat Islamabd. Islamabad",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1079,
+        "NAME": "PROMED INTERNATIONAL RAWALPINDI",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1080,
+        "NAME": "RELIANCE PHARMA",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1081,
+        "NAME": "Remedy Pharmaceuticals (Pvt) Ltd",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1082,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1083,
+        "NAME": "SAFINA PHARMA (PVT) LTD",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1084,
+        "NAME": "SATURN PHARMACEUTICALS (PVT) LTD",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1085,
+        "NAME": "Siam Pharmaceuticals",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1086,
+        "NAME": "SUNRISE PHARMA (PVT) LTD",
+        "ADDRESS": "77-INDUSTRIAL ESTATE, KOT LAKHPAT, LAHORE ,Pakistan",
+        "PHONE": "  +92-042-35140764   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1087,
+        "NAME": "THE PAK LANE PHARMA UPPER MALL SCHEME PAKISTAN",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1088,
+        "NAME": "UNITED INTERNATIONAL KARACHI",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1089,
+        "NAME": "WARAFANA PHARMACEUTICALS",
+        "ADDRESS": "Plot # 125-126-127 Industrial Triangle,Kahuta Road Islamabad,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1090,
+        "NAME": "WINILTON PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "Plot #45 Street S-5 National Industrial Zone Rawat Islamabad",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1091,
+        "NAME": "ZAYNEB SCIENTIFIC PRODUCTS",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1092,
+        "NAME": "Humayun International Pvt Ltd.",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1093,
+        "NAME": "LEGACY PHARMACEUTICALS",
+        "ADDRESS": "111-A Industrial estate Hayatabad,Peshawar KPK. Pakistan Peshawar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1094,
+        "NAME": "MED ASIA PHARMACEUTICALS PVT LTD PAKISTAN",
+        "ADDRESS": "7 Nowshera Industrial Estate Risalpur ,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1095,
+        "NAME": "WINBRAIN RESEARCH LABORATORIES",
+        "ADDRESS": "Hattar,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1096,
+        "NAME": "ONYX PHARMACEUTICAL",
+        "ADDRESS": "Mansera,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1097,
+        "NAME": "TREAT PHARMACEUTICALS",
+        "ADDRESS": ",Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1098,
+        "NAME": "KAIZEN PHARMACEUTICALS PVT LTD.",
+        "ADDRESS": "D-37, BLOCK-7,CLIFTON Karachi,Pakistan",
+        "PHONE": 922135821380,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1099,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1100,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1101,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1102,
+        "NAME": "APTCURE PRIVATE LIMITED",
+        "ADDRESS": "Sikanadar bLOCK, Lane #10 Allama Iqbal Town Lahore,Pakistan",
+        "PHONE": 3754028,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1103,
+        "NAME": "NEOPHAR HEALTH-CARE",
+        "ADDRESS": "66-N Model Town Lahore,Pakistan",
+        "PHONE": 35201544,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1104,
+        "NAME": "GLISTEN PHARMA",
+        "ADDRESS": "520 Sector 7-a, Korangi Industrial Area Karachi,Pakistan",
+        "PHONE": "  +92 21 5116109   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1105,
+        "NAME": "SERENE PHARMACEUTICALS",
+        "ADDRESS": "Block-7, Clifton Karachi",
+        "PHONE": 35821380,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1106,
+        "NAME": "PHARMA EDGE",
+        "ADDRESS": "Lahore",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1107,
+        "NAME": "NEXT PHARMA",
+        "ADDRESS": "2/4 D Justice Sardar Iqbal Road, Aziz Avenue,Canal Bank, Gulberg Lahore",
+        "PHONE": "  357754-06   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1108,
+        "NAME": "OLIVE HEALTH CARE (PVT)LIMITED",
+        "ADDRESS": "D-3 Block-3, Clifton",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1109,
+        "NAME": "GRATON PHARMA",
+        "ADDRESS": "351/3, Street # 20 Sharfabad, Karachi Karachi,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1110,
+        "NAME": "WAHABSONS PHARMA",
+        "ADDRESS": "4km, Burner Road Barikot Sawat",
+        "PHONE": "  0946-753300   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1111,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1112,
+        "NAME": "HIRANIS PHARMACEUTICALS PVT LTD",
+        "ADDRESS": "D-41 Block 4,Clifton Karachi",
+        "PHONE": 35823576,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1113,
+        "NAME": "MERILINE PHARMACEUTICALS",
+        "ADDRESS": "R-288, 2nd Floor,13-D/2 Opp Savana city Gulshan e Iqba Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1114,
+        "NAME": "MEDICAUX HEALTHCARE",
+        "ADDRESS": "Liberty Square,180 A,M-4,Off Tariq Road, PECHS, Block-2 Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1115,
+        "NAME": "MEDICAUX HEALTHCARE",
+        "ADDRESS": "Liberty Square,180 A,M-4,Off Tariq Road, PECHS, Block-2 Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1116,
+        "NAME": "MEDICAUX HEALTHCARE",
+        "ADDRESS": "Liberty Square,180 A,M-4,Off Tariq Road, PECHS, Block-2 Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1117,
+        "NAME": "MEDICAUX HEALTHCARE",
+        "ADDRESS": "Liberty Square,180 A,M-4,Off Tariq Road, PECHS, Block-2 Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1118,
+        "NAME": "ASIAN CONTINENTAL (PVT) COMPANY",
+        "ADDRESS": "Continental House,D- 133,Scheme # 1 Tipu Sultan Road Karachi",
+        "PHONE": 368817750,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1119,
+        "NAME": "SCHERING PLOUGH PAKISTAN (PVT) LTD",
+        "ADDRESS": "C/o Bayer pakistan ,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1120,
+        "NAME": "KNEL PHARMA",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1121,
+        "NAME": "GENOME PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "House # 593-B, Street # 10, Chaklala Scheme III Rawalpindi,Pakistan",
+        "PHONE": "  +91 - 51 - 5153740   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1122,
+        "NAME": "GENOME PHARMACEUTICALS (PVT) LTD",
+        "ADDRESS": "House # 593-B, Street # 10, Chaklala Scheme III Rawalpindi,Pakistan",
+        "PHONE": "  +91 - 51 - 5153740   ",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1123,
+        "NAME": "MAQ PHARMA",
+        "ADDRESS": "1/225, Block E, Stellite Town Rawalpindi Pakistan Rawalpindi,Pakistan",
+        "PHONE": 92514410533,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1124,
+        "NAME": "MASTER PHARMA",
+        "ADDRESS": "57-A, Block-G Gulberg III Lahore,Pakistan",
+        "PHONE": 3583678635883171,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1125,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1126,
+        "NAME": "ALLMED LABS",
+        "ADDRESS": "A-31/3, KDA Scheem #1, Ext.1,opp.Main Gate National Stadium Karachi",
+        "PHONE": 4838781,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1127,
+        "NAME": "EG PHARMA",
+        "ADDRESS": "13-A Industrial Triangle, Kahuta Road Islamabad ,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1128,
+        "NAME": "EG PHARMACEUTICALS",
+        "ADDRESS": "13-A Industrial Triangle, Kahuta Road. Islamabad ,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1129,
+        "NAME": "MEDICINECO PHARMACEUTICALS",
+        "ADDRESS": "Office #7 Block G, Sector F-6 Islamabad",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1130,
+        "NAME": "KANEL PHARMACEUTICALS",
+        "ADDRESS": "House #47, Street# 2,Eastridge Housing Screme, Main High Court Road Rawalpindi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1131,
+        "NAME": "SIMZ PHARMACEUTICALS",
+        "ADDRESS": "574-575, Sundar State Raiwind Road Lahore,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1132,
+        "NAME": "KAIR PHARMA (SUBSIDIART OF S.J & G)",
+        "ADDRESS": "E-46, S.I.T.E Karachi",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1133,
+        "NAME": "BASIL PHARM",
+        "ADDRESS": "F 1/20,Fahad garden, Block 13-B, Gulshan iqbal",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1134,
+        "NAME": "ASTARL PVT LTD.",
+        "ADDRESS": "Rosse Resientia, Suit# 21, 3rd floor,1 canal Dank,Near Doctores Hospital Lahore,Pakistan",
+        "PHONE": 35973743,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1135,
+        "NAME": "SOIN PHARMACEUTICALS",
+        "ADDRESS": "120 E Garden Block, Garden Town Lahore",
+        "PHONE": 38545598,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1136,
+        "NAME": "JULPHAR PAKISTAN",
+        "ADDRESS": "Suit #209, Khan tower, DHA Square Walton Road Lahore",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1137,
+        "NAME": "FORAY PHARMACEUTICALS",
+        "ADDRESS": "House #403 St-15, Chaklala Scheme-3 Rawalpindi",
+        "PHONE": 5590995,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1138,
+        "NAME": "PHARMAFIVE (PVT) LTD",
+        "ADDRESS": "601-602,6th floor, Mehdi Towers, 115-A,SMCHS, Sharae Faisal Karachi,Pakistan",
+        "PHONE": 34329193,
+        "FAX": "BC"
+    },
+    {
+        "ID": 1139,
+        "NAME": "ASTER LIFE SCIENCES",
+        "ADDRESS": "74-A/II,Abu Bakar Block, New Garden Town. Lahore",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1140,
+        "NAME": "AGROR",
+        "ADDRESS": "Plot No.4, Street SS4, National Industrial Zone Rawat Islamabad,Pakistan",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1141,
+        "NAME": "Fredmann Pharmaceuticals (Pvt.) Ltd.",
+        "ADDRESS": "Site# 82-83,Old Industrial Estate M.A.J.K",
+        "PHONE": "MCP",
+        "FAX": "BC"
+    },
+    {
+        "ID": 1142,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1143,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1144,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1145,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1146,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1147,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1148,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1149,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1150,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1151,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1152,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1153,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1154,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1155,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1156,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1157,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1158,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1159,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1160,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1161,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1162,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1163,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1164,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1165,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1166,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1167,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1168,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1169,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1170,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1171,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1172,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1173,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1174,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1175,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1176,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1177,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1178,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1179,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1180,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1181,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1182,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1183,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1184,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1185,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1186,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1187,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1188,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1189,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1190,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1191,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1192,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1193,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1194,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1195,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1196,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1197,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1198,
+        "NAME": "         ",
+        "ADDRESS": " "
+    },
+    {
+        "ID": 1199,
+        "NAME": "         ",
+        "ADDRESS": " "
+    }
+]

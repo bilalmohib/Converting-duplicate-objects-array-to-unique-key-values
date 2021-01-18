@@ -1,0 +1,6483 @@
+ 
+[
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 301
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 25
+    },
+    {
+        "DOSE": "0.125 mg/kg/min",
+        "SINGLE": 36861.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Maintenance, over 20 hrs., As required",
+        "CODE": 28
+    },
+    {
+        "DOSE": "10 mg/kg/min",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Initial , For 15 minutes",
+        "CODE": 28
+    },
+    {
+        "DOSE": "2 to 6 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 27
+    },
+    {
+        "DOSE": "2 to 6 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 27
+    },
+    {
+        "DOSE": "0 to 20 mg/Kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "3 hourly",
+        "ROUTE": "For herpes simplex for 14 days and 21 days if CNS involvement. (For neonate and infant the age of upto 3 months)",
+        "INSTRUCTION": " ",
+        "CODE": 31
+    },
+    {
+        "DOSE": "12.5 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Over 1 hr.",
+        "CODE": 31
+    },
+    {
+        "DOSE": "0.006 to 0.012 mg/kg",
+        "SINGLE": 36770.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "Single dose",
+        "CODE": 32
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 30
+    },
+    {
+        "DOSE": "0.13 to 0.2 mg/Kg",
+        "SINGLE": "0.16 (0.165)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "As Required",
+        "CODE": 34
+    },
+    {
+        "DOSE": "0.05 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 35
+    },
+    {
+        "DOSE": "5 to 100 ng/kg/min",
+        "SINGLE": "52 (52.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV-inf",
+        "INSTRUCTION": "Initially 5 ng/kg/min adjust according to responce in steps of 5ng/kg/min",
+        "CODE": 39
+    },
+    {
+        "DOSE": "10 to 20 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 38
+    },
+    {
+        "DOSE": 0.06,
+        "SINGLE": "6 (6)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "Daily at Bed Time",
+        "CODE": 41
+    },
+    {
+        "DOSE": "100 to 500 mg/kg/hour",
+        "SINGLE": "300 (300)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV-Inf",
+        "INSTRUCTION": "It can be given for 3-6 hours and ultrasound assessment to moniter effect before  considering a second cause of treatment.",
+        "CODE": 40
+    },
+    {
+        "DOSE": "64 to 128 mg/kg",
+        "SINGLE": "96 (96)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 42
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 46
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 48
+    },
+    {
+        "DOSE": "116 to 231 mg/square metre",
+        "SINGLE": "170 (173.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "maintenance, 5 to 7 days/week",
+        "CODE": 47
+    },
+    {
+        "DOSE": "347 to 463 mg/square metre",
+        "SINGLE": "400 (405)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Load for 4 to 14 days",
+        "CODE": 47
+    },
+    {
+        "DOSE": "6.25 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Once a week",
+        "CODE": 50
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 45
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 45
+    },
+    {
+        "DOSE": "12.5 to 25 mg/kg",
+        "SINGLE": "19 (18.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 51
+    },
+    {
+        "DOSE": "12.5 to 25 mg/kg",
+        "SINGLE": "19 (18.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 51
+    },
+    {
+        "DOSE": "Not recomended in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 55
+    },
+    {
+        "DOSE": "0.25 to 1 mg/kg",
+        "SINGLE": "0.62 (0.625)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Infuse over 6 hrs.",
+        "CODE": 52
+    },
+    {
+        "DOSE": "12.5 to 25 mg/kg",
+        "SINGLE": "19 (18.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 53
+    },
+    {
+        "DOSE": "12.5 to 25 mg/kg",
+        "SINGLE": "19 (18.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 53
+    },
+    {
+        "DOSE": "7.815 to 15.625 mg/kg",
+        "SINGLE": "12 (11.72)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 53
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 56
+    },
+    {
+        "DOSE": "6.25 to 3.125 mg/kg",
+        "SINGLE": "4.7 (4.6875)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 59
+    },
+    {
+        "DOSE": "0.25 to 0.5 IU/kg",
+        "SINGLE": "0.38 (0.375)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Dose for diabetes insipidus",
+        "CODE": 58
+    },
+    {
+        "DOSE": "0.025 to 0.5 IU /kg",
+        "SINGLE": "0.26 (0.2625)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Suibcutaneous",
+        "INSTRUCTION": "Dose foe diabetes insipidus",
+        "CODE": 58
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 61
+    },
+    {
+        "DOSE": "1 to 2 mg/kg",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Gradually increase the dose",
+        "CODE": 62
+    },
+    {
+        "DOSE": "1 to 2 mg/kg",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Slow intravenous",
+        "INSTRUCTION": "Gradually increase the dose",
+        "CODE": 62
+    },
+    {
+        "DOSE": "0.005 to 0.01 mg/kg.min",
+        "SINGLE": "0.0075 (0.0075)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Dose for children over 1 month",
+        "CODE": 63
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 68
+    },
+    {
+        "DOSE": "Not rexcommended in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 65
+    },
+    {
+        "DOSE": "1 to 4 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": " ",
+        "CODE": 69
+    },
+    {
+        "DOSE": "1 to 4 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 69
+    },
+    {
+        "DOSE": "10 to 20 ug/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "Single dose",
+        "CODE": 64
+    },
+    {
+        "DOSE": "10 to 20 ug/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 64
+    },
+    {
+        "DOSE": "10 to 20 ug/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 64
+    },
+    {
+        "DOSE": "30 to 50 mg/kg",
+        "SINGLE": "40 (40)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "Dose for children over 1 month",
+        "CODE": 71
+    },
+    {
+        "DOSE": "30 to 50 mg/kg",
+        "SINGLE": "40 (40)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Dose for children over 1 month",
+        "CODE": 71
+    },
+    {
+        "DOSE": "75 to 100 mg/kg",
+        "SINGLE": "88 (87.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 70
+    },
+    {
+        "DOSE": "2.5 to 5 mg/kg",
+        "SINGLE": "3.8 (3.75)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Gradually increase the dose",
+        "CODE": 73
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 75
+    },
+    {
+        "DOSE": "Notrecommended in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 79
+    },
+    {
+        "DOSE": "0.1 to 0.2 mg/kg",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 78
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 80
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 82
+    },
+    {
+        "DOSE": "0.1 to 0.2 %",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 83
+    },
+    {
+        "DOSE": "6.25 ug/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": " ",
+        "CODE": 76
+    },
+    {
+        "DOSE": 0.001,
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "topical",
+        "INSTRUCTION": "As required",
+        "CODE": 76
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 85
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 86
+    },
+    {
+        "DOSE": 0.0625,
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "topical",
+        "INSTRUCTION": "As required",
+        "CODE": 87
+    },
+    {
+        "DOSE": "28.625 mg/kg",
+        "SINGLE": "29 (28.625)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 84
+    },
+    {
+        "DOSE": "25 to 50 mg/kg",
+        "SINGLE": "38 (37.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 88
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 90
+    },
+    {
+        "DOSE": "156.25 mg/kg",
+        "SINGLE": "160 (156.25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single dose",
+        "CODE": 89
+    },
+    {
+        "DOSE": "0.6 mg/kg",
+        "SINGLE": 36678.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 93
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 94
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 92
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 97
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 95
+    },
+    {
+        "DOSE": "0.312 mg/kg",
+        "SINGLE": "0.31 (0.312)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "At night",
+        "CODE": 98
+    },
+    {
+        "DOSE": "0.312 mg/kg",
+        "SINGLE": "0.31 (0.312)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Rectal",
+        "INSTRUCTION": "In morning",
+        "CODE": 98
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 99
+    },
+    {
+        "DOSE": "0.1 to 0.25 mg/kg",
+        "SINGLE": "0.18 (0.175)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 105
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 104
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 106
+    },
+    {
+        "DOSE": "3 to 9 ug/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 110
+    },
+    {
+        "DOSE": "3 to 9 ug/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 110
+    },
+    {
+        "DOSE": "6.25 to 12.5 ug/kg",
+        "SINGLE": "9.4 (9.375)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": " ",
+        "CODE": 107
+    },
+    {
+        "DOSE": "1.25 mg/kg",
+        "SINGLE": "1.2 (1.25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Thecal",
+        "INSTRUCTION": "As Required",
+        "CODE": 109
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 111
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 112
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 114
+    },
+    {
+        "DOSE": 2.5,
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Maintenance",
+        "CODE": 115
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Load for Once",
+        "CODE": 115
+    },
+    {
+        "DOSE": "2.5 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 115
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Load for Once",
+        "CODE": 115
+    },
+    {
+        "DOSE": 0.08,
+        "SINGLE": "8 (8)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 116
+    },
+    {
+        "DOSE": "0.01 to 0.05 ug/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 120
+    },
+    {
+        "DOSE": "0.05 to 0.1 ug/kg",
+        "SINGLE": "0.075 (0.075)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single dose",
+        "CODE": 117
+    },
+    {
+        "DOSE": "33.75 to 125 mg/kg",
+        "SINGLE": "79 (79.375)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 121
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 124
+    },
+    {
+        "DOSE": "100 mg/kg",
+        "SINGLE": "100 (100)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 122
+    },
+    {
+        "DOSE": "100 mg/kg",
+        "SINGLE": "100 (100)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 122
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 127
+    },
+    {
+        "DOSE": "187.5 units/kg",
+        "SINGLE": "190 (187.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 118
+    },
+    {
+        "DOSE": "4 to 8 IU/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "As Required",
+        "CODE": 119
+    },
+    {
+        "DOSE": "4 to 8 IU/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "As Required",
+        "CODE": 119
+    },
+    {
+        "DOSE": "5 to 10 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 126
+    },
+    {
+        "DOSE": "0.25 mg/kg",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 131
+    },
+    {
+        "DOSE": "10 to 20 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 134
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 136
+    },
+    {
+        "DOSE": "7 mg/kg",
+        "SINGLE": "7 (7)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 137
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 138
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 140
+    },
+    {
+        "DOSE": "50 to 200 ",
+        "SINGLE": "120 (125)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IM",
+        "INSTRUCTION": " ",
+        "CODE": 140
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 140
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 140
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 130
+    },
+    {
+        "DOSE": "10 to 30 mg/kg",
+        "SINGLE": "20 (20)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Dose for children above 6 months",
+        "CODE": 141
+    },
+    {
+        "DOSE": "25 to 60 mg/kg",
+        "SINGLE": "42 (42.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "IV",
+        "INSTRUCTION": "In 2 divided doses",
+        "CODE": 144
+    },
+    {
+        "DOSE": "20 to 40 mg/kg",
+        "SINGLE": "30 (30)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 142
+    },
+    {
+        "DOSE": "20 to 40 mg/kg",
+        "SINGLE": "30 (30)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Dose may be increased to 200mg/kg to 12 g in severe infections",
+        "CODE": 142
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 129
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 145
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 145
+    },
+    {
+        "DOSE": "0.5 to 2 mg/kg",
+        "SINGLE": "1.2 (1.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Gradually increase the Dose",
+        "CODE": 125
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "IV doses should be given over 60 min doses above 50mg/kg should be given by IV infusion only",
+        "CODE": 146
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 151
+    },
+    {
+        "DOSE": "6.3 to 12.5 mg/kg",
+        "SINGLE": "9.4 (9.4)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 152
+    },
+    {
+        "DOSE": "20 mg/kg",
+        "SINGLE": "20 (20)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 150
+    },
+    {
+        "DOSE": "30 to 50 mg/kg",
+        "SINGLE": "40 (40)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "up to 100mg/kg maximum of 3 g may be used with respiratiry monitrng.",
+        "CODE": 156
+    },
+    {
+        "DOSE": "0.1 to 1 %",
+        "SINGLE": "0.55 (0.55)",
+        "FREQ": "24 hourly",
+        "ROUTE": "topical",
+        "INSTRUCTION": "As required",
+        "CODE": 153
+    },
+    {
+        "DOSE": "15 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 149
+    },
+    {
+        "DOSE": "1.56 mg/kg",
+        "SINGLE": "1.6 (1.56)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intrathecal",
+        "INSTRUCTION": " ",
+        "CODE": 149
+    },
+    {
+        "DOSE": "No indication for use in neonates",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 157
+    },
+    {
+        "DOSE": "12.5 to 25 mg/kg",
+        "SINGLE": "19 (18.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 158
+    },
+    {
+        "DOSE": "12.5 to 25 mg/kg",
+        "SINGLE": "19 (18.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 158
+    },
+    {
+        "DOSE": "0.08 mg/kg/min",
+        "SINGLE": 36739.00013888889,
+        "FREQ": "24 hourly",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "As required",
+        "CODE": 161
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 159
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 163
+    },
+    {
+        "DOSE": "30 mg/kg",
+        "SINGLE": "30 (30)",
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 163
+    },
+    {
+        "DOSE": "0.1 mg/kg",
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 164
+    },
+    {
+        "DOSE": "6 mg/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance after 6 hours of initial, for 2 days",
+        "CODE": 162
+    },
+    {
+        "DOSE": "12 mg/kg",
+        "SINGLE": "12 (12)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initially for Once",
+        "CODE": 162
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "4 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 165
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "4 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 165
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "4 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 165
+    },
+    {
+        "DOSE": "125 to 250 mg",
+        "SINGLE": "190 (187.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "For central D.I.",
+        "INSTRUCTION": " ",
+        "CODE": 166
+    },
+    {
+        "DOSE": "0.5 to 1 mg/kg",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "24 hourly",
+        "ROUTE": "usaual single dose to a total of 100mg/day (over age 6}.",
+        "INSTRUCTION": " ",
+        "CODE": 167
+    },
+    {
+        "DOSE": "2.5 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 169
+    },
+    {
+        "DOSE": "7.812 mg/kg",
+        "SINGLE": "7.8 (7.812)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 148
+    },
+    {
+        "DOSE": "170 mg/kg",
+        "SINGLE": "170 (170)",
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 170
+    },
+    {
+        "DOSE": "Should be avoided",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 171
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 168
+    },
+    {
+        "DOSE": "20 mg/kg",
+        "SINGLE": "20 (20)",
+        "FREQ": "As recommended.",
+        "ROUTE": "oral",
+        "INSTRUCTION": "in divided doses",
+        "CODE": 173
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 155
+    },
+    {
+        "DOSE": "6 mg/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 178
+    },
+    {
+        "DOSE": "6 mg/kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 178
+    },
+    {
+        "DOSE": "6 mg.kg",
+        "SINGLE": "6 (6)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 178
+    },
+    {
+        "DOSE": "4 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 139
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 135
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 175
+    },
+    {
+        "DOSE": "0.2 to 1 mg/kg",
+        "SINGLE": 36678.00013888889,
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 180
+    },
+    {
+        "DOSE": "Should not be used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 182
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 183
+    },
+    {
+        "DOSE": "Not Inidicated in this Age Group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 186
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 185
+    },
+    {
+        "DOSE": "6.25 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Initial, weekly",
+        "CODE": 184
+    },
+    {
+        "DOSE": "12.5 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "oral",
+        "INSTRUCTION": "maintenance, monthly",
+        "CODE": 184
+    },
+    {
+        "DOSE": "31.25 ug/kg",
+        "SINGLE": "31 (31.25)",
+        "FREQ": "24 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "load for once",
+        "CODE": 188
+    },
+    {
+        "DOSE": "62.5 ug/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Maintenance,  As required",
+        "CODE": 188
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 190
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 191
+    },
+    {
+        "DOSE": "7.812 to 15.625 mg/kg",
+        "SINGLE": "12 (11.7185)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 193
+    },
+    {
+        "DOSE": "7.812 to 15.625 mg/kg",
+        "SINGLE": "12 (11.7185)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Slow intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 193
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 194
+    },
+    {
+        "DOSE": 0.001,
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "Twice to Thrice per week, for 3-Weeks",
+        "CODE": 195
+    },
+    {
+        "DOSE": 0.01,
+        "SINGLE": "1 (1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": " ",
+        "CODE": 192
+    },
+    {
+        "DOSE": "Safety not established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 198
+    },
+    {
+        "DOSE": "Not recomended in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 199
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 196
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 172
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 174
+    },
+    {
+        "DOSE": "0.031 million units/kg",
+        "SINGLE": "0.031 (0.031)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "single dose 0.093",
+        "CODE": 200
+    },
+    {
+        "DOSE": "15 to 30 mg/kg",
+        "SINGLE": "22 (22.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 202
+    },
+    {
+        "DOSE": "15 to 30 mg/kg",
+        "SINGLE": "22 (22.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Slow intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 202
+    },
+    {
+        "DOSE": "3 to 5 ug /kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initially for 2 or more weeks",
+        "CODE": 203
+    },
+    {
+        "DOSE": "10 ug/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Maintenance, once in a month",
+        "CODE": 203
+    },
+    {
+        "DOSE": "3 to 5 ug/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "Initially for 2 or more weeks",
+        "CODE": 203
+    },
+    {
+        "DOSE": "10 ug/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "Maintenance, once in a month",
+        "CODE": 203
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 208
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 213
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 211
+    },
+    {
+        "DOSE": "1 mg/sq.meter",
+        "SINGLE": "2 (2)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "As Required",
+        "CODE": 214
+    },
+    {
+        "DOSE": "0.5 to 0.7 mg/kg",
+        "SINGLE": 36678.00013888889,
+        "FREQ": "12 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "For not more than 10 Days",
+        "CODE": 216
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 217
+    },
+    {
+        "DOSE": "28.571 mg/kg",
+        "SINGLE": "29 (28.571)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initial",
+        "CODE": 218
+    },
+    {
+        "DOSE": "71.428 mg/kg",
+        "SINGLE": "71 (71.428)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 218
+    },
+    {
+        "DOSE": "0.312 mg/kg",
+        "SINGLE": "0.31 (0.312)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 226
+    },
+    {
+        "DOSE": "0.2 mg/kg",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 222
+    },
+    {
+        "DOSE": "0.2 mg/kg",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 222
+    },
+    {
+        "DOSE": "0.2 mg/kg",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 222
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 228
+    },
+    {
+        "DOSE": "0.05 to 0.1 mg/kg",
+        "SINGLE": "0.075 (0.075)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 229
+    },
+    {
+        "DOSE": "0.05 to 0.1 mg/kg",
+        "SINGLE": "0.075 (0.075)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "-",
+        "CODE": 229
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 219
+    },
+    {
+        "DOSE": "1 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initially for 3 days",
+        "CODE": 237
+    },
+    {
+        "DOSE": "2 mg/kg",
+        "SINGLE": "2 (2)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance for 21 Days",
+        "CODE": 237
+    },
+    {
+        "DOSE": "5 to 7.5 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Maintenance, As required",
+        "CODE": 241
+    },
+    {
+        "DOSE": "35 to 60 ug/kg",
+        "SINGLE": "48 (47.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Initial dose, As required",
+        "CODE": 241
+    },
+    {
+        "DOSE": "Not used  in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 233
+    },
+    {
+        "DOSE": "2.5 to 3 mg/kg",
+        "SINGLE": "2.8 (2.75)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initially for 2 Days",
+        "CODE": 246
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 251
+    },
+    {
+        "DOSE": "1.25 mg/kg",
+        "SINGLE": "1.2 (1.25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 253
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": "Avoid in children less than 6 months of age",
+        "CODE": 235
+    },
+    {
+        "DOSE": "0.2 to 0.3 mg/kg",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow intravenous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 231
+    },
+    {
+        "DOSE": "0.1 to 2 %",
+        "SINGLE": "1 (1.05)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 258
+    },
+    {
+        "DOSE": "2.5 to 15 ug/kg.min",
+        "SINGLE": "8.8 (8.75)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "As required",
+        "CODE": 259
+    },
+    {
+        "DOSE": "0.2 to 0.4 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 260
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 264
+    },
+    {
+        "DOSE": "2.5 to 7.5 mg/kg",
+        "SINGLE": "5 (5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 255
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 262
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 267
+    },
+    {
+        "DOSE": "0.3 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 268
+    },
+    {
+        "DOSE": "0.3 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 268
+    },
+    {
+        "DOSE": "0.1 mg/kg",
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow intravenous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 272
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 273
+    },
+    {
+        "DOSE": "0.5 to 1 %",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Nasal",
+        "INSTRUCTION": "As required",
+        "CODE": 278
+    },
+    {
+        "DOSE": "0.93 mg/kg",
+        "SINGLE": "0.93 (0.93)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 278
+    },
+    {
+        "DOSE": "50 IU/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Initially 3 times per week",
+        "CODE": 279
+    },
+    {
+        "DOSE": "75 to 150 IU/kg",
+        "SINGLE": "110 (112.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Maintenance, as required",
+        "CODE": 279
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 281
+    },
+    {
+        "DOSE": "7.812 to 15.625 mg/kg",
+        "SINGLE": "12 (11.7185)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 283
+    },
+    {
+        "DOSE": "SA",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 285
+    },
+    {
+        "DOSE": "Avid under 2 yrs.",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 284
+    },
+    {
+        "DOSE": "3 to 5 %",
+        "SINGLE": "4 (4)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": "As Required",
+        "CODE": 286
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 287
+    },
+    {
+        "DOSE": "Not indicated in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 290
+    },
+    {
+        "DOSE": "Not indicated in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 291
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 292
+    },
+    {
+        "DOSE": "Not indicated in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 289
+    },
+    {
+        "DOSE": "Doses not established for this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 295
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 299
+    },
+    {
+        "DOSE": "2 to 15 ug/kg.min",
+        "SINGLE": "8.5 (8.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "As Required",
+        "CODE": 261
+    },
+    {
+        "DOSE": "Safety not established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 298
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 306
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 300
+    },
+    {
+        "DOSE": "5 to 10 ug/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Forr 3----5 days",
+        "CODE": 305
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 302
+    },
+    {
+        "DOSE": "Not safe under 2 Yrs of children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 304
+    },
+    {
+        "DOSE": "7.81 mg/kg",
+        "SINGLE": "7.8 (7.81)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 307
+    },
+    {
+        "DOSE": "12.5 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Slow Intavenous",
+        "INSTRUCTION": " ",
+        "CODE": 307
+    },
+    {
+        "DOSE": "0.833 to 1.66 mg/kg.min",
+        "SINGLE": "1.2 (1.2465)",
+        "FREQ": "6 hourly",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "For 30 Minutes",
+        "CODE": 310
+    },
+    {
+        "DOSE": "25 to 50 mg/kg",
+        "SINGLE": "38 (37.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 310
+    },
+    {
+        "DOSE": "5 ug/kg",
+        "SINGLE": "5 (5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 311
+    },
+    {
+        "DOSE": 0.0005,
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 309
+    },
+    {
+        "DOSE": 0.00025,
+        "SINGLE": "0.025 (0.025)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 308
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 312
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 315
+    },
+    {
+        "DOSE": "0.03 to 0.062 mg/kg",
+        "SINGLE": "0.046 (0.046)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 314
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 316
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 319
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 320
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 321
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 322
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 323
+    },
+    {
+        "DOSE": "Safety not established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 332
+    },
+    {
+        "DOSE": "12.5 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 331
+    },
+    {
+        "DOSE": "6 to 7 mg/kg",
+        "SINGLE": "6.5 (6.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 331
+    },
+    {
+        "DOSE": "0.5 to 1.5 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 330
+    },
+    {
+        "DOSE": "0.5 to 1.5 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 330
+    },
+    {
+        "DOSE": "1 to 2 mg/kg",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 330
+    },
+    {
+        "DOSE": "2.5 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 336
+    },
+    {
+        "DOSE": "2.5 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 336
+    },
+    {
+        "DOSE": 0.003,
+        "SINGLE": 36586.00013888889,
+        "FREQ": "6 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": " ",
+        "CODE": 336
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 337
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 318
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 338
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 340
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 343
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 344
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 339
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 341
+    },
+    {
+        "DOSE": "0.005 to 0.008 mg",
+        "SINGLE": "0.0065 (0.0065)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Ear",
+        "INSTRUCTION": "-",
+        "CODE": 348
+    },
+    {
+        "DOSE": "0.003 to 0.005 mg",
+        "SINGLE": 36617.00013888889,
+        "FREQ": "6 hourly",
+        "ROUTE": "Opthalmic",
+        "INSTRUCTION": "-",
+        "CODE": 348
+    },
+    {
+        "DOSE": 0.25,
+        "SINGLE": "25 (25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 348
+    },
+    {
+        "DOSE": "12.5 ug/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 346
+    },
+    {
+        "DOSE": "12.5 ug/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": " ",
+        "CODE": 346
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 347
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 334
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 352
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 350
+    },
+    {
+        "DOSE": "0.5 to 2 %",
+        "SINGLE": "1.2 (1.25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": "For Maintenance of anaesthesia, As Required",
+        "CODE": 353
+    },
+    {
+        "DOSE": "1.5 to 2 %",
+        "SINGLE": "1.8 (1.75)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": "For Induction of anaesthesia , As Required",
+        "CODE": 353
+    },
+    {
+        "DOSE": "25 IU/kg.hr",
+        "SINGLE": "25 (25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "As Required",
+        "CODE": 354
+    },
+    {
+        "DOSE": "1 to 2 %",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Opthalmic",
+        "INSTRUCTION": "As Required",
+        "CODE": 357
+    },
+    {
+        "DOSE": 0.03,
+        "SINGLE": "3 (3)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 355
+    },
+    {
+        "DOSE": "250 to 500 mg/kg",
+        "SINGLE": "380 (375)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Over 30 to 60  minutes",
+        "CODE": 358
+    },
+    {
+        "DOSE": "0.25 to 0.5 IU/kg",
+        "SINGLE": "0.38 (0.375)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": " ",
+        "CODE": 360
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 345
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 351
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 335
+    },
+    {
+        "DOSE": "1 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 363
+    },
+    {
+        "DOSE": "1 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 367
+    },
+    {
+        "DOSE": "1 mg",
+        "SINGLE": "1 (1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initially 5 doses at 2-3 days interval",
+        "CODE": 368
+    },
+    {
+        "DOSE": "5 to 10 %",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Ear",
+        "INSTRUCTION": "As Required",
+        "CODE": 374
+    },
+    {
+        "DOSE": "5 to 10 %",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 374
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 375
+    },
+    {
+        "DOSE": "6.25 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 365
+    },
+    {
+        "DOSE": "6.25 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 365
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 378
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 379
+    },
+    {
+        "DOSE": "Not use in  neonates",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 380
+    },
+    {
+        "DOSE": "0.2 mg/kg",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initially for Once or repeated after 30 Minutes",
+        "CODE": 362
+    },
+    {
+        "DOSE": "0.25 to 0.5 mg/kg",
+        "SINGLE": "0.38 (0.375)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 362
+    },
+    {
+        "DOSE": "0.2 mg/kg",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Initially for Once or repeated after 30 Minutes",
+        "CODE": 362
+    },
+    {
+        "DOSE": "1500 IU",
+        "SINGLE": "1500 (1500)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Total Dose",
+        "CODE": 361
+    },
+    {
+        "DOSE": "1 to 3 millionunits/sq.meter",
+        "SINGLE": "2 (2)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "-",
+        "CODE": 383
+    },
+    {
+        "DOSE": "12.5 ug/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": "Via nebulizer",
+        "CODE": 390
+    },
+    {
+        "DOSE": "0.875 to 1.75 mg/kg",
+        "SINGLE": "1.3 (1.3125)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single dose may  repeat after 20 min. if required",
+        "CODE": 389
+    },
+    {
+        "DOSE": "0.1 to 4 ug/kg.min",
+        "SINGLE": "2 (2.05)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "As required",
+        "CODE": 396
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 399
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 398
+    },
+    {
+        "DOSE": "10 to 15 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intavenous",
+        "INSTRUCTION": " ",
+        "CODE": 395
+    },
+    {
+        "DOSE": "10 to 15 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 395
+    },
+    {
+        "DOSE": "10 to 15 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 395
+    },
+    {
+        "DOSE": "0.2 to 0.6 mg/kg",
+        "SINGLE": 36617.00013888889,
+        "FREQ": "12 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Dose for closure of ductus arteriosus",
+        "CODE": 381
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 401
+    },
+    {
+        "DOSE": "5 to 10 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 405
+    },
+    {
+        "DOSE": "5 to 10 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 405
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 404
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 406
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 410
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 411
+    },
+    {
+        "DOSE": "209.3 mg/kg",
+        "SINGLE": "210 (209.3)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 413
+    },
+    {
+        "DOSE": "20 to 50 ug/kg.min",
+        "SINGLE": "35 (35)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 418
+    },
+    {
+        "DOSE": "0.5 to 1 mg/kg",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Initially, As Required",
+        "CODE": 418
+    },
+    {
+        "DOSE": 0.02,
+        "SINGLE": "2 (2)",
+        "FREQ": "3 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 418
+    },
+    {
+        "DOSE": "0.625 ug/kg",
+        "SINGLE": "0.62 (0.625)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initial, Gradually increase to maintenance dose",
+        "CODE": 421
+    },
+    {
+        "DOSE": "0.312 to 1.25 ug/kg",
+        "SINGLE": "0.78 (0.781)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance",
+        "CODE": 421
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 429
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 430
+    },
+    {
+        "DOSE": 0.01,
+        "SINGLE": "1 (1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 420
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Once in 24 Hours",
+        "CODE": 419
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 419
+    },
+    {
+        "DOSE": "5 to 10 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "As Required",
+        "CODE": 419
+    },
+    {
+        "DOSE": 0.005,
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "Apply as required",
+        "CODE": 434
+    },
+    {
+        "DOSE": "6.25 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 439
+    },
+    {
+        "DOSE": "16.66 to 66.66 mg/kg.min",
+        "SINGLE": "42 (41.66)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Infuse over 30 min.Repeat the dose as required",
+        "CODE": 435
+    },
+    {
+        "DOSE": "5 to 15 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 440
+    },
+    {
+        "DOSE": "5 to 15 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 440
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 443
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 444
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 437
+    },
+    {
+        "DOSE": "Not applicable for this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 442
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 450
+    },
+    {
+        "DOSE": "Not use in children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 449
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 445
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 454
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 456
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 457
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 452
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 446
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 467
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 466
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 470
+    },
+    {
+        "DOSE": "5 to 10 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 468
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 474
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 473
+    },
+    {
+        "DOSE": "0.1 mg/kg",
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 475
+    },
+    {
+        "DOSE": "0.1 mg/kg",
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 475
+    },
+    {
+        "DOSE": "0.1 mg/kg",
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 475
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 476
+    },
+    {
+        "DOSE": "3 mg/kg",
+        "SINGLE": "3 (3)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 469
+    },
+    {
+        "DOSE": "15 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For One Day",
+        "CODE": 480
+    },
+    {
+        "DOSE": "2.5 to 4 mg/kg",
+        "SINGLE": "3.2 (3.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 481
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 465
+    },
+    {
+        "DOSE": "0.05 g/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "4 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 462
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Iv Infusion",
+        "INSTRUCTION": " ",
+        "CODE": 479
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 479
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 485
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 486
+    },
+    {
+        "DOSE": "0.33 to 0.5 mg/kg.min",
+        "SINGLE": "0.41 (0.415)",
+        "FREQ": "8 hourly",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Infuse over 30 Min",
+        "CODE": 484
+    },
+    {
+        "DOSE": 0.02,
+        "SINGLE": "2 (2)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 484
+    },
+    {
+        "DOSE": "0.1 to 2 mg/kg",
+        "SINGLE": "1 (1.05)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Gradually increase the Dose",
+        "CODE": 488
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Intamuscular",
+        "INSTRUCTION": " ",
+        "CODE": 482
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "4 hourly",
+        "ROUTE": "IV infusion",
+        "INSTRUCTION": "Infuse over 30 min.",
+        "CODE": 482
+    },
+    {
+        "DOSE": "0.4 mg/kg",
+        "SINGLE": 36617.00013888889,
+        "FREQ": "24 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "For 3---5 days",
+        "CODE": 491
+    },
+    {
+        "DOSE": "0.1 to 0.2 mg/kg",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 493
+    },
+    {
+        "DOSE": "0.2 to 0.4 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "4 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 493
+    },
+    {
+        "DOSE": "0.1 to 0.2 mg/kg",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "-",
+        "CODE": 493
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 483
+    },
+    {
+        "DOSE": 0.02,
+        "SINGLE": "2 (2)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 495
+    },
+    {
+        "DOSE": "Not indicated in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 498
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 496
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 497
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Once in 2-Weeks, for 6 Weeks.",
+        "CODE": 478
+    },
+    {
+        "DOSE": "Not use in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 459
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 506
+    },
+    {
+        "DOSE": "5 to 10 ug/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "Repeat according to response",
+        "CODE": 501
+    },
+    {
+        "DOSE": "5 to 10 ug/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Repeat according to response",
+        "CODE": 501
+    },
+    {
+        "DOSE": "50 ug/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "As required",
+        "CODE": 507
+    },
+    {
+        "DOSE": "0.5 to 1 mg/kg",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For all ages",
+        "CODE": 507
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 509
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 505
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 500
+    },
+    {
+        "DOSE": "0.625 to 1.25 mg/kg",
+        "SINGLE": "0.94 (0.9375)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 511
+    },
+    {
+        "DOSE": "62.5 mg/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single dose",
+        "CODE": 510
+    },
+    {
+        "DOSE": "2.142 mg/kg",
+        "SINGLE": "2.1 (2.142)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "For 3 to 5 minutes",
+        "CODE": 508
+    },
+    {
+        "DOSE": "2.142 mg/kg",
+        "SINGLE": "2.1 (2.142)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "For 3 to 5 minutes",
+        "CODE": 508
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 512
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 514
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 517
+    },
+    {
+        "DOSE": "0.25 mg/kg",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 518
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 519
+    },
+    {
+        "DOSE": "0.1 to 0.2 ug/kg.min",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Maintenance , As required",
+        "CODE": 522
+    },
+    {
+        "DOSE": "0.2 ug/kg.min",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Initial , .As Required",
+        "CODE": 522
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 521
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 525
+    },
+    {
+        "DOSE": 0.01,
+        "SINGLE": "1 (1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intrapritoneal",
+        "INSTRUCTION": "As required",
+        "CODE": 526
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 528
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 529
+    },
+    {
+        "DOSE": "0.028 to 0.057 Litrtes/kg",
+        "SINGLE": "0.042 (0.0425)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "During 24 hrs., As required",
+        "CODE": 534
+    },
+    {
+        "DOSE": "Not used in children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 524
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 536
+    },
+    {
+        "DOSE": "10 to 15 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For 1-3 Days",
+        "CODE": 538
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 539
+    },
+    {
+        "DOSE": "0.5 to 1 mg/kg",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 535
+    },
+    {
+        "DOSE": "1 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 541
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 543
+    },
+    {
+        "DOSE": "Inhalation",
+        "SINGLE": "As Required",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 542
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 544
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 545
+    },
+    {
+        "DOSE": "0.06 ug/kg",
+        "SINGLE": 36678.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Initially for Once",
+        "CODE": 547
+    },
+    {
+        "DOSE": "10 to 20 ug/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Maintenance every  30 to 60 min, As Required",
+        "CODE": 547
+    },
+    {
+        "DOSE": "12 mg/kg",
+        "SINGLE": "12 (12)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 550
+    },
+    {
+        "DOSE": "5 mg/kg",
+        "SINGLE": "5 (5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 551
+    },
+    {
+        "DOSE": "4 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "For 14 to 21 days",
+        "CODE": 552
+    },
+    {
+        "DOSE": "4 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "24 hourly",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "For 14 to 21 days",
+        "CODE": 552
+    },
+    {
+        "DOSE": "Should not be used in children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 554
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 556
+    },
+    {
+        "DOSE": "30 ml/kg.hr",
+        "SINGLE": "30 (30)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Peritoneally",
+        "INSTRUCTION": "As Required",
+        "CODE": 555
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 531
+    },
+    {
+        "DOSE": "1 to 3 mg/kg",
+        "SINGLE": "2 (2)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 560
+    },
+    {
+        "DOSE": "Not indicated in children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 559
+    },
+    {
+        "DOSE": "1 to 2 ",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 557
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 558
+    },
+    {
+        "DOSE": "1.13 to 2.83 mg/kg",
+        "SINGLE": "2 (1.98)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "For above 6 month of child",
+        "CODE": 561
+    },
+    {
+        "DOSE": "3.1 mg/kg",
+        "SINGLE": "3.1 (3.1)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 562
+    },
+    {
+        "DOSE": "7.812 mg/kg",
+        "SINGLE": "7.8 (7.812)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 565
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 567
+    },
+    {
+        "DOSE": "4 to 5 mg/kg",
+        "SINGLE": "4.5 (4.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "For 6 months and above children",
+        "CODE": 570
+    },
+    {
+        "DOSE": "1 to 2 %",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Opthalmic",
+        "INSTRUCTION": "-",
+        "CODE": 573
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 574
+    },
+    {
+        "DOSE": "Safety not established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 572
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 568
+    },
+    {
+        "DOSE": "0.1 mg/kg",
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 571
+    },
+    {
+        "DOSE": "25 to 75 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 577
+    },
+    {
+        "DOSE": "100 mg/kg",
+        "SINGLE": "100 (100)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Recommended for Ascariasis",
+        "CODE": 578
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 576
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 581
+    },
+    {
+        "DOSE": "5 to 10 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 582
+    },
+    {
+        "DOSE": "15 to 30 %",
+        "SINGLE": "22 (22.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 584
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 579
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 585
+    },
+    {
+        "DOSE": "0.25 mg/kg",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intrathecal",
+        "INSTRUCTION": " ",
+        "CODE": 586
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 580
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 589
+    },
+    {
+        "DOSE": "0.03 to 0.1 %",
+        "SINGLE": "0.065 (0.065)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 590
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 563
+    },
+    {
+        "DOSE": "20 to 60 mg/kg",
+        "SINGLE": "40 (40)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Single Dose, can be repeated As Required",
+        "CODE": 593
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 592
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 595
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 594
+    },
+    {
+        "DOSE": "0.05 to 0.2 mg/kg",
+        "SINGLE": 36861.00013888889,
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 597
+    },
+    {
+        "DOSE": "Shoul be avoided under 1 year",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 598
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 587
+    },
+    {
+        "DOSE": "5 mg/kg",
+        "SINGLE": "5 (5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initially at Bed time",
+        "CODE": 601
+    },
+    {
+        "DOSE": "10 to 15 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 601
+    },
+    {
+        "DOSE": "0.25 mg/kg",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For 2-3 Weeks",
+        "CODE": 600
+    },
+    {
+        "DOSE": "0.5 mg/kg.hr",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 613
+    },
+    {
+        "DOSE": "8 mg/kg",
+        "SINGLE": "8 (8)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 613
+    },
+    {
+        "DOSE": "2 mg/kg",
+        "SINGLE": "2 (2)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Initially repeat every 30 min upto a max of 100 mg",
+        "CODE": 613
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 615
+    },
+    {
+        "DOSE": "0.312 mg/kg",
+        "SINGLE": "0.31 (0.312)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "Single dose",
+        "CODE": 617
+    },
+    {
+        "DOSE": "0.312 mg/kg",
+        "SINGLE": "0.31 (0.312)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 617
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 618
+    },
+    {
+        "DOSE": "3.125 mg/kg",
+        "SINGLE": "3.1 (3.125)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 619
+    },
+    {
+        "DOSE": "0.312 to 0.625 mg/kg",
+        "SINGLE": "0.47 (0.4685)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 623
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 626
+    },
+    {
+        "DOSE": "0.25 to 0.5 mg/kg",
+        "SINGLE": "0.38 (0.375)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 627
+    },
+    {
+        "DOSE": "IV Infusion",
+        "SINGLE": "As per Heparin Dosage",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 630
+    },
+    {
+        "DOSE": "0.625 to 1.875 mg/kg",
+        "SINGLE": "1.2 (1.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 633
+    },
+    {
+        "DOSE": "5 mg/kg",
+        "SINGLE": "5 (5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 635
+    },
+    {
+        "DOSE": "0.625 to 3.75 mg/kg",
+        "SINGLE": "2.2 (2.1875)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initial dose , then adjust according to response",
+        "CODE": 636
+    },
+    {
+        "DOSE": "0.5 to 1 mg/kg",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 637
+    },
+    {
+        "DOSE": "Should not be used in children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 640
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For 7 Days (As Quinine Sulphate)",
+        "CODE": 642
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 643
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 644
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 646
+    },
+    {
+        "DOSE": "3.125 to 6.25 mg/kg",
+        "SINGLE": "4.7 (4.6875)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 647
+    },
+    {
+        "DOSE": "1 mg/kg",
+        "SINGLE": "1 (1)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 648
+    },
+    {
+        "DOSE": "10 to 20 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 649
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 651
+    },
+    {
+        "DOSE": "0.5 to 6 %",
+        "SINGLE": "3.2 (3.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 653
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 656
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 655
+    },
+    {
+        "DOSE": 0.01,
+        "SINGLE": "1 (1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As required",
+        "CODE": 657
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 659
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 658
+    },
+    {
+        "DOSE": "40 mg/kg",
+        "SINGLE": "40 (40)",
+        "FREQ": "12 hourly",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Treat up to 5 days",
+        "CODE": 661
+    },
+    {
+        "DOSE": "1 to 2 mg/kg",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Once or As Required",
+        "CODE": 660
+    },
+    {
+        "DOSE": "0.156 mg/kg",
+        "SINGLE": "0.16 (0.156)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Inhalation",
+        "INSTRUCTION": "Via nebulizer",
+        "CODE": 652
+    },
+    {
+        "DOSE": "0.125 mg/kg",
+        "SINGLE": 36861.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 652
+    },
+    {
+        "DOSE": "3.33 mg/kg.min",
+        "SINGLE": "3.3 (3.33)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "For 3 Min or As Required",
+        "CODE": 664
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 665
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 666
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 667
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 667
+    },
+    {
+        "DOSE": "250 mg/kg",
+        "SINGLE": "250 (250)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Given over  10 Minutes",
+        "CODE": 668
+    },
+    {
+        "DOSE": "0.166 to 0.233 IU/kg",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 670
+    },
+    {
+        "DOSE": "0.083 to 0.116 IU/kg",
+        "SINGLE": "0.1 (0.0995)",
+        "FREQ": "4 hourly",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "-",
+        "CODE": 670
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 673
+    },
+    {
+        "DOSE": "16.66 to 33.33 m/kg",
+        "SINGLE": "25 (24.995)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 674
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 676
+    },
+    {
+        "DOSE": "8.33 to 16.66 ug/kg.min",
+        "SINGLE": "12 (12.495)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 678
+    },
+    {
+        "DOSE": "2500 to 4000 ug/kg",
+        "SINGLE": "3200 (3250)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Load over 25 Minutes",
+        "CODE": 678
+    },
+    {
+        "DOSE": "Not indicated in children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 677
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 672
+    },
+    {
+        "DOSE": "1 to 1.5 mg/kg",
+        "SINGLE": "1.2 (1.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 675
+    },
+    {
+        "DOSE": "6 to 12 mg/kg",
+        "SINGLE": "9 (9)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 669
+    },
+    {
+        "DOSE": "6 to 12 mg/kg",
+        "SINGLE": "9 (9)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 669
+    },
+    {
+        "DOSE": "15 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 679
+    },
+    {
+        "DOSE": "Safety not established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 681
+    },
+    {
+        "DOSE": "Should not be used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 686
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single dose",
+        "CODE": 685
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance after 2 day IV maintenance doses",
+        "CODE": 688
+    },
+    {
+        "DOSE": "37.5 mg/kg",
+        "SINGLE": "38 (37.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 688
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Maintenance for 2 Days",
+        "CODE": 688
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "Initial",
+        "CODE": 688
+    },
+    {
+        "DOSE": "Should not be used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 689
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 684
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initially for Once",
+        "CODE": 684
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 684
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Initially for Once",
+        "CODE": 684
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 684
+    },
+    {
+        "DOSE": "50 mg/kg",
+        "SINGLE": "50 (50)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initially for Once",
+        "CODE": 684
+    },
+    {
+        "DOSE": "5 to 7.5 mg/kg",
+        "SINGLE": "6.2 (6.25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance",
+        "CODE": 692
+    },
+    {
+        "DOSE": "10 to 15 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initially for acute attack",
+        "CODE": 692
+    },
+    {
+        "DOSE": "Not indicated in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 695
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 699
+    },
+    {
+        "DOSE": "2 mg/kg",
+        "SINGLE": "2 (2)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "As required",
+        "CODE": 698
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 697
+    },
+    {
+        "DOSE": "36 ug/kg",
+        "SINGLE": "36 (36)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "Single dose",
+        "CODE": 705
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 704
+    },
+    {
+        "DOSE": "Not used in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 703
+    },
+    {
+        "DOSE": "0.5 to 1 mg/kg",
+        "SINGLE": "0.75 (0.75)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "As Required",
+        "CODE": 700
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 706
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 708
+    },
+    {
+        "DOSE": "0.625 mg/kg",
+        "SINGLE": "0.62 (0.625)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 710
+    },
+    {
+        "DOSE": "0.625 mg/kg",
+        "SINGLE": "0.62 (0.625)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 710
+    },
+    {
+        "DOSE": "2 to 7 mg/kg",
+        "SINGLE": "4.5 (4.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 713
+    },
+    {
+        "DOSE": "1.65 mg/kg",
+        "SINGLE": "1.6 (1.65)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For 4 days",
+        "CODE": 711
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 716
+    },
+    {
+        "DOSE": "6 to 8 mg/kg",
+        "SINGLE": "7 (7)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 715
+    },
+    {
+        "DOSE": "0.5 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 714
+    },
+    {
+        "DOSE": "50 to 75 mg/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 717
+    },
+    {
+        "DOSE": "50 to 75 mg/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 717
+    },
+    {
+        "DOSE": "Safety not established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 722
+    },
+    {
+        "DOSE": "1 to 5 mg/kg",
+        "SINGLE": "3 (3)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 723
+    },
+    {
+        "DOSE": "50 to 75 mg/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 720
+    },
+    {
+        "DOSE": "0.016 to 0.033 mg/kg.min",
+        "SINGLE": "0.024 (0.0245)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Maintenance , as required",
+        "CODE": 724
+    },
+    {
+        "DOSE": "0.2 mg/kg.min",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "Initial , infuse over 10 min.",
+        "CODE": 724
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 727
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 726
+    },
+    {
+        "DOSE": "Not indicated in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 728
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 725
+    },
+    {
+        "DOSE": "2 to 2.5 mg/kg",
+        "SINGLE": "2.2 (2.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 721
+    },
+    {
+        "DOSE": "2 to 2.5 mg/kg",
+        "SINGLE": "2.2 (2.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 721
+    },
+    {
+        "DOSE": "Safety not Established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 729
+    },
+    {
+        "DOSE": "1 to 2 mg/kg",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 733
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 732
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 731
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 737
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 739
+    },
+    {
+        "DOSE": "0.25 mg/kg",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 736
+    },
+    {
+        "DOSE": "4 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 738
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 745
+    },
+    {
+        "DOSE": "0.25 mg/kg.min",
+        "SINGLE": "0.25 (0.25)",
+        "FREQ": "8 hourly",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "For 60 Minutes",
+        "CODE": 748
+    },
+    {
+        "DOSE": "0.3 to 0.5 mg/kg",
+        "SINGLE": 36617.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "As Required",
+        "CODE": 742
+    },
+    {
+        "DOSE": "2 to 3 mg/kg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 750
+    },
+    {
+        "DOSE": "0.05 mg/kg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Initial once weekly then as required",
+        "CODE": 754
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 757
+    },
+    {
+        "DOSE": "0.1 to 0.2 mg/kg",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance",
+        "CODE": 756
+    },
+    {
+        "DOSE": "0.2 to 0.6 mg/kg",
+        "SINGLE": 36617.00013888889,
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Loading",
+        "CODE": 756
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 760
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 764
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 763
+    },
+    {
+        "DOSE": "7.5 to 9 mg/kg",
+        "SINGLE": "8.2 (8.25)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 762
+    },
+    {
+        "DOSE": 0.005,
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As required",
+        "CODE": 770
+    },
+    {
+        "DOSE": "0.125 mg/kg",
+        "SINGLE": 36861.00013888889,
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 740
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 734
+    },
+    {
+        "DOSE": "7.81 mg/kg",
+        "SINGLE": "7.8 (7.81)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "For  4----12 months of children",
+        "CODE": 777
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 776
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 786
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 787
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 791
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 790
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 792
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 795
+    },
+    {
+        "DOSE": "0.2 mg/kg/hr",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Maintenance for 24 hrs or as required",
+        "CODE": 794
+    },
+    {
+        "DOSE": "5 to 6 mg/kg/hr",
+        "SINGLE": "5.5 (5.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Load for once over 20 minutes",
+        "CODE": 794
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intavenous",
+        "INSTRUCTION": "For 5---14 days",
+        "CODE": 799
+    },
+    {
+        "DOSE": "25 mg/kg",
+        "SINGLE": "25 (25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "For 5----14 days",
+        "CODE": 799
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 901
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 904
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 908
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 900
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 909
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 911
+    },
+    {
+        "DOSE": "0.5 ml",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "For Once",
+        "CODE": 912
+    },
+    {
+        "DOSE": "0.5 ml",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "For Once",
+        "CODE": 913
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 915
+    },
+    {
+        "DOSE": "0.5 ml",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Subcutaneous",
+        "INSTRUCTION": "For once or as required .For over 2 month of child",
+        "CODE": 919
+    },
+    {
+        "DOSE": 0.02,
+        "SINGLE": "2 (2)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 921
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 920
+    },
+    {
+        "DOSE": "7.142 mg/kg",
+        "SINGLE": "7.1 (7.142)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "As required",
+        "CODE": 922
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 923
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 925
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 933
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 936
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 935
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 940
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 941
+    },
+    {
+        "DOSE": "Not indicated below one year of children",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 937
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 934
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 945
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 946
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 950
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 951
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 954
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 956
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 957
+    },
+    {
+        "DOSE": "Safety not  established",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 959
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 947
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 961
+    },
+    {
+        "DOSE": 0.05,
+        "SINGLE": "5 (5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "Repeat  if neccesary,Apply as directed",
+        "CODE": 962
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 960
+    },
+    {
+        "DOSE": "0.3 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 964
+    },
+    {
+        "DOSE": "0.3 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 964
+    },
+    {
+        "DOSE": "0.3 mg/kg",
+        "SINGLE": 36586.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "slow Intra venous",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 964
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 963
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 970
+    },
+    {
+        "DOSE": "20 to 30 ",
+        "SINGLE": "25 (25)",
+        "FREQ": "As recommended.",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "As required",
+        "CODE": 971
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 972
+    },
+    {
+        "DOSE": "186.56 to 261.19 mg/kg",
+        "SINGLE": "220 (223.875)",
+        "FREQ": "24 hourly",
+        "ROUTE": "IV Infusion",
+        "INSTRUCTION": "As Required",
+        "CODE": 975
+    },
+    {
+        "DOSE": "62.18 to 87.06 mg/kg",
+        "SINGLE": "75 (74.62)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 975
+    },
+    {
+        "DOSE": "0.5 ml",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "As required",
+        "CODE": 973
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 974
+    },
+    {
+        "DOSE": "0.78 to 1.56 ug/kg",
+        "SINGLE": "1.2 (1.17)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 979
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 980
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 982
+    },
+    {
+        "DOSE": "0.025 mg/kg",
+        "SINGLE": "0.025 (0.025)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "Single dose",
+        "CODE": 984
+    },
+    {
+        "DOSE": "300 mg/kg",
+        "SINGLE": "300 (300)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "As Required",
+        "CODE": 985
+    },
+    {
+        "DOSE": "5.03 mg/kg",
+        "SINGLE": "5 (5.03)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 988
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 990
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single dose",
+        "CODE": 986
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 994
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 995
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 999
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 998
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 1007
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1016
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1009
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1024
+    },
+    {
+        "DOSE": "30 to 45 mg/kg",
+        "SINGLE": "38 (37.5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "As required",
+        "CODE": 1021
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1026
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1034
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1047
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1049
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1052
+    },
+    {
+        "DOSE": "6 to 10 mg/kg",
+        "SINGLE": "8 (8)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Maintenance",
+        "CODE": 1050
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Loading",
+        "CODE": 1050
+    },
+    {
+        "DOSE": "6 to 10 mg/kg",
+        "SINGLE": "8 (8)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Maintenance",
+        "CODE": 1050
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Loading",
+        "CODE": 1050
+    },
+    {
+        "DOSE": "1000 to 10000 IU",
+        "SINGLE": "5500 (5500)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "For Once",
+        "CODE": 1056
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1061
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1062
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1067
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1071
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1072
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 1070
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1075
+    },
+    {
+        "DOSE": "Topical",
+        "SINGLE": "Variable dosage for each tincture",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 1073
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1076
+    },
+    {
+        "DOSE": 0.01,
+        "SINGLE": "1 (1)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "For 6 Weeks to 1 Year",
+        "CODE": 1074
+    },
+    {
+        "DOSE": "1.66 to 3.33 mg/kg",
+        "SINGLE": "2.5 (2.495)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 1078
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1079
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1077
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1080
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1082
+    },
+    {
+        "DOSE": "1 to 2.5 mg/kg",
+        "SINGLE": "1.8 (1.75)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 1081
+    },
+    {
+        "DOSE": "1 to 2.5 mg/kg",
+        "SINGLE": "1.8 (1.75)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 1081
+    },
+    {
+        "DOSE": "1 to 2.5 mg/kg",
+        "SINGLE": "1.8 (1.75)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "-",
+        "CODE": 1081
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1086
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1083
+    },
+    {
+        "DOSE": "Not applicable  in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 1088
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1094
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1096
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1103
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1106
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1107
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1110
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1109
+    },
+    {
+        "DOSE": "1 mg",
+        "SINGLE": "1 (1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 1112
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 1115
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1116
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1117
+    },
+    {
+        "DOSE": "1 to 2 mg/kg",
+        "SINGLE": "1.5 (1.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Slow IV",
+        "INSTRUCTION": "-",
+        "CODE": 1120
+    },
+    {
+        "DOSE": "2.5 mg",
+        "SINGLE": "2.5 (2.5)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 1121
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1127
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1126
+    },
+    {
+        "DOSE": "31.25 mg/kg",
+        "SINGLE": "31 (31.25)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 1128
+    },
+    {
+        "DOSE": "100 to 400 mg/kg",
+        "SINGLE": "250 (250)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 1128
+    },
+    {
+        "DOSE": "0.125 to 0.25 ml/kg",
+        "SINGLE": "0.19 (0.1875)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "As required",
+        "CODE": 1133
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1135
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1136
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1137
+    },
+    {
+        "DOSE": "4.4 to 8.8 ug/kg",
+        "SINGLE": "6.6 (6.6)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "0.5-1 hr before induction of anaesthesia, as required",
+        "CODE": 1143
+    },
+    {
+        "DOSE": "4.4 to 8.8 ug/kg",
+        "SINGLE": "6.6 (6.6)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "0.5-1 hr before induction of anaesthesia, as required",
+        "CODE": 1143
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1144
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1147
+    },
+    {
+        "DOSE": "4.6 ug/kg",
+        "SINGLE": "4.6 (4.6)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": " ",
+        "CODE": 1154
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1155
+    },
+    {
+        "DOSE": "4 mg/kg",
+        "SINGLE": "4 (4)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": "For 2---5 days",
+        "CODE": 1156
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1159
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1160
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1163
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1169
+    },
+    {
+        "DOSE": "5 to 1 mg/kg",
+        "SINGLE": "3 (3)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Maintenance, As Required",
+        "CODE": 1170
+    },
+    {
+        "DOSE": "5 mg/kg",
+        "SINGLE": "5 (5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initial, repeated on alternate days",
+        "CODE": 1170
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1171
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1172
+    },
+    {
+        "DOSE": "Not applicable in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 1175
+    },
+    {
+        "DOSE": "3 mg/kg",
+        "SINGLE": "3 (3)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Single Dose",
+        "CODE": 1177
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1174
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1180
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1182
+    },
+    {
+        "DOSE": "0.285 ug/kg",
+        "SINGLE": "0.28 (0.285)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Initially for Once",
+        "CODE": 1186
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1191
+    },
+    {
+        "DOSE": 0.001,
+        "SINGLE": "0.1 (0.1)",
+        "FREQ": "6 hourly",
+        "ROUTE": "topical",
+        "INSTRUCTION": "Recommended for children over 4 months",
+        "CODE": 1203
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1204
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 1207
+    },
+    {
+        "DOSE": "Not recomended in his age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 1208
+    },
+    {
+        "DOSE": "75 unit/m2",
+        "SINGLE": "75 (75)",
+        "FREQ": "As recommended.",
+        "ROUTE": "I/M",
+        "INSTRUCTION": "under 2 year of age. Twice daily over a 2 weeks period, then gradually taperod over adrenal insuffication.",
+        "CODE": 1237
+    },
+    {
+        "DOSE": "0.15 mg/kg",
+        "SINGLE": "0.15 (0.15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "over 5 to 10 sec during halothane or opoid anesthesia. (1st month to 23 month)",
+        "INSTRUCTION": " ",
+        "CODE": 1790
+    },
+    {
+        "DOSE": "10 mg/kg",
+        "SINGLE": "10 (10)",
+        "FREQ": "12 hourly",
+        "ROUTE": "maximum of 250mg daily. More than 3 months of age.",
+        "INSTRUCTION": " ",
+        "CODE": 2156
+    },
+    {
+        "DOSE": "125 mg",
+        "SINGLE": "120 (125)",
+        "FREQ": "12 hourly",
+        "ROUTE": "maximum of 500mg daily. More than 3 months of age.",
+        "INSTRUCTION": " ",
+        "CODE": 2156
+    },
+    {
+        "DOSE": 1,
+        "SINGLE": "1 (1)",
+        "FREQ": "As recommended.",
+        "ROUTE": "PO",
+        "INSTRUCTION": "Two doses are given, the first at 6 weeks of age onwards and the subsequent dose at least 4 weeks later; the course should preferably be given before 16 weeks of age, but must be completed by the age of 24 weeks.",
+        "CODE": 2167
+    },
+    {
+        "DOSE": "Topical",
+        "SINGLE": "Apply thinly once daily in evening",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 2170
+    },
+    {
+        "DOSE": "2.22 to 0 mg/ml",
+        "SINGLE": "1.1 (1.11)",
+        "FREQ": "24 hourly",
+        "ROUTE": "opthalmic",
+        "INSTRUCTION": "The dose is one drop of olopatadine in the conjunctival sac of the affected eye(s) twice daily (8 hourly). Treatment may be maintained for up to four months, if considered necessary.",
+        "CODE": 2246
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 805
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 807
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 800
+    },
+    {
+        "DOSE": "Not usd in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 801
+    },
+    {
+        "DOSE": "15 mg/kg",
+        "SINGLE": "15 (15)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "Initial dose, repeat after 8 hrs. ,24 hrs. and 48 hrs of 1st dose",
+        "CODE": 803
+    },
+    {
+        "DOSE": "6.25 to 12.5 mg/kg",
+        "SINGLE": "9.4 (9.375)",
+        "FREQ": "As recommended.",
+        "ROUTE": "oral",
+        "INSTRUCTION": "As required",
+        "CODE": 808
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 812
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 813
+    },
+    {
+        "DOSE": "0.05 ml",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Transdermal",
+        "INSTRUCTION": "Once or as required",
+        "CODE": 814
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 817
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 815
+    },
+    {
+        "DOSE": "5 to 10 %",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 816
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 819
+    },
+    {
+        "DOSE": 0.05,
+        "SINGLE": "5 (5)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 821
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 823
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 826
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 828
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 830
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 827
+    },
+    {
+        "DOSE": "Not rexcommended in this age group",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 833
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 834
+    },
+    {
+        "DOSE": "12.5 mg/kg",
+        "SINGLE": "12 (12.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 840
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 839
+    },
+    {
+        "DOSE": "16.66 to 33.33 mg/kg",
+        "SINGLE": "25 (24.995)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 842
+    },
+    {
+        "DOSE": "16.66 to 33.33 mg/kg",
+        "SINGLE": "25 (24.995)",
+        "FREQ": "8 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 842
+    },
+    {
+        "DOSE": "70 to 150 mg/kg",
+        "SINGLE": "110 (110)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intravenous",
+        "INSTRUCTION": " ",
+        "CODE": 831
+    },
+    {
+        "DOSE": "25 to 100 mg/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "-",
+        "CODE": 844
+    },
+    {
+        "DOSE": "25 to 100 mg/kg",
+        "SINGLE": "62 (62.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "-",
+        "CODE": 844
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 843
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 845
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 846
+    },
+    {
+        "DOSE": 0.048,
+        "SINGLE": "4.8 (4.8)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "-",
+        "CODE": 850
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 852
+    },
+    {
+        "DOSE": 0.087,
+        "SINGLE": "8.7 (8.7)",
+        "FREQ": "6 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "Recommended for children over 4 months",
+        "CODE": 853
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 854
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 855
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 856
+    },
+    {
+        "DOSE": "7.5 mg/kg",
+        "SINGLE": "7.5 (7.5)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Oral",
+        "INSTRUCTION": "-",
+        "CODE": 858
+    },
+    {
+        "DOSE": 0.03,
+        "SINGLE": "3 (3)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "For not more than 7 days",
+        "CODE": 860
+    },
+    {
+        "DOSE": "Not rcommended in this age goup",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": " ",
+        "CODE": 869
+    },
+    {
+        "DOSE": "0.5 mg",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Opthalmic",
+        "INSTRUCTION": "Once or repeated in 5min as required",
+        "CODE": 871
+    },
+    {
+        "DOSE": "0.05 to 0.1 ug/kg/min",
+        "SINGLE": "0.075 (0.075)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Initial",
+        "CODE": 870
+    },
+    {
+        "DOSE": "0.01 to 0.4 ug/kg/min",
+        "SINGLE": 36557.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Infusion",
+        "INSTRUCTION": "Maintenance, As required",
+        "CODE": 870
+    },
+    {
+        "DOSE": "3 to 4 mg/kg",
+        "SINGLE": "3.5 (3.5)",
+        "FREQ": "24 hourly",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": " ",
+        "CODE": 875
+    },
+    {
+        "DOSE": 0.16,
+        "SINGLE": "16 (16)",
+        "FREQ": "12 hourly",
+        "ROUTE": "Topical",
+        "INSTRUCTION": "As Required",
+        "CODE": 876
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 873
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 859
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 884
+    },
+    {
+        "DOSE": "125 mg/kg",
+        "SINGLE": "120 (125)",
+        "FREQ": "8 hourly",
+        "ROUTE": "oral",
+        "INSTRUCTION": " ",
+        "CODE": 886
+    },
+    {
+        "DOSE": "10000 to 30000 IU",
+        "SINGLE": "20000 (20000)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Muscular",
+        "INSTRUCTION": "Once or as Required",
+        "CODE": 888
+    },
+    {
+        "DOSE": "10000 to 30000 IU",
+        "SINGLE": "20000 (20000)",
+        "FREQ": "As recommended.",
+        "ROUTE": "Intra Venous",
+        "INSTRUCTION": "Once or as Required",
+        "CODE": 888
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 885
+    },
+    {
+        "DOSE": "0.5 ml",
+        "SINGLE": 36647.00013888889,
+        "FREQ": "As recommended.",
+        "ROUTE": "Intramuscular",
+        "INSTRUCTION": "3 doses at interval of 4 weeks,4th dose after 3---12 month",
+        "CODE": 889
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 893
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 897
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 894
+    },
+    {
+        "DOSE": " ",
+        "SINGLE": " ",
+        "FREQ": " ",
+        "ROUTE": " ",
+        "INSTRUCTION": "Not recommended in this age group",
+        "CODE": 898
+    }
+]
